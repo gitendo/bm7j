@@ -439,7 +439,7 @@ sub_44_4309:
 ;	dec	b
 ;	jp	nz,loc_44_431F
 ;	xor	a
-	lib	inc/1x1_names.s	; copy_name, patched writer 
+	lib	1x1_names.s	; copy_name, patched writer 
 	ld	($FF4F),a
 	ret
 
@@ -616,7 +616,7 @@ byte_44_615F:
 	db	$01,$00,$01,$00,$01,$00,$03,$00,$03,$00,$07,$00,$1F,$00,$FF,$00
 
 byte_44_695F:
-	lib	inc/window.i
+	lib	window.i
 
 byte_44_6A01:
 	db	$14
@@ -913,7 +913,7 @@ byte_44_7AB6:
 	db	$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00
 
 off_44_7AF6:
-	lib	inc/names.i	; names
+	lib	names.i	; names
 ; ---------------------------------------------------------------------------
 sub_44_7B7A:
 	xor	a		; $7B7A
@@ -1054,4 +1054,4 @@ sub_44_7D53:
 	jp	$4D5
 
 byte_44_7D65:
-	lib	inc/selector.i	; writer, selector window
+	lib	selector.i	; writer, selector window

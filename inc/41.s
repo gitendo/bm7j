@@ -442,7 +442,7 @@ sub_41_4309:
 ;	jp	nz,loc_41_431F
 ;	xor	a
 
-	lib	inc/1x1_names.s
+	lib	1x1_names.s
 
 	ld	($FF4F),a 	; padding
 	ret
@@ -741,7 +741,7 @@ byte_41_5D8E:
 	db	$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00
 
 unk_41_658E:
-	lib	inc/window.i
+	lib	window.i
 
 unk_41_6630:
 	db	$14
@@ -1030,7 +1030,7 @@ word_41_76E5:
 	dw	$0000,$0000,$0000,$0000,$0000,$0000,$0000,$0000
 
 off_41_7725:
-	lib	inc/names.i	; names
+	lib	names.i	; names
 ; ---------------------------------------------------------------------------
 sub_41_77A9:
 	xor	a		; $77A9
@@ -1147,4 +1147,4 @@ sub_41_78FB:
 	jp	$4D5
 
 unk_41_790D:
-	lib	inc/selector.i
+	lib	selector.i

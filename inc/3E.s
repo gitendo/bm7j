@@ -650,7 +650,7 @@ sub_3E_44EF:
 	ld	l,a
 	ld	de,$9000
 
-	lib	inc/1x1_names.s		; copy_name, patched writer 
+	lib	1x1_names.s		; copy_name, patched writer 
 
 ;	ld	b,5
 ;
@@ -755,7 +755,7 @@ byte_3E_4D94:
 	db	$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00,$00
 
 unk_3E_4E24:
-	lib	inc/window.i		; writer, window map for 1x2
+	lib	window.i		; writer, window map for 1x2
 
 unk_3E_4EC6:
 	db	$14
@@ -1476,4 +1476,4 @@ word_3E_78D0:
 	dw	$5D8A,$42FF,$0112,$0000,$7FFF,$0000,$4210,$1EFF
 
 off_3E_7910:
-	lib	inc/names.i	; names
+	lib	names.i	; names
