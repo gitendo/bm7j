@@ -34,7 +34,7 @@ Build system requires:
 - Intelligent Systems assembler and linker
 - [isx2gb](https://github.com/gitendo/isx2gb) - get latest version, available from my repository
 
-After successful assembly and linking proces you should get translated file  `bm7j-patched.gbc` in `rom` directory. Feel free to PR makefile for Linux users - I'm too lazy to create one.
+After successful assembly and linking process you should get translated file  `bm7j-patched.gbc` in `rom` directory. Feel free to PR makefile for Linux users - I'm too lazy to create one.
 
 Pictures of limited run physical release for die hard collectors and Macross fans! (Nope, I don't sell these so don't ask.)
 
