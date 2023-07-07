@@ -1,0 +1,1 @@
+Put `Macross 7: Ginga no Heart o Furuwasero!!` (`88746c361cfbdac49e5d72807b396a6667c42229`) ROM here and rename it to `bm7j.gbc`.
