@@ -1,0 +1,50 @@
+; referenced at 45:43b1
+; located at 45:4eaf
+;		 <---------------->
+	db	LEFT, MAX, GFX0
+	db	"We've taken care",$FE
+	db	"of them.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"We've stopped",$FE
+	db	"their attack!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I still want to",$FE
+	db	"rock more songs!",$FD
+	db	RIGHT, MAX, GFX2
+	db	"How reckless...",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Even if you tell",$FE
+	db	"him, Basara won't",$FE
+	db	"listen anyway.",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Arrgh, shut up!",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"Captain,",$FE
+	db	"the enemy is still",$FE
+	db	"attacking!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"What is his",$FE
+	db	"true form!?",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Something big is",$FE
+	db	"coming from",$FE
+	db	"inside!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"So there's still",$FE
+	db	"more enemies",$FE
+	db	"inside?",$FD
+	db	LEFT, MAX, GFX1
+	db	"Let's get",$FE 
+	db	"outta here!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"We've come this",$FE
+	db	"far, we can't",$FE
+	db	"stop now!",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"We'll be in danger",$FE
+	db	"if we stay here.",$FD
+	db	RIGHT, MAX, GFX2
+	db	"How powerful is",$FE
+	db	"this monster's",$FE
+	db	"true form!?",$FE
+	db	"We'll see!",$FF

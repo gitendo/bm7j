@@ -1,0 +1,53 @@
+﻿; referenced at 46:43c9
+; located at 46:5128
+
+LEFT, MILIA, GFX1
+"このままだと",$FE
+"不利ね",$FD
+
+RIGHT, GAMLIN, GFX1
+"もうすぐそこまで",$FE
+"来ています！！",$FD
+
+LEFT, BASARA, GFX1
+"お前らは先に行け！",$FD
+
+RIGHT, GAMLIN, GFX1
+"バサラ！",$FE
+"お前まさか…！",$FD
+
+LEFT, BASARA, GFX3
+"コイツには",$FE
+"俺のソロライブを",$FE
+"聞かせてやるぜ",$FD
+
+RIGHT, MILIA, GFX1
+"無茶よ！１人じゃ",$FE
+"危険だわ！",$FD
+
+LEFT, BASARA, GFX1
+"響かせてやるぜ！",$FE
+"俺のサウンドを！",$FD
+
+RIGHT, GAMLIN, GFX0
+"いけるのか…",$FE
+"バサラ？",$FD
+
+LEFT, BASARA, GFX3
+"まかせとけ！！",$FE
+"最高のステージに",$FE
+"してやるぜ！",$FD
+
+RIGHT, MILIA, GFX0
+"気をつけるのよ！",$FD
+
+LEFT, GAMLIN, GFX3
+"行けバサラ！",$FE
+"思いっきり",$FE
+"歌ってこい！",$FD
+
+RIGHT, BASARA, GFX1
+"やってやるぜ！！",$FE
+"ファイヤー！",$FF
+
+; size: 412 bytes

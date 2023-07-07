@@ -1,0 +1,11 @@
+; referenced at 43:7a03
+; located at 43:7aa0
+;		 <---------------->
+	db	"The more we",$FE
+	db	"advance deep down",$FE
+	db	"this fortress,",$FE
+	db	"the more complex",$FE
+	db	"it becomes.",$FE
+	db	"There are many",$FE
+	db	"enemies coming",$FE
+	db	"right for us!",$FF

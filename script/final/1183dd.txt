@@ -1,0 +1,56 @@
+; referenced at 46:43dd
+; located at 46:62e5
+;		 <---------------->
+	db	LEFT, RAY, GFX1
+	db	"At this rate,",$FE
+	db	"he's going to",$FE
+	db	"overwhelm us!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"It's all about",$FE 
+	db	"time now!",$FD
+	db	LEFT, MAX, GFX1
+	db	"We can't escape!",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Wooaaah! Listen to",$FE
+	db	"my song!",$FD
+	db	RIGHT, RAY, GFX3
+	db	"You've found us!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Where have you",$FE
+	db	"been!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"You guys go first!",$FD
+	db	LEFT, MAX, GFX1
+	db	"Basara, what are",$FE
+	db	"you going to do!?",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"I'll make him",$FE 
+	db	"listen to my solo",$FE 
+	db	"presentation live!",$FD
+	db	LEFT, RAY, GFX0
+	db	"You're quite",$FE
+	db	"confident,",$FE
+	db	"aren't you?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, BASARA, GFX0
+	db	"This is the spe-",$FE
+	db	"cial stage where I",$FE 
+	db	"wanted to perform",$FE
+	db	"all along!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"Don't be",$FE
+	db	"so reckless!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Just be careful,",$FE
+	db	"alright?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Go, Basara! Sing",$FE
+	db	"with all your",$FE
+	db	"power!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"It's time for me",$FE
+	db	"to act!",$FE
+	db	"Fireee!",$FF

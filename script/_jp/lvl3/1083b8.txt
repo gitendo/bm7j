@@ -1,0 +1,42 @@
+﻿; referenced at 42:43b8
+; located at 42:45cc
+
+LEFT, MYLENE, GFX0
+"何かしらあれ",$FD
+
+RIGHT, MAX, GFX1
+"バルキリーの",$FE
+"残骸か？",$FD
+
+LEFT, BASARA, GFX1
+"誰かいるみたいだぜ",$FD
+
+RIGHT, MYLENE, GFX2
+"しっかりして！！",$FD
+
+LEFT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+RIGHT, MAX, GFX1
+"何があったと",$FE
+"いうのだ！！",$FD
+
+LEFT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+RIGHT, BASARA, GFX1
+"チッ…！！",$FD
+
+LEFT, MAX, GFX2
+"この奥にもまだ",$FE
+"残りのメンバーが",$FE
+"いるみたいだな…",$FD
+
+RIGHT, MYLENE, GFX1
+"だったら",$FE
+"いそいで行かなきゃ",$FD
+
+LEFT, BASARA, GFX3
+"行ってやるぜー！！",$FF
+
+; size: 283 bytes

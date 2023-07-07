@@ -1,0 +1,25 @@
+; referenced at 47:43bb
+; located at 47:489a
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX0
+	db	"The Mayor is",$FE
+	db	"here today.",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"It's weird for old",$FE
+	db	"ladies to frequent",$FE
+	db	"these places.",$FD
+	db	LEFT, MILIA, GFX1
+	db	"I'm not that old,",$FE
+	db	"you hear!",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Hey, Basara...",$FD
+	db	LEFT, BASARA, GFX0
+	db	"She's old but the",$FE
+	db	"fire of her youth",$FE
+	db	"will never fade!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"You brat!",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Uhm, Mayor, the",$FE
+	db	"concert is going",$FE
+	db	"to start soon...",$FF

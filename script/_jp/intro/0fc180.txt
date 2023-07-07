@@ -1,0 +1,28 @@
+﻿; referenced at 3f:4180
+; located at 3f:449a
+
+LEFT, MYLENE, GFX0
+"ねぇ[]バサラ",$FE
+"どこだか知らない？",$FD
+
+RIGHT, RAY, GFX3
+"いつもの事じゃ",$FE
+"ないか…ほっとけ",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, MYLENE, GFX2
+"でもー",$FD
+
+RIGHT, RAY, GFX3
+"奴が来ないのは",$FE
+"今始まった事じゃ",$FE
+"ないだろう？",$FD
+
+LEFT, MYLENE, GFX1
+"まったくもー！",$FE
+"いつもいつも",$FE
+"勝手なんだからー！",$FF
+
+; size: 198 bytes

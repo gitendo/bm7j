@@ -1,0 +1,47 @@
+﻿; referenced at 41:43c2
+; located at 41:4e4a
+
+LEFT, GAMLIN, GFX1
+"ここは[]一体",$FE
+"どうなっているんだ",$FD
+
+RIGHT, MAX, GFX2
+"調査隊は",$FE
+"この事を伝えようと",$FE
+"していたのか？",$FD
+
+LEFT, BASARA, GFX1
+"ごちゃごちゃ",$FE
+"うるせー！",$FD
+
+RIGHT, MAX, GFX1
+"大事な事だぞ！！",$FD
+
+RIGHT, GAMLIN, GFX0
+"それにしても",$FE
+"変ですね",$FD
+
+LEFT, MAX, GFX0
+"まったく生活の",$FE
+"気配がないな",$FD
+
+RIGHT, GAMLIN, GFX1
+"それどころか",$FE
+"いやに攻撃的です",$FD
+
+LEFT, BASARA, GFX3
+"誰だろうが",$FE
+"俺の歌を聞けー！！",$FD
+
+RIGHT, MAX, GFX0
+"海を越えて",$FE
+"もう少し調査する",$FE
+"必要があるな",$FD
+
+LEFT, GAMLIN, GFX0
+"そうですね",$FD
+
+RIGHT, BASARA, GFX1
+"俺の話を聞けー！！",$FF
+
+; size: 351 bytes

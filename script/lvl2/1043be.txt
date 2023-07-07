@@ -1,0 +1,33 @@
+; referenced at 41:43be
+; located at 41:4ba1
+;		 <---------------->
+	db	LEFT, MAX, GFX1
+	db	"Geez, that",$FE
+	db	"was reckless!",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"It's okay, right?",$FD
+	db	LEFT, MAX, GFX2
+	db	"We still need to",$FE
+	db	"think about",$FE
+	db	"the team.",$FD
+	db	RIGHT, RAY, GFX3
+	db	"Well, if we keep",$FE
+	db	"going, we might be",$FE
+	db	"able to find them.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, BASARA, GFX0
+	db	"We'll probably",$FE
+	db	"find them slacking",$FE
+	db	"off somewhere.",$FD
+	db	RIGHT, MAX, GFX1
+	db	"Don't say such",$FE
+	db	"a thing.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"I see the ocean.",$FD
+	db	RIGHT, RAY, GFX0
+	db	"There might be",$FE
+	db	"something ahead.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I will let them",$FE
+	db	"hear my songs!",$FF

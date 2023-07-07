@@ -1,0 +1,57 @@
+﻿; referenced at 46:43c3
+; located at 46:4c14
+
+LEFT, MAX, GFX1
+"奴のほうが",$FE
+"スピードが速い！",$FD
+
+RIGHT, RAY, GFX1
+"しかしこのままでは",$FE
+"勝ち目が無いぞ！",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, BASARA, GFX1
+"お前らは先に行け！",$FD
+
+LEFT, MAX, GFX0
+"どうする気だ？",$FD
+
+RIGHT, BASARA, GFX3
+"コイツには",$FE
+"俺のソロライブを",$FE
+"聞かせてやるぜ！",$FD
+
+LEFT, RAY, GFX0
+"自信はあるのか？",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, BASARA, GFX0
+"当たり前の事",$FE
+"聞くんじゃねー",$FD
+
+RIGHT, MAX, GFX0
+"通用するのか？",$FD
+
+LEFT, BASARA, GFX3
+"まかせとけ！！",$FE
+"最高のステージに",$FE
+"してやるぜ！",$FD
+
+RIGHT, MAX, GFX0
+"よし！我々は",$FE
+"このまま退却する",$FD
+
+LEFT, RAY, GFX0
+"行けバサラ！",$FE
+"思いっきり",$FE
+"歌ってこい！",$FD
+
+RIGHT, BASARA, GFX1
+"やってやるぜ！！",$FE
+"ファイヤー！！",$FF
+
+; size: 424 bytes

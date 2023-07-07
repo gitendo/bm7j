@@ -1,0 +1,33 @@
+; referenced at 42:43d6
+; located at 42:5660
+;		 <---------------->
+	db	LEFT, RAY, GFX0
+	db	"That Valkyrie...",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"That's the",$FE 
+	db	"team's Valkyrie",$FE
+	db	"that Max was",$FE
+	db	"talking about.",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"Someone is still",$FE
+	db	"in there!",$FD
+	db	RIGHT, RAY, GFX2
+	db	"Are you okay?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Ugh...!",$FD
+	db	RIGHT, MILIA, GFX2
+	db	"What happened?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Still inside...",$FE
+	db	"Ugh...",$FD
+	db	RIGHT, VEFFIDAS, GFX2
+	db	"...",$FD
+	db	LEFT, MILIA, GFX2
+	db	"Something",$FE
+	db	"suspicious is",$FE
+	db	"going on here...",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Let's hurry!",$FD
+	db	LEFT, MILIA, GFX0
+	db	"This is harder",$FE
+	db	"than I thought.",$FF

@@ -1,0 +1,48 @@
+﻿; referenced at 40:43a9
+; located at 40:4f60
+
+LEFT, MYLENE, GFX2
+"まったくもう",$FE
+"バサラったら…",$FD
+
+RIGHT, RAY, GFX3
+"いつもの事じゃ",$FE
+"ないか",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, GAMLIN, GFX0
+"あんな奴の事",$FE
+"心配する必要は",$FE
+"ないですよ",$FD
+
+LEFT, MYLENE, GFX0
+"一体どこまで",$FE
+"行ったのかしら…",$FD
+
+RIGHT, RAY, GFX0
+"いずれ合流できるさ",$FD
+
+LEFT, MYLENE, GFX2
+"だといいけど",$FD
+
+RIGHT, GAMLIN, GFX3
+"ほっときましょうよ",$FE
+"ミレーヌさん",$FD
+
+RIGHT, VEFFIDAS, GFX1
+"……！！",$FD
+
+LEFT, GAMLIN, GFX1
+"何だ？！",$FD
+
+LEFT, RAY, GFX0
+"どうやら簡単には",$FE
+"いかないらしいな！",$FD
+
+RIGHT, MYLENE, GFX1
+"やっばり",$FE
+"こうなるのね！！",$FF
+
+; size: 324 bytes

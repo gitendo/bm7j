@@ -1,0 +1,8 @@
+; referenced at 43:7a44
+; located at 43:7ada
+;		 <---------------->
+	db	"There's a space-",$FE
+	db	"ship with a",$FE
+	db	"powerful reactor",$FE
+	db	"ahead, proceed",$FE
+	db	"with caution!",$FF

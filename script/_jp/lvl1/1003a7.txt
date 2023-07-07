@@ -1,0 +1,49 @@
+﻿; referenced at 40:43a7
+; located at 40:4dda
+
+LEFT, BASARA, GFX1
+"何でお前らまで",$FE
+"ついて来るんだよ！",$FD
+
+RIGHT, MAX, GFX1
+"自分が何を",$FE
+"やってるか分かって",$FE
+"いるのか！！",$FD
+
+RIGHT, MILIA, GFX3
+"まったく落ち着きの",$FE
+"無い子ねー",$FD
+
+LEFT, BASARA, GFX1
+"いいじゃねーか！！",$FD
+
+RIGHT, MAX, GFX2
+"事の重大さが",$FE
+"分かっているのか？",$FD
+
+LEFT, MILIA, GFX3
+"いつもの事だから",$FE
+"なれたけどね",$FD
+
+RIGHT, MAX, GFX1
+"先に行った調査隊が",$FE
+"帰ってないんだぞ！",$FD
+
+LEFT, BASARA, GFX3
+"知るか！俺は",$FE
+"歌いに来ただけだぜ",$FD
+
+RIGHT, MAX, GFX1
+"いいかげんに…",$FD
+
+LEFT, MILIA, GFX1
+"マックスあれは！！",$FD
+
+RIGHT, MAX, GFX2
+"やはり…",$FD
+
+LEFT, BASARA, GFX3
+"上等じゃねーか！！",$FE
+"ボンバー！！",$FF
+
+; size: 390 bytes

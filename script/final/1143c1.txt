@@ -1,0 +1,45 @@
+; referenced at 45:43c1
+; located at 45:5a55
+;		 <---------------->
+	db	LEFT, MYLENE, GFX3
+	db	"Yay! We have",$FE
+	db	"defeated them!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"We can go home now",$FD
+	db	LEFT, MAX, GFX0
+	db	"Let's withdraw.",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"Don't you think",$FE
+	db	"it's strange...?",$FD
+	db	LEFT, MAX, GFX1
+	db	"Just because we",$FE
+	db	"have defeated",$FE
+	db	"them, it doesn't",$FE
+	db	"mean the",$FE 
+	db	"brainwashing has",$FE
+	db	"stopped!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"Looks like play",$FE
+	db	"time isn't",$FE
+	db	"over yet....",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"So the guy earlier",$FE
+	db	"was not the",$FE
+	db	"boss!?",$FD
+	db	RIGHT, MAX, GFX2
+	db	"and that was not",$FE
+	db	"the true form!",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Max! This place",$FE
+	db	"is collapsing!",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"What should we do?",$FD
+	db	LEFT, MAX, GFX1
+	db	"Let's get",$FE
+	db	"out of here!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"That's the",$FE
+	db	"best choice!",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"Basara... I wonder",$FE
+	db	"if he's okay...",$FF

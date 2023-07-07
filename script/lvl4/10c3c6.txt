@@ -1,0 +1,43 @@
+; referenced at 43:43c6
+; located at 43:5172
+;		 <---------------->
+	db	LEFT, MILIA, GFX0
+	db	"Is this really an",$FE
+	db	"ordinary planet?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"They are getting",$FE
+	db	"exposed.",$FD
+	db	LEFT, BASARA, GFX0
+	db	"It looks like",$FE
+	db	"something great is",$FE
+	db	"about to happen.",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"It's like there's",$FE
+	db	"a presence here.",$FD
+	db	LEFT, MAX, GFX0
+	db	"The song energy",$FE
+	db	"seems to pass",$FE
+	db	"through.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"Listen to my song!",$FE
+	db	"Even more!",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Who did this?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Looking at the",$FE
+	db	"situation,",$FE
+	db	"something",$FE
+	db	"important must be",$FE
+	db	"inside.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's hurry!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"What kind of",$FE
+	db	"people are they?",$FD
+	db	LEFT, MAX, GFX2
+	db	"It's gonna get",$FE
+	db	"more dangerous",$FE 
+	db	"from here on out!",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"Let's go!",$FE
+	db	"Fire!",$FF

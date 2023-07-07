@@ -1,0 +1,46 @@
+; referenced at 45:43af
+; located at 45:4d3f
+;		 <---------------->
+	db	LEFT, BASARA, GFX3
+	db	"Yeah!",$FD
+	db	RIGHT, RAY, GFX0
+	db	"This is okay now,",$FE
+	db	"right?",$FD
+	db	LEFT, MILIA, GFX3
+	db	"You surprised me.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"I still want to",$FE
+	db	"rock more songs!",$FD
+	db	LEFT, MILIA, GFX0
+	db	"You sure have",$FE
+	db	"a lot of energy.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, RAY, GFX1
+	db	"The enemy is still",$FE
+	db	"attacking!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"What!?",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Something big is",$FE
+	db	"coming from",$FE
+	db	"inside!",$FD
+	db	RIGHT, RAY, GFX0
+	db	"This is the",$FE
+	db	"true form...",$FD
+	db	LEFT, MILIA, GFX2
+	db	"Let's get",$FE 
+	db	"outta here!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"We've come this",$FE
+	db	"far, we can't",$FE
+	db	"stop now!",$FD
+	db	LEFT, RAY, GFX0
+	db	"This entire place",$FE
+	db	"is going to",$FE
+	db	"collapse!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"If this is his",$FE
+	db	"true form, my Zen-",$FE
+	db	"tradi blood will",$FE
+	db	"burn him!",$FF

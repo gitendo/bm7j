@@ -1,0 +1,17 @@
+; referenced at 47:43bd
+; located at 47:4993
+;		 <---------------->
+	db	LEFT, MILIA, GFX0
+	db	"Is Mylene here?",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"That's unusual.",$FD
+	db	LEFT, MAX, GFX0
+	db	"Mylene told us",$FE
+	db	"to come.",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"She's not here.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"After you listen",$FE
+	db	"to her special",$FE
+	db	"song, you'll be",$FE
+	db	"impressed.",$FF

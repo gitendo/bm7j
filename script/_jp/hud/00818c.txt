@@ -1,0 +1,7 @@
+﻿; referenced at 02:418c
+; located at 02:4510
+
+"ミレーヌさーん",$FF,$FE
+"",$FF,$FF
+
+; size: 18 bytes

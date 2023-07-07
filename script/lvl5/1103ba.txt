@@ -1,0 +1,49 @@
+; referenced at 44:43ba
+; located at 44:491c
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"I hate this place.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"Don't get all",$FE 
+	db	"moody at this",$FE
+	db	"moment.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"I'm delicate,",$FE 
+	db	"you see?",$FD
+	db	RIGHT, BASARA, GFX2
+	db	"What are you",$FE
+	db	"talking about?",$FE
+	db	"Old lady.",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Who are you",$FE
+	db	"calling an old",$FE
+	db	"lady? Huh!?",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Is that the",$FE
+	db	"Assessment",$FE
+	db	"team?",$FD
+	db	RIGHT, MILIA, GFX2
+	db	"Hang in there!",$FD
+	db	LEFT, PILOT, GFX0
+	db	"It's dangerous",$FE
+	db	"here...",$FE
+	db	"Please return.",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"What do you mean?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"All of those",$FE
+	db	"creatures are",$FE
+	db	"targeting us...",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Eh!?",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"Many of them seem",$FE
+	db	"to be brainwashed",$FD
+	db	LEFT, BASARA, GFX2
+	db	"I knew it!",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Wait here, we",$FE
+	db	"won't let the",$FE
+	db	"monster respon-",$FE
+	db	"sible get away",$FE
+	db	"with it!",$FF

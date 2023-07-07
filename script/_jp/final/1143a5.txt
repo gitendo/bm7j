@@ -1,0 +1,53 @@
+﻿; referenced at 45:43a5
+; located at 45:4568
+
+LEFT, BASARA, GFX3
+"ヨッシャー！！",$FD
+
+RIGHT, GAMLIN, GFX0
+"これで終わりだろう",$FD
+
+LEFT, MYLENE, GFX0
+"要塞を",$FE
+"破壊したんだもんね",$FD
+
+RIGHT, BASARA, GFX3
+"まだまだ",$FE
+"歌いたりねーぜ！",$FD
+
+LEFT, GAMLIN, GFX2
+"すぐ調子にのる",$FD
+
+RIGHT, MYLENE, GFX1
+"ちょっとぉ！！",$FE
+"敵の攻撃が",$FE
+"まだ終わらないわ！",$FD
+
+LEFT, GAMLIN, GFX1
+"どういう事だ！",$FD
+
+RIGHT, BASARA, GFX1
+"なんか奥から",$FE
+"でけぇ奴が来るぜ！",$FD
+
+LEFT, MYLENE, GFX2
+"もぅ[]いや！！",$FD
+
+RIGHT, GAMLIN, GFX1
+"ここは",$FE
+"引き返しましょう",$FD
+
+LEFT, BASARA, GFX1
+"ここまで来て",$FE
+"やめられるか！！",$FD
+
+RIGHT, MYLENE, GFX1
+"何言っているのよ！",$FE
+"ここはもう",$FE
+"崩れそうなのよ！",$FD
+
+LEFT, GAMLIN, GFX1
+"先に安全を",$FE
+"確保するんだ！！",$FF
+
+; size: 399 bytes

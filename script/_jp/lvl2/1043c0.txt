@@ -1,0 +1,51 @@
+﻿; referenced at 41:43c0
+; located at 41:4cc9
+
+LEFT, MILIA, GFX0
+"まったく",$FE
+"無茶する子ねー",$FD
+
+RIGHT, RAY, GFX3
+"バサラに",$FE
+"何を言っても",$FE
+"しょうがないですよ",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, BASARA, GFX1
+"うるせー！",$FE
+"いいじゃねーか！",$FD
+
+RIGHT, MILIA, GFX0
+"けど[]マックスが",$FE
+"言っていた事が",$FE
+"気になるわね",$FD
+
+LEFT, RAY, GFX0
+"まぁ[]先に進めば",$FE
+"見つかるかも",$FE
+"しれないですし",$FD
+
+RIGHT, BASARA, GFX3
+"どっかで",$FE
+"サボってるんじゃ",$FE
+"ないか？",$FD
+
+LEFT, MILIA, GFX1
+"そんなわけ",$FE
+"ないでしょ！！",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, RAY, GFX0
+"海が見えるな",$FE
+"この先に何か",$FE
+"あるかもしれないな",$FD
+
+LEFT, BASARA, GFX3
+"俺の歌を",$FE
+"聞かせてやるぜー！",$FF
+
+; size: 385 bytes

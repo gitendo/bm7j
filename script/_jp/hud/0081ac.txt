@@ -1,0 +1,8 @@
+﻿; referenced at 02:41ac
+; located at 02:45f0
+
+"こんな事に",$1E,$FE
+"なるとは…",$1E,$FE
+"",$FF,$FF
+
+; size: 26 bytes

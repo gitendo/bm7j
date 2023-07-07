@@ -1,0 +1,45 @@
+﻿; referenced at 43:43ce
+; located at 43:5756
+
+LEFT, MYLENE, GFX2
+"一体この洞窟",$FE
+"どこまで",$FE
+"あるのかしら",$FD
+
+RIGHT, MAX, GFX0
+"ここは自然洞窟では",$FE
+"ないだろう",$FD
+
+LEFT, MYLENE, GFX0
+"どういう事？パパ",$FD
+
+RIGHT, GAMLIN, GFX0
+"何らかの者の",$FE
+"手によって造られた",$FE
+"という事です",$FD
+
+LEFT, MAX, GFX0
+"所々が機械的に",$FE
+"なっているからな",$FD
+
+RIGHT, MYLENE, GFX2
+"誰がこんな事を",$FE
+"しているのかしら",$FD
+
+LEFT, GAMLIN, GFX0
+"少なくとも",$FE
+"この奥に重要な物が",$FE
+"あるんでしょう",$FD
+
+RIGHT, MAX, GFX0
+"この惑星の中心部に",$FE
+"近づきつつある",$FE
+"ようだからな",$FD
+
+LEFT, MYLENE, GFX0
+"何があるのかしら",$FD
+
+RIGHT, MAX, GFX1
+"行くしかあるまい",$FF
+
+; size: 368 bytes

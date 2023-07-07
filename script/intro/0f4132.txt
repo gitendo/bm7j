@@ -1,0 +1,13 @@
+; referenced at 3d:4132
+; located at 3d:447c
+;		 <---------------->
+	db	"During the space",$FE
+	db	"expedition,",$FE
+	db	"the Macross 7",$FE
+	db	"fleet found",$FE
+	db	"a new planet where",$FE
+	db	"mankind could",$FE
+	db	"subsist",$FE
+	db	"peacefully.",$FE
+	db	"At that time,",$FE
+	db	"in City 7...",$FF

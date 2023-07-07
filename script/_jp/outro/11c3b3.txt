@@ -1,0 +1,23 @@
+﻿; referenced at 47:43b3
+; located at 47:4620
+
+LEFT, GAMLIN, GFX0
+"バサラ",$FE
+"応援に来たぞ",$FD
+
+RIGHT, BASARA, GFX0
+"俺の歌を",$FE
+"聞きに来たのか？",$FD
+
+LEFT, RAY, GFX3
+"まあ",$FE
+"楽しんでいってくれ",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, GAMLIN, GFX3
+"俺は客席のほうに",$FE
+"いるからな",$FF
+
+; size: 127 bytes

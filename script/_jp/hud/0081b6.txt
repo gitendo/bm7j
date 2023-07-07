@@ -1,0 +1,7 @@
+﻿; referenced at 02:41b6
+; located at 02:4660
+
+"これでいけるわ",$1E,$FE
+"",$FF,$FF
+
+; size: 18 bytes

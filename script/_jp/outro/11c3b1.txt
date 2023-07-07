@@ -1,0 +1,22 @@
+﻿; referenced at 47:43b1
+; located at 47:4595
+
+LEFT, MILIA, GFX0
+"ミレーヌ来たわよ",$FD
+
+RIGHT, MYLENE, GFX3
+"ママ！",$FE
+"来てくれたの？",$FD
+
+LEFT, BASARA, GFX3
+"オバサンが",$FE
+"来るなんて珍しいな",$FD
+
+RIGHT, MILIA, GFX1
+"私はオバサンじゃ",$FE
+"ないわよ！！",$FD
+
+LEFT, MYLENE, GFX2
+"また始まったわ…",$FF
+
+; size: 139 bytes

@@ -1,0 +1,7 @@
+﻿; referenced at 02:415c
+; located at 02:4384
+
+"ラッキー★",$1E,$FE
+"",$FF,$FF
+
+; size: 14 bytes

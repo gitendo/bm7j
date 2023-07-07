@@ -1,0 +1,33 @@
+; referenced at 40:43b5
+; located at 40:5777
+;		 <---------------->
+	db	LEFT, RAY, GFX3
+	db	"Go on first...",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"Don't say that!",$FD
+	db	LEFT, MAX, GFX2
+	db	"I'm worried",$FE
+	db	"about them.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"About the team?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"If it's Basara,",$FE
+	db	"I'm sure",$FE
+	db	"he'll be fine.",$FD
+	db	LEFT, MAX, GFX1
+	db	"That's not it!",$FD
+	db	RIGHT, RAY, GFX0
+	db	"More importantly",$FE
+	db	"how far is it",$FE
+	db	"going to be?",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"We've confirmed",$FE
+	db	"the enemy position",$FD
+	db	RIGHT, MAX, GFX2
+	db	"I knew it...",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"Bomber...",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Veffidas?",$FF

@@ -1,0 +1,7 @@
+﻿; referenced at 02:4164
+; located at 02:43b0
+
+"まだいるの？",$1E,$FE
+"",$FF,$FF
+
+; size: 16 bytes

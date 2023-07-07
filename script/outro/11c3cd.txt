@@ -1,0 +1,24 @@
+; referenced at 47:43cd
+; located at 47:4ecb
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX0
+	db	"Mayor Milia is",$FE
+	db	"here.",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"Is Mylene here?",$FD
+	db	LEFT, RAY, GFX0
+	db	"Looks like she's",$FE
+	db	"looking for you.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"I see...",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Tell her that",$FE
+	db	"we'll be watching",$FE
+	db	"her from",$FE
+	db	"the audience.",$FD
+	db	RIGHT, RAY, GFX3
+	db	"I'm sure Mylene",$FE
+	db	"will be so happy.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"Tell her you love",$FE
+	db	"her, time's up.",$FF

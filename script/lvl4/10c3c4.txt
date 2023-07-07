@@ -1,0 +1,41 @@
+; referenced at 43:43c4
+; located at 43:4f9c
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX0
+	db	"Don't you think",$FE
+	db	"the landscape of",$FE
+	db	"this area is",$FE
+	db	"strange?",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"Indeed, they are",$FE
+	db	"getting exposed.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Looks like it.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"What does it mean?",$FD
+	db	LEFT, BASARA, GFX3
+	db	"They are getting",$FE
+	db	"the stage",$FE
+	db	"ready for me!",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"Of course you'd",$FE
+	db	"think that way.",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"Think more about",$FE
+	db	"our situation!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Don't say things",$FE
+	db	"that make people",$FE
+	db	"more depressed!",$FD
+	db	LEFT, MILIA, GFX0
+	db	"There's something",$FE
+	db	"important here.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Probably the main",$FE
+	db	"power core.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Let's go and",$FE
+	db	" destroy it.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"Let's go!",$FE
+	db	"Fire!",$FF

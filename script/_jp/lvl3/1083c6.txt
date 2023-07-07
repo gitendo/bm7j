@@ -1,0 +1,42 @@
+﻿; referenced at 42:43c6
+; located at 42:4d8f
+
+LEFT, BASARA, GFX0
+"何か転がっているぜ",$FD
+
+RIGHT, MILIA, GFX0
+"マックスが言ってた",$FE
+"調査隊の機体じゃ",$FE
+"ないかしら？",$FD
+
+LEFT, MAX, GFX0
+"生存者が",$FE
+"残ってるかもしれん",$FD
+
+RIGHT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+LEFT, MILIA, GFX2
+"大丈夫？",$FD
+
+RIGHT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+LEFT, BASARA, GFX1
+"チッ…！！",$FD
+
+RIGHT, MILIA, GFX2
+"調査隊は",$FE
+"これで全員なの？",$FD
+
+LEFT, MAX, GFX2
+"いや[]まだ他に",$FE
+"何名かいるはずだ",$FD
+
+RIGHT, MILIA, GFX0
+"後を追いましょう",$FD
+
+LEFT, BASARA, GFX3
+"行ってやるぜー！！",$FF
+
+; size: 289 bytes

@@ -1,0 +1,50 @@
+﻿; referenced at 41:43d0
+; located at 41:56a5
+
+LEFT, MYLENE, GFX1
+"一体どうなってるの",$FE
+"ここは！！",$FD
+
+RIGHT, GAMLIN, GFX3
+"大丈夫ですよ",$FE
+"ミレーヌさん",$FE
+"自分がついています",$FD
+
+LEFT, MILIA, GFX3
+"私の事は[]守って",$FE
+"くれないのかしら？",$FD
+
+RIGHT, GAMLIN, GFX0
+"男は女性を",$FE
+"守るものです",$FD
+
+LEFT, MILIA, GFX0
+"頼もしいこと",$FD
+
+RIGHT, MYLENE, GFX0
+"それにしても",$FE
+"何で攻撃して",$FE
+"くるのかしら",$FD
+
+LEFT, GAMLIN, GFX0
+"迎撃[]もしくは",$FE
+"攻撃に適しすぎた",$FE
+"環境ですね",$FD
+
+RIGHT, MILIA, GFX3
+"何か隠し事でも",$FE
+"あるかのようにね",$FD
+
+LEFT, MYLENE, GFX3
+"ママ！海が見えるわ",$FD
+
+RIGHT, MILIA, GFX0
+"この先に",$FE
+"何かあるかも",$FE
+"しれないわね",$FD
+
+LEFT, MYLENE, GFX3
+"海かー",$FE
+"泳いでいきたいなー",$FF
+
+; size: 399 bytes

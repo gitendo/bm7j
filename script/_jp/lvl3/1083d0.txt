@@ -1,0 +1,42 @@
+﻿; referenced at 42:43d0
+; located at 42:52fe
+
+LEFT, MYLENE, GFX0
+"何かしらあれ",$FD
+
+RIGHT, MILIA, GFX0
+"マックスが言ってた",$FE
+"調査隊の機体じゃ",$FE
+"ないかしら",$FD
+
+LEFT, GAMLIN, GFX1
+"生存者が",$FE
+"いるかもしれません",$FD
+
+RIGHT, MYLENE, GFX2
+"しっかりして！！",$FD
+
+LEFT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+RIGHT, MILIA, GFX2
+"何があったの？",$FD
+
+LEFT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+RIGHT, GAMLIN, GFX2
+"……",$FD
+
+LEFT, MILIA, GFX2
+"奥にまだ",$FE
+"何かあるようね",$FD
+
+RIGHT, MYLENE, GFX1
+"とりあえず行こうよ",$FD
+
+LEFT, GAMLIN, GFX0
+"ミレーヌさん",$FE
+"気をつけて下さい",$FF
+
+; size: 277 bytes

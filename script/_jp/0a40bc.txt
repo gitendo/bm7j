@@ -1,0 +1,9 @@
+﻿; referenced at 29:40bc
+; located at 29:4476
+
+"艦内レーダーで",$FE
+"惑星出口を確認！",$FE
+"敵反応も多数！",$FE
+"各機迎撃シフト！！",$FF
+
+; size: 70 bytes

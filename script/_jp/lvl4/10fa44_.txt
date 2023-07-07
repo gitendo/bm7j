@@ -1,0 +1,7 @@
+﻿; referenced at 00:0000
+; located at 43:7b06
+
+"使用機種を選択して",$FE
+"ください",$FF
+
+; size: 30 bytes

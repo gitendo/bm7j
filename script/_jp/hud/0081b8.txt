@@ -1,0 +1,7 @@
+﻿; referenced at 02:41b8
+; located at 02:4642
+
+"やるわね！",$1E,$FE
+"",$FF,$FF
+
+; size: 14 bytes

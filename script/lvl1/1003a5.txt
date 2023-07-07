@@ -1,0 +1,32 @@
+; referenced at 40:43a5
+; located at 40:4cb4
+;		 <---------------->
+	db	LEFT, BASARA, GFX1
+	db	"Why are you guys",$FE
+	db	"coming with me!?",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"You always do",$FE
+	db	"whatever you want.",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"That's right!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"So annoying!",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"If you want to go,",$FE
+	db	"just go",$FD
+	db	LEFT, GAMLIN, GFX2
+	db	"Major Milia.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I just want them",$FE
+	db	"to listen to",$FE
+	db	"my rock songs!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"Basara... we've",$FE
+	db	"confirmed the",$FE
+	db	"enemy position!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"Are they going",$FE
+	db	"to attack us!?",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's go!",$FE
+	db	"Bomber!",$FF

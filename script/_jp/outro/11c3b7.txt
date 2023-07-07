@@ -1,0 +1,28 @@
+﻿; referenced at 47:43b7
+; located at 47:4749
+
+LEFT, MILIA, GFX0
+"ミレーヌは",$FE
+"いるかしら？",$FD
+
+RIGHT, RAY, GFX0
+"ちょうど",$FE
+"探しに行った",$FE
+"みたいですけど",$FD
+
+LEFT, BASARA, GFX0
+"オバサンが来るのを",$FE
+"楽しみに",$FE
+"していたからな",$FD
+
+RIGHT, MILIA, GFX1
+"だ[]誰が",$FE
+"オバサンですって！",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, RAY, GFX2
+"やれやれ…",$FF
+
+; size: 178 bytes

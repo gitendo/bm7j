@@ -1,0 +1,8 @@
+; referenced at 40:6b1d
+; located at 40:6bda
+;		 <---------------->
+	db	"The sound attack",$FE
+	db	"seems to be",$FE
+	db	"effective against",$FE
+	db	"enemy spaceships!",$FF
+

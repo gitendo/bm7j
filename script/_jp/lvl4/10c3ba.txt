@@ -1,0 +1,50 @@
+﻿; referenced at 43:43ba
+; located at 43:47c4
+
+LEFT, MYLENE, GFX0
+"ここ[]本当に",$FE
+"洞窟なのかしら",$FD
+
+RIGHT, BASARA, GFX0
+"当然だろ",$FD
+
+LEFT, MYLENE, GFX1
+"何で機械が",$FE
+"いっばいころがって",$FE
+"いるのよ！！",$FD
+
+RIGHT, BASARA, GFX1
+"知るか！！",$FD
+
+LEFT, MILIA, GFX0
+"撃墜されたような",$FE
+"戦闘機が多いわね",$FD
+
+RIGHT, MYLENE, GFX0
+"他にも来た人が",$FE
+"いるって事？",$FD
+
+LEFT, MILIA, GFX0
+"そういう事に",$FE
+"なるわね",$FD
+
+RIGHT, BASARA, GFX3
+"くだらねー",$FE
+"戦闘なんて",$FE
+"やってるからだぜ！",$FD
+
+LEFT, MYLENE, GFX1
+"バサラみたいに",$FE
+"戦わないで",$FE
+"歌ってる人なんて",$FE
+"他にはいないわよ！",$FD
+
+RIGHT, MILIA, GFX3
+"今はとりあえず",$FE
+"先を急ぎましょう",$FD
+
+LEFT, BASARA, GFX3
+"行くぜ！",$FE
+"ファイヤー！！",$FF
+
+; size: 391 bytes

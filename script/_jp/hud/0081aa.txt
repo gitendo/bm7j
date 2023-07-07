@@ -1,0 +1,8 @@
+﻿; referenced at 02:41aa
+; located at 02:45d0
+
+"凡人が天才に",$1E,$FE
+"かなうものか！",$1E,$FE
+"",$FF,$FF
+
+; size: 32 bytes

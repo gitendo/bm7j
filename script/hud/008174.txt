@@ -1,0 +1,6 @@
+; referenced at 02:4174
+; located at 02:443a
+;		 <------------>
+	db	"Don't hurt my "
+	db	"friends again!",$FE,$3C
+	db	$FF

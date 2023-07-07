@@ -1,0 +1,56 @@
+﻿; referenced at 44:43c8
+; located at 44:52f0
+
+LEFT, MYLENE, GFX2
+"動力部はまだなの",$FD
+
+RIGHT, GAMLIN, GFX0
+"もう少しでは",$FE
+"ないでしょうか",$FD
+
+LEFT, RAY, GFX2
+"…何がなんだか",$FE
+"わからんな",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, MYLENE, GFX1
+"あれ[]調査隊じゃ",$FE
+"ないかしら？",$FD
+
+RIGHT, GAMLIN, GFX1
+"大丈夫か？！",$FD
+
+LEFT, PILOT, GFX0
+"ここは危険です…",$FE
+"撤退して下さい",$FD
+
+RIGHT, MYLENE, GFX1
+"エッ？",$FD
+
+LEFT, PILOT, GFX0
+"こいつらの目的は",$FE
+"我々なのです",$FD
+
+RIGHT, RAY, GFX0
+"どういう意味だ？",$FD
+
+LEFT, PILOT, GFX0
+"攻撃しているのは",$FE
+"洗脳された者たち",$FE
+"なのです",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, GAMLIN, GFX1
+"そんな事に",$FE
+"なっているとは…",$FD
+
+RIGHT, MYLENE, GFX1
+"そこで待っていて！",$FE
+"そんな事する奴",$FE
+"許せない！！",$FF
+
+; size: 394 bytes

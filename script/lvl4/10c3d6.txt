@@ -1,0 +1,36 @@
+; referenced at 43:43d6
+; located at 43:5d32
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX0
+	db	"Is this an",$FE
+	db	"entrance?",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"There's no mistake",$FD
+	db	LEFT, RAY, GFX0
+	db	"It looks more and",$FE
+	db	"more like a",$FE
+	db	"fortress.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"The path has",$FE
+	db	"been blocked.",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"If we can destroy",$FE
+	db	"the stronghold",$FE
+	db	"here.",$FD
+	db	LEFT, RAY, GFX3
+	db	"We can only keep",$FE
+	db	"going ahead, eh?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"It was probably",$FE
+	db	"the right thing",$FE 
+	db	"to come here.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Our hope has",$FE
+	db	"turned into",$FE
+	db	"a nightmare!",$FD
+	db	RIGHT, RAY, GFX3
+	db	"This will be over",$FE
+	db	"soon, everything",$FE
+	db	"will be fine.",$FF

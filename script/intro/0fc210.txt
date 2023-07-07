@@ -1,0 +1,43 @@
+; referenced at 3f:4210
+; located at 3f:46a0
+;		 <---------------->
+	db	LEFT, MILIA, GFX1
+	db	"Hold on, what's",$FE
+	db	"with all this",$FE
+	db	"ruckus?",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Milia, this is a",$FE 
+	db	"classified mission",$FE
+	db	"This is none of",$FE 
+	db	"your business.",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Hey, I'm the mayor",$FE
+	db	"of City 7. This is",$FE
+	db	"exactly what my",$FE
+	db	"business is about,",$FE
+	db	"to be informed!",$FD
+	db	RIGHT, MAX, GFX2
+	db	"...",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Basara recklessly",$FE
+	db	"went ahead and is",$FE
+	db	"flying right",$FE
+	db	"towards the",$FE
+	db	"new planet...",$FD
+	db	LEFT, MILIA, GFX3
+	db	"It seems that he",$FE
+	db	"will beat us to it",$FE
+	db	"and conquer it...",$FD
+	db	RIGHT, MAX, GFX1
+	db	"What are you",$FE
+	db	"talking about",$FE
+	db	"Milia!?",$FD
+	db	LEFT, MILIA, GFX3
+	db	"My gosh,",$FE
+	db	"I'm kidding.",$FE
+	db	"Can't you take",$FE
+	db	"a joke?",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Seriously?",$FE
+	db	"What am I gonna do",$FE 
+	db	"with you?",$FF

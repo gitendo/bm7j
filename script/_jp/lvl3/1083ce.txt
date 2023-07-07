@@ -1,0 +1,43 @@
+﻿; referenced at 42:43ce
+; located at 42:51d9
+
+LEFT, MYLENE, GFX0
+"何かしらあれ",$FD
+
+RIGHT, MAX, GFX2
+"あれは調査隊の",$FE
+"バルキリー…",$FD
+
+LEFT, GAMLIN, GFX1
+"生存者が",$FE
+"いるかもしれません",$FD
+
+RIGHT, MYLENE, GFX2
+"しっかりして！！",$FD
+
+LEFT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+RIGHT, MAX, GFX1
+"一体何が",$FE
+"あったというのだ",$FD
+
+LEFT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+RIGHT, GAMLIN, GFX2
+"……",$FD
+
+LEFT, MAX, GFX2
+"奥に残りの調査隊が",$FE
+"いるかもしれないな",$FD
+
+RIGHT, MYLENE, GFX1
+"だったら",$FE
+"いそいで行かなきゃ",$FD
+
+LEFT, GAMLIN, GFX0
+"ミレーヌさん",$FE
+"気をつけて下さい",$FF
+
+; size: 293 bytes

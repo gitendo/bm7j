@@ -1,0 +1,42 @@
+﻿; referenced at 42:43d8
+; located at 42:577d
+
+LEFT, RAY, GFX0
+"あのバルキリーは…",$FD
+
+RIGHT, MAX, GFX2
+"あれは調査隊の",$FE
+"バルキリー…",$FD
+
+LEFT, MILIA, GFX0
+"まだだれかいるかも",$FE
+"しれないわね",$FD
+
+RIGHT, RAY, GFX2
+"大丈夫か？",$FD
+
+LEFT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+RIGHT, MAX, GFX1
+"一体どうなって",$FE
+"いるのだ？",$FD
+
+LEFT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+RIGHT, MILIA, GFX1
+"ちょっと！！",$FD
+
+LEFT, MAX, GFX2
+"まだ奥に",$FE
+"残りの調査隊が",$FE
+"いるかもしれないな",$FD
+
+RIGHT, RAY, GFX0
+"無事だといいが…",$FD
+
+LEFT, MILIA, GFX1
+"先を急ぎましょう！",$FF
+
+; size: 287 bytes

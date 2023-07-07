@@ -1,0 +1,57 @@
+﻿; referenced at 45:43b5
+; located at 45:51e9
+
+LEFT, MILIA, GFX0
+"後は戻るだけね",$FD
+
+LEFT, MAX, GFX0
+"撤収するぞ",$FD
+
+RIGHT, BASARA, GFX3
+"まだまだ",$FE
+"歌いたりねーぜ！",$FD
+
+LEFT, MILIA, GFX3
+"元気なものね",$FD
+
+RIGHT, MAX, GFX2
+"まったく[]何を",$FE
+"考えているのだか",$FD
+
+LEFT, BASARA, GFX1
+"うるせー！！",$FD
+
+RIGHT, MILIA, GFX1
+"けど[]敵は",$FE
+"遊び足りない",$FE
+"ようね",$FD
+
+LEFT, MAX, GFX1
+"さっきの奴が",$FE
+"本体では",$FE
+"なかったのか！",$FD
+
+RIGHT, BASARA, GFX1
+"なんか奥から",$FE
+"でけぇ奴が来るぜ",$FD
+
+LEFT, MILIA, GFX0
+"一旦退いたほうが",$FE
+"よさそうね",$FD
+
+RIGHT, BASARA, GFX1
+"ここまで来て",$FE
+"やめられるか！！",$FD
+
+LEFT, MAX, GFX1
+"ここはじきに",$FE
+"崩壊するぞ！！",$FD
+
+RIGHT, MILIA, GFX0
+"マクロス艦に戻って",$FE
+"体制を整えましょう",$FD
+
+LEFT, BASARA, GFX1
+"チッ！",$FF
+
+; size: 406 bytes

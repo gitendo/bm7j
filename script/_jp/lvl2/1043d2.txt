@@ -1,0 +1,49 @@
+﻿; referenced at 41:43d2
+; located at 41:5834
+
+LEFT, MYLENE, GFX1
+"一体どうなってるの",$FE
+"ここは！！",$FD
+
+RIGHT, MILIA, GFX0
+"ミレーヌ[]少しは",$FE
+"落ち着きなさい",$FD
+
+LEFT, MYLENE, GFX2
+"でもー",$FD
+
+RIGHT, MAX, GFX0
+"ここの様子が",$FE
+"変なのは",$FE
+"確かに気にかかるな",$FD
+
+LEFT, MILIA, GFX0
+"マックス[]何か",$FE
+"わかっている事は",$FE
+"無いの？",$FD
+
+RIGHT, MAX, GFX2
+"細かい事は",$FE
+"わかっていない…",$FD
+
+LEFT, MYLENE, GFX0
+"何で私たちを",$FE
+"攻撃して",$FE
+"くるのかしら？",$FD
+
+RIGHT, MILIA, GFX3
+"簡単だわ[]敵として",$FE
+"判断されてるからよ",$FD
+
+LEFT, MAX, GFX1
+"簡単な事ではない！",$FD
+
+RIGHT, MILIA, GFX1
+"何か間違った事を",$FE
+"言いましたかしら？",$FD
+
+LEFT, MYLENE, GFX1
+"パパもママも",$FE
+"喧嘩しないでよ！！",$FF
+
+; size: 397 bytes

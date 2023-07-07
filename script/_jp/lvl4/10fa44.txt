@@ -1,0 +1,8 @@
+﻿; referenced at 43:7a44
+; located at 43:7ada
+
+"機体前方に",$FE
+"エネルギー反応",$FE
+"警戒して下さい",$FF
+
+; size: 44 bytes

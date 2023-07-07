@@ -1,0 +1,50 @@
+﻿; referenced at 45:43b3
+; located at 45:5075
+
+LEFT, MILIA, GFX0
+"後は戻るだけね",$FD
+
+RIGHT, GAMLIN, GFX0
+"敵の攻撃も",$FE
+"止まるでしょう",$FD
+
+LEFT, BASARA, GFX3
+"まだまだ",$FE
+"歌いたりねーぜ！",$FD
+
+LEFT, MILIA, GFX3
+"元気なものね",$FD
+
+RIGHT, GAMLIN, GFX1
+"市長！敵がまだ",$FE
+"攻撃をしてきます！",$FD
+
+LEFT, MILIA, GFX1
+"さっきの奴が",$FE
+"本体じゃ",$FE
+"なかったの？",$FD
+
+RIGHT, BASARA, GFX1
+"なんか奥から",$FE
+"でけぇ奴が来るぜ",$FD
+
+LEFT, GAMLIN, GFX1
+"まだ敵が",$FE
+"残っていたのか？",$FD
+
+RIGHT, MILIA, GFX2
+"一旦退いて[]体制を",$FE
+"整えましょう！！",$FD
+
+LEFT, BASARA, GFX1
+"ここまで来て",$FE
+"やめられるか！！",$FD
+
+RIGHT, GAMLIN, GFX1
+"ここにいるのは",$FE
+"危険だ！",$FD
+
+LEFT, MILIA, GFX0
+"コイツが敵の本体…",$FF
+
+; size: 372 bytes

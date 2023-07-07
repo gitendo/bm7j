@@ -1,0 +1,9 @@
+; referenced at 42:72f4
+; located at 42:7391
+;		 <---------------->
+	db	"We can't locate",$FE
+	db	"the exit of the",$FE
+	db	"cave at the moment",$FE
+	db	"All spaceships,",$FE
+	db	"beware of falling",$FE
+	db	"rocks!",$FF

@@ -1,0 +1,10 @@
+; referenced at 00:0a25
+; located at 02:4730
+;		 <------------>
+	db	"Energy reac-  "
+	db	"tion detected ",$FE,$3C
+	db	"in the front  "
+	db	"of the craft! ",$FE,$3C
+	db	"Please use ex-"
+	db	"treme caution!",$FE,$3C
+	db	$FF

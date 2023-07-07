@@ -1,0 +1,44 @@
+; referenced at 43:43be
+; located at 43:4a9e
+;		 <---------------->
+	db	LEFT, MAX, GFX0
+	db	"The deeper we go,",$FE
+	db	"the more intense",$FE 
+	db	"the attack is.",$FD
+	db	RIGHT, RAY, GFX0
+	db	"That means",$FE
+	db	"something that's",$FE
+	db	"very important is",$FE
+	db	"hidden inside.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"They are getting",$FE
+	db	"the stage ready",$FE
+	db	"for me.",$FD
+	db	RIGHT, RAY, GFX3
+	db	"They are not",$FE
+	db	"gonna be",$FE 
+	db	"dissapointed",$FD
+	db	LEFT, MAX, GFX1
+	db	"This is dangerous!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"It's alright.",$FD
+	db	LEFT, RAY, GFX0
+	db	"But I wonder",$FE
+	db	"what could be",$FE
+	db	"lurking there?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Someone very",$FE 
+	db	"strong, maybe like",$FE
+	db	"the commander.",$FD
+	db	LEFT, BASARA, GFX0
+	db	"Let's rush so we",$FE
+	db	"can catch him",$FE
+	db	"off guard.",$FD
+	db	RIGHT, RAY, GFX3
+	db	"It could be",$FE
+	db	"Mr. Beppin.",$FD
+	db	LEFT, MAX, GFX2
+	db	"Somehow, I",$FE
+	db	"remember something",$FE
+	db	"that gives me the",$FE
+	db	"creeps...",$FF

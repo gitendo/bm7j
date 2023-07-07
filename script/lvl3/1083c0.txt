@@ -1,0 +1,36 @@
+; referenced at 42:43c0
+; located at 42:4a0d
+;		 <---------------->
+	db	LEFT, BASARA, GFX0
+	db	"Something is near!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"Must be the",$FE
+	db	"assessment team",$FE 
+	db	"Max was talking",$FE
+	db	"about.",$FD
+	db	LEFT, RAY, GFX0
+	db	"Someone is there!",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"Ugh...!",$FD
+	db	LEFT, MILIA, GFX2
+	db	"Are you okay?",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"Still inside...",$FE
+	db	"Ugh...",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Tsk...!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"Did he say there's",$FE
+	db	"something inside?",$FD
+	db	LEFT, RAY, GFX0
+	db	"Maybe there are",$FE
+	db	"still Assessment",$FE
+	db	"team members",$FE
+	db	"inside?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Let's go rescue",$FE
+	db	"them, then!",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"I'm going in!",$FF

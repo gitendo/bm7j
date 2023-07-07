@@ -1,0 +1,8 @@
+﻿; referenced at 02:4156
+; located at 02:4366
+
+"まだ歌える！",$1E,$FE
+"歌えるわ！！",$FF,$FE
+"",$FF,$FF
+
+; size: 30 bytes

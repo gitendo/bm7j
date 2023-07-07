@@ -1,0 +1,40 @@
+﻿; referenced at 40:439f
+; located at 40:494e
+
+LEFT, BASARA, GFX1
+"何でお前らまで",$FE
+"ついて来るんだよ！",$FD
+
+RIGHT, RAY, GFX3
+"いいじゃないか",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, MAX, GFX2
+"まったく[]勝手な",$FE
+"事ばかりしおって",$FD
+
+LEFT, BASARA, GFX0
+"別に迷惑かけて",$FE
+"ないだろ？",$FD
+
+RIGHT, MAX, GFX1
+"迷惑だ！！",$FD
+
+RIGHT, RAY, GFX3
+"はっはっは！！",$FD
+
+LEFT, BASARA, GFX1
+"何でお前がここに",$FE
+"いるんだよ！！",$FD
+
+RIGHT, MAX, GFX1
+"説明している暇は",$FE
+"ないようだな…！",$FD
+
+LEFT, BASARA, GFX1
+"行くぜ！！",$FE
+"ボンバー！！",$FF
+
+; size: 276 bytes

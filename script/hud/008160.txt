@@ -1,0 +1,5 @@
+; referenced at 02:4160
+; located at 02:4342
+;		 <------------>
+	db	"Ain't hurtin'!",$FE,$1E
+	db	$FF

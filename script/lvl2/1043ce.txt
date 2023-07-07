@@ -1,0 +1,31 @@
+; referenced at 41:43ce
+; located at 41:555c
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"How come!",$FE
+	db	"They're right here",$FD
+	db	RIGHT, GAMLIN, GFX3
+	db	"It's okay,",$FE
+	db	"Mylene.",$FD
+	db	LEFT, MAX, GFX1
+	db	"Aren't you",$FE
+	db	"too relaxed?",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"Sorry, captain.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"Why are they",$FE
+	db	"attacking?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"It's too soon to",$FE
+	db	"feel the enemy's",$FE
+	db	"presence.",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Captain, I see the",$FE
+	db	"ocean front of us.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"There might be",$FE
+	db	"something there.",$FD
+	db	LEFT, MYLENE, GFX3
+	db	"An ocean, eh?",$FE
+	db	"I'd like to go",$FE
+	db	"swimming.",$FF

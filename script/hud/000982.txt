@@ -1,0 +1,8 @@
+; referenced at 00:161d
+; located at 02:41d0
+;		 <------------>
+	db	"Weird energy  "
+	db	"reaction de-  ",$FE,$3C
+	db	"tected ahead! "
+	db	"Withdraw ASAP!",$FE,$3C
+	db	$FF

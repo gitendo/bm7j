@@ -1,0 +1,6 @@
+; referenced at 02:416a
+; located at 02:43d8
+;		 <------------>
+	db	"Many thanks!  ",$FE,$1E
+	db	$FF
+

@@ -1,0 +1,8 @@
+; referenced at 02:41aa
+; located at 02:45d0
+;		 <------------>
+	db	"This man is   "
+	db	"truly a genius",$FE,$3C
+	db	"That's not    "
+	db	"gonna happen! ",$FE,$3C
+	db	$FF

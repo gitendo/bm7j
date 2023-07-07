@@ -1,0 +1,8 @@
+﻿; referenced at 40:6b4a
+; located at 40:6c06
+
+"機体前方に",$FE
+"エネルギー反応",$FE
+"警戒して下さい",$FF
+
+; size: 44 bytes

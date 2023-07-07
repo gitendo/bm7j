@@ -1,0 +1,47 @@
+; referenced at 46:43c5
+; located at 46:4dbc
+;		 <---------------->
+	db	LEFT, RAY, GFX1
+	db	"He's chasing us!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"It's all about",$FE 
+	db	"time now.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"You guys go first!",$FD
+	db	LEFT, MILIA, GFX0
+	db	"What do you mean?",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"I'll make him",$FE 
+	db	"listen to my solo",$FE 
+	db	"presentation live!",$FD
+	db	LEFT, RAY, GFX0
+	db	"Are you that",$FE 
+	db	"confident?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, BASARA, GFX0
+	db	"Don't ask",$FE
+	db	"something so",$FE
+	db	"obvious...",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"It's gonna be",$FE
+	db	"a tough battle,",$FE
+	db	"isn't it?",$FD
+	db	LEFT, BASARA, GFX0
+	db	"Leave it to me!",$FE
+	db	"This is the spe-",$FE
+	db	"cial stage where I",$FE 
+	db	"wanted to perform",$FE
+	db	"all along!",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Go, Basara!",$FE
+	db	"Sing with all your",$FE
+	db	"power!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Be careful!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"It's time for me",$FE
+	db	"to act!",$FE
+	db	"Fireee!",$FF

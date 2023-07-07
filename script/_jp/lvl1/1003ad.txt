@@ -1,0 +1,56 @@
+﻿; referenced at 40:43ad
+; located at 40:522f
+
+LEFT, MYLENE, GFX2
+"まったくもう",$FE
+"バサラったら…",$FD
+
+RIGHT, RAY, GFX3
+"いつもの事じゃ",$FE
+"ないか",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, MILIA, GFX3
+"まったく落ち着きの",$FE
+"無い子ね",$FD
+
+RIGHT, RAY, GFX0
+"いつもの事ですから",$FD
+
+LEFT, MYLENE, GFX0
+"一体どこまで",$FE
+"行ったのかしら…",$FD
+
+RIGHT, RAY, GFX3
+"いずれ合流できるさ",$FD
+
+LEFT, MYLENE, GFX2
+"だといいけど",$FD
+
+RIGHT, MILIA, GFX0
+"何か気になるわね…",$FD
+
+LEFT, MYLENE, GFX0
+"どういう事なのママ",$FD
+
+RIGHT, VEFFIDAS, GFX1
+"……！！",$FD
+
+LEFT, MYLENE, GFX1
+"何なの！敵…！？",$FD
+
+LEFT, MILIA, GFX1
+"私に喧嘩を",$FE
+"売るつもり？",$FD
+
+RIGHT, RAY, GFX0
+"どうやら簡単には",$FE
+"いかないらしいな！",$FD
+
+LEFT, MYLENE, GFX1
+"やっばり",$FE
+"こうなるのね！！",$FF
+
+; size: 381 bytes

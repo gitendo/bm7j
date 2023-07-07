@@ -1,0 +1,38 @@
+; referenced at 41:43c2
+; located at 41:4e4a
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX1
+	db	"What's this place?",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Did the team",$FE
+	db	"mention anything",$FE
+	db	"about this?",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Just shut up, you",$FE
+	db	"guys are too noisy",$FD
+	db	RIGHT, MAX, GFX1
+	db	"It's important!",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"More importantly,",$FE
+	db	"this is strange.",$FD
+	db	LEFT, MAX, GFX0
+	db	"I don't feel any",$FE
+	db	"presence of",$FE
+	db	"living things.",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"Something will",$FE
+	db	"attack us from",$FE
+	db	"somewhere.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Cool, someone will",$FE
+	db	"listen to my songs",$FD
+	db	RIGHT, MAX, GFX0
+	db	"We need to",$FE
+	db	"investigate",$FE
+	db	"further ahead.",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Right.",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"You can't fix",$FE
+	db	"everything with",$FE
+	db	"violence!",$FF

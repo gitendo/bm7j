@@ -1,0 +1,7 @@
+﻿; referenced at 02:41a4
+; located at 02:45c0
+
+"補給完了！！",$1E,$FE
+"",$FF,$FF
+
+; size: 16 bytes

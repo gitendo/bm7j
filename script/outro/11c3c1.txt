@@ -1,0 +1,17 @@
+; referenced at 47:43c1
+; located at 47:4ab3
+;		 <---------------->
+	db	LEFT, MAX, GFX0
+	db	"Mylene!",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"Papa!",$FE
+	db	"You came.",$FD
+	db	LEFT, RAY, GFX0
+	db	"Did you invite",$FE
+	db	"them?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Mylene half forced",$FE
+	db	"us to come.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"Watch my show",$FE
+	db	"until the end!",$FF

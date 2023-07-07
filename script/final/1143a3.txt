@@ -1,0 +1,45 @@
+; referenced at 45:43a3
+; located at 45:43c9
+;		 <---------------->
+	db	LEFT, BASARA, GFX3
+	db	"Yeah!",$FD
+	db	RIGHT, RAY, GFX3
+	db	"This is fine now,",$FE
+	db	"right?",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"We've destroyed",$FE
+	db	"the core, right?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I still want to",$FE
+	db	"rock more songs!",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"Wait! The enemy is",$FE
+	db	"still attacking!",$FD
+	db	LEFT, RAY, GFX1
+	db	"What do you mean!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Something big is",$FE
+	db	"coming from",$FE
+	db	"inside!",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"I've had enough!",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Let's retreat to",$FE
+	db	"the Macross ship!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"We've come this",$FE
+	db	"far, we can't",$FE
+	db	"stop now!",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"What are you",$FE
+	db	"talking about!?",$FE
+	db	"This entire place",$FE
+	db	"is going to",$FE
+	db	"collapse!",$FD
+	db	LEFT, RAY, GFX0
+	db	"At any rate,",$FE
+	db	"our top priority",$FE
+	db	"now is to escape",$FE
+	db	"from this planet!",$FF

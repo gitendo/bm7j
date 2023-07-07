@@ -1,0 +1,7 @@
+﻿; referenced at 02:41a6
+; located at 02:459e
+
+"なんのこれしき",$1E,$FE
+"",$FF,$FF
+
+; size: 18 bytes

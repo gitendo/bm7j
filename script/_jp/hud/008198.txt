@@ -1,0 +1,8 @@
+﻿; referenced at 02:4198
+; located at 02:4534
+
+"ミレーヌさんの",$1E,$FE
+"ために！！",$1E,$FE
+"",$FF,$FF
+
+; size: 30 bytes

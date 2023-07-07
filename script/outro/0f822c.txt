@@ -1,0 +1,106 @@
+; referenced at 3e:422c
+; located at 3e:4576
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"Hah, I'm tired...",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"You're so",$FE
+	db	"pathetic.",$FD
+	db	LEFT, RAY, GFX3
+	db	"Hahahahah!",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"I'm dead tired.",$FE
+	db	"Whose fault do",$FE
+	db	"you think",$FE
+	db	"this is, huh!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Is not my fault",$FE
+	db	"you can't",$FE
+	db	"keep up with me.",$FD
+	db	LEFT, RAY, GFX0
+	db	"Come on, guys,",$FE
+	db	"the most important",$FE
+	db	"thing is that ",$FE
+	db	"all of us",$FE
+	db	"are safe.",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"We're the",$FE
+	db	"only ones that",$FE
+	db	"know the truth...",$FE
+	db	"...right?",$FD
+	db	LEFT, RAY, GFX0
+	db	"It seems that the",$FE
+	db	"Space Sports",$FE
+	db	"writes reliable",$FE
+	db	"articles.",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Are you still",$FE
+	db	"reading that",$FE
+	db	"cheap tabloid?",$FD
+	db	LEFT, RAY, GFX0
+	db	"The new planet the",$FE
+	db	"news is currently",$FE
+	db	"focusing on",$FE
+	db	"was actually",$FE
+	db	"a life form!",$FE
+	db	"This is due to the",$FE
+	db	"heroic actions of ",$FE
+	db	"our great Space",$FE
+	db	"Sports inves-",$FE
+	db	"tigative team...",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Geez, not reliable",$FE
+	db	"at all....",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Basara, you should",$FE
+	db	"start reading",$FE
+	db	"better quality",$FE
+	db	"material for news.",$FD
+	db	RIGHT, RAY, GFX3
+	db	"He believes",$FE
+	db	"he did,",$FE
+	db	"an ordinary",$FE
+	db	"tabloid newspaper,",$FE
+	db	"that is.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"I feel like you're",$FE
+	db	"ignoring me.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"By the way, is it",$FE
+	db	"true that...",$FE
+	db	"your nude magazine",$FE
+	db	"special has come",$FE
+	db	"out in stores?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"On one occasion,",$FE
+	db	"Capt. Max grabbed",$FE
+	db	"a female",$FE
+	db	"operator's ass",$FE
+	db	"without consent,",$FE
+	db	"right...?",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"That's impossible",$FE
+	db	"no way!",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Well, nobody will",$FE
+	db	"care if they see",$FE
+	db	"you naked anyway,",$FE
+	db	"there's nothing",$FE
+	db	"to see.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"Are you being",$FE
+	db	"sarcastic!?",$FD
+	db	LEFT, RAY, GFX3
+	db	"He's just joking.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, BASARA, GFX0
+	db	"Don't say you're",$FE
+	db	"tired now!",$FE
+	db	"Let's go!",$FF

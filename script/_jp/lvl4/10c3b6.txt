@@ -1,0 +1,50 @@
+﻿; referenced at 43:43b6
+; located at 43:44d1
+
+LEFT, MYLENE, GFX0
+"ここ[]本当に",$FE
+"洞窟なのかしら",$FD
+
+RIGHT, BASARA, GFX0
+"当然だろ",$FD
+
+LEFT, MYLENE, GFX1
+"何で機械が",$FE
+"いっばいころがって",$FE
+"いるのよ！！",$FD
+
+RIGHT, BASARA, GFX1
+"知るか！！",$FD
+
+RIGHT, GAMLIN, GFX0
+"バサラがそんな事を",$FE
+"気にしてると",$FE
+"思いますか？",$FE
+"ミレーヌさん",$FD
+
+LEFT, BASARA, GFX1
+"お前らなー！！",$FD
+
+LEFT, MYLENE, GFX0
+"この奥に何が",$FE
+"あるんだと思う？",$FD
+
+RIGHT, BASARA, GFX3
+"もちろん",$FE
+"ライブステージに",$FE
+"決まってるぜ！！",$FD
+
+LEFT, MYLENE, GFX2
+"……",$FD
+
+RIGHT, GAMLIN, GFX0
+"…先を急ぎましょう",$FD
+
+LEFT, MYLENE, GFX0
+"…そうね",$FD
+
+RIGHT, BASARA, GFX1
+"シカト",$FE
+"すんじゃねー！！",$FF
+
+; size: 352 bytes

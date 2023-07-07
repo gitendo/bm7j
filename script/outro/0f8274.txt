@@ -1,0 +1,109 @@
+; referenced at 3e:4274
+; located at 3e:48ff
+;		 <---------------->
+	db	LEFT, MAX, GFX2
+	db	"Geez...",$FE
+	db	"That was terrible.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Anytime we're with",$FE
+	db	"Basara, something",$FE
+	db	"weird always",$FE
+	db	"happens.",$FE
+	db	"I just can't",$FE
+	db	"believe it.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"The planet was the",$FE
+	db	"creature itself.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"I have no idea",$FE
+	db	"what that was",$FE
+	db	"after all.",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Those who were",$FE
+	db	"captured were",$FE
+	db	"brainwashed and",$FE
+	db	"their energy was",$FE
+	db	"taken away by it.",$FD
+	db	RIGHT, MILIA, GFX2
+	db	"This just how the",$FE
+	db	"Protodeviln",$FE
+	db	"operates.",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Is there any more",$FE
+	db	"of those monster",$FE
+	db	"planets out there?",$FD
+	db	RIGHT, MAX, GFX2
+	db	"I can't deny",$FE
+	db	"the possibility",$FE
+	db	"just yet...",$FD
+	db	LEFT, MILIA, GFX0
+	db	"But should we",$FE
+	db	"tell everyone",$FE
+	db	"the truth?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"I think it's",$FE
+	db	"better not to make",$FE
+	db	"it a big deal.",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"A magazine already",$FE
+	db	"published an",$FE
+	db	"article claiming",$FE
+	db	"to expose",$FE
+	db	"the truth.",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"People will not",$FE
+	db	"take it seriously",$FE
+	db	"though.",$FE
+	db	"It'll just be",$FE
+	db	"labeled as gossip.",$FD
+	db	LEFT, MAX, GFX1
+	db	"I wish Basara",$FE 
+	db	"would be a little",$FE
+	db	"more cooperative",$FE
+	db	"with us!",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"Even if you try",$FE
+	db	"to put a leash on",$FE
+	db	"on his neck,",$FE
+	db	"he'll still run",$FE
+	db	"away and keep",$FE
+	db	"on singing.",$FD
+	db	LEFT, MILIA, GFX3
+	db	"You're right.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"It was fortunate",$FE
+	db	"that this event",$FE
+	db	"was well taken",$FE 
+	db	"care of by",$FE
+	db	"our team.",$FD
+	db	LEFT, GAMLIN, GFX3
+	db	"By the way, you've",$FE
+	db	"got a letter from",$FE
+	db	"Mylene.",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"So it seems,",$FE
+	db	"how unusual.",$FD
+	db	LEFT, MYLENE, GFX3
+	db	"Papa, mama...",$FE
+	db	"Please forgive us",$FE
+	db	"for meddling",$FE
+	db	"in this mission",$FE
+	db	"but nothing can",$FE 
+	db	"stop Basara when",$FE
+	db	"his heart is set.",$FE
+	db	"This may not be",$FE
+	db	"enough for an",$FE
+	db	"apology but",$FE
+	db	"I thought it'd be",$FE
+	db	"a nice gift.",$FE
+	db	"I'm sending you a",$FE
+	db	"few tickets to our",$FE
+	db	"next live concert.",$FE
+	db	"Please come and",$FE
+	db	"enjoy our music.",$FE
+	db	"From Mylene.",$FD
+	db	RIGHT, MAX, GFX3
+	db	"Heh, okay.",$FD
+	db	LEFT, GAMLIN, GFX3
+	db	"Shall we go then?",$FE
+	db	"Sure, let's go.",$FF

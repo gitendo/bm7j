@@ -1,0 +1,7 @@
+﻿; referenced at 02:41ba
+; located at 02:4632
+
+"その程度？！",$1E,$FE
+"",$FF,$FF
+
+; size: 16 bytes

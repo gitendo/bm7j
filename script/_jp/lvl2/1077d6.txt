@@ -1,0 +1,8 @@
+﻿; referenced at 41:77d6
+; located at 41:7873
+
+"眼下に森林地帯が",$FE
+"広がっています",$FE
+"生物も確認できます",$FF
+
+; size: 54 bytes

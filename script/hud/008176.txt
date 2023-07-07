@@ -1,0 +1,6 @@
+; referenced at 02:4176
+; located at 02:445c
+;		 <------------>
+	db	"Veffidas! Go  "
+	db	"for it, fight!",$FE,$3C
+	db	$FF

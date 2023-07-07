@@ -1,0 +1,8 @@
+﻿; referenced at 02:419a
+; located at 02:4552
+
+"死にたければ",$1E,$FE
+"来い！！",$1E,$FE
+"",$FF,$FF
+
+; size: 26 bytes

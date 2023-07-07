@@ -1,0 +1,31 @@
+; referenced at 40:43b7
+; located at 40:588b
+;		 <---------------->
+	db	LEFT, RAY, GFX3
+	db	"Go on first...",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MILIA, GFX3
+	db	"Geez...",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"Don't say that!",$FD
+	db	LEFT, RAY, GFX0
+	db	"Where did he go?",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"I'm sure by now,",$FE
+	db	"he must already",$FE
+	db	"be singing.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"We've confirmed",$FE
+	db	"the enemy position",$FD
+	db	RIGHT, RAY, GFX0
+	db	"It's not going",$FE
+	db	"to be easy!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Are they going",$FE
+	db	"to fight us!?",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"Mayor, I'll pro-",$FE
+	db	"tect you!",$FF

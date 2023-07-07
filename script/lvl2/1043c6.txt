@@ -1,0 +1,33 @@
+; referenced at 41:43c6
+; located at 41:5113
+;		 <---------------->
+	db	LEFT, MAX, GFX1
+	db	"Geez,",$FE
+	db	"how reckless!",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"It's okay, right?",$FD
+	db	LEFT, MILIA, GFX0
+	db	"This place",$FE
+	db	"is strange.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"There is no",$FE
+	db	"presence of",$FE
+	db	"living things.",$FD
+	db	LEFT, MILIA, GFX1
+	db	"They'll attack us",$FE
+	db	"all of a sudden.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"They have gathered",$FE
+	db	"to listen to",$FE
+	db	"my songs.",$FD
+	db	LEFT, MAX, GFX1
+	db	"You've got",$FE
+	db	"some nerve",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"If we go toward",$FE
+	db	"the ocean, we",$FE
+	db	"might be able to",$FE
+	db	"find something.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I'll make them",$FE
+	db	"hear my songs!",$FF

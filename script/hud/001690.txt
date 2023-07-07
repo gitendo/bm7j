@@ -1,0 +1,7 @@
+; referenced at 00:1690
+; located at 02:41c0
+; must be followed by 00161d.txt!
+;		 <------------>
+	db	"Launch the re-"
+	db	"action bullet!",$FE,$2D
+	db	$FD,$02

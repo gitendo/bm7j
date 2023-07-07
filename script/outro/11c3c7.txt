@@ -1,0 +1,20 @@
+; referenced at 47:43c7
+; located at 47:4c6b
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX0
+	db	"Miss Mylene, the",$FE
+	db	"mayor is here.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"We came to support",$FE
+	db	"you.",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"Mama! Thank you!",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Looks like this is",$FE
+	db	"going to be your",$FE
+	db	"perfect stage.",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"Good luck.",$FD
+	db	LEFT, MYLENE, GFX3
+	db	"Yes, leave it",$FE
+	db	"to me!",$FF

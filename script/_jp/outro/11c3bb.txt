@@ -1,0 +1,33 @@
+﻿; referenced at 47:43bb
+; located at 47:489a
+
+LEFT, GAMLIN, GFX0
+"今日は市長が",$FE
+"いらっしゃってるぞ",$FD
+
+RIGHT, BASARA, GFX0
+"オバサンが",$FE
+"ライブに来るなんて",$FE
+"珍しいな",$FD
+
+LEFT, MILIA, GFX1
+"だ[]誰が",$FE
+"オバサンですって！",$FD
+
+RIGHT, GAMLIN, GFX0
+"こ[]こらバサラ…",$FD
+
+LEFT, BASARA, GFX0
+"何言ってんだよ",$FE
+"オバサンに",$FE
+"オバサンと…",$FD
+
+RIGHT, MILIA, GFX1
+"！！！！！",$FD
+
+LEFT, GAMLIN, GFX0
+"あ[]ほら市長",$FE
+"そろそろライブが",$FE
+"始まりますから…",$FF
+
+; size: 249 bytes

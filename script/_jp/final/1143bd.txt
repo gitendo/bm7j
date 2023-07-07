@@ -1,0 +1,42 @@
+﻿; referenced at 45:43bd
+; located at 45:57bd
+
+LEFT, MYLENE, GFX3
+"ヤッター！！",$FE
+"倒したわ！",$FD
+
+RIGHT, GAMLIN, GFX0
+"もう大丈夫でしょう",$FD
+
+LEFT, MAX, GFX0
+"敵兵の洗脳も",$FE
+"解けるだろう",$FD
+
+RIGHT, GAMLIN, GFX1
+"艦長！敵がまだ",$FE
+"攻撃してきます！",$FD
+
+LEFT, MYLENE, GFX1
+"なんで！！",$FD
+
+RIGHT, MAX, GFX1
+"本体を倒せば洗脳は",$FE
+"解けるはずじゃ",$FE
+"ないのか",$FD
+
+LEFT, GAMLIN, GFX1
+"さっきのは本体では",$FE
+"なかったのでは",$FD
+
+RIGHT, MYLENE, GFX2
+"どうしよう！",$FD
+
+LEFT, MAX, GFX1
+"一旦退いて",$FE
+"体制を整えるぞ",$FD
+
+RIGHT, MYLENE, GFX2
+"バサラ…",$FE
+"大丈夫なの…",$FF
+
+; size: 298 bytes

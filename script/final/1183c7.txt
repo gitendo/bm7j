@@ -1,0 +1,54 @@
+; referenced at 46:43c7
+; located at 46:4f5a
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX1
+	db	"At this pace,we",$FE 
+	db	"won't make it!",$FD
+	db	RIGHT, MAX, GFX2
+	db	"This is bad...",$FD
+	db	LEFT, BASARA, GFX1
+	db	"You guys go first!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"What are you",$FE
+	db	"thinking!?",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I'll make him",$FE 
+	db	"listen to my solo",$FE 
+	db	"presentation live!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"That's too",$FE
+	db	"reckless!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"I'm gonna make",$FE
+	db	"him listen to",$FE
+	db	"my song!",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Do you have a",$FE
+	db	"secret plan?",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Leave it to me!",$FE
+	db	"This is the spe-",$FE
+	db	"cial stage where I",$FE 
+	db	"wanted to perform",$FE
+	db	"all along!",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"It seems that he's",$FE
+	db	"quite confident,",$FE
+	db	"right...?",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Don't ask",$FE
+	db	"something so",$FE
+	db	"obvious...",$FD
+	db	RIGHT, MAX, GFX1
+	db	"We'll leave",$FE
+	db	"everything to you",$FE
+	db	"while we're ",$FE
+	db	"retreating then...",$FD
+	db	LEFT, GAMLIN, GFX3
+	db	"Go, Basara!",$FE
+	db	"Sing with all your",$FE
+	db	"power!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"It's time for me",$FE
+	db	"to act!",$FE
+	db	"Fireee!",$FF

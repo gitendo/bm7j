@@ -1,0 +1,32 @@
+; referenced at 43:43d0
+; located at 43:58c6
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"How long is",$FE
+	db	"this cave?",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"This is not an",$FE
+	db	"ordinary cave.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"What do you mean,",$FE
+	db	"mama?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"I think this",$FE
+	db	"is man-made.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"And they don't",$FE
+	db	"seem to be",$FE
+	db	"peaceful.",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"So they are",$FE
+	db	"dangerous?",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Yes.",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"But we can't",$FE
+	db	"go back now.",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"We can only keep",$FE
+	db	"going forward.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Let's go, then.",$FF

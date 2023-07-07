@@ -1,0 +1,42 @@
+; referenced at 44:43c6
+; located at 44:5191
+;		 <---------------->
+	db	LEFT, BASARA, GFX0
+	db	"What a strange",$FE
+	db	"place...",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Instead of strange",$FE
+	db	"it's more like an",$FE
+	db	"abnormal space...",$FD
+	db	LEFT, MILIA, GFX0
+	db	"I remember",$FE
+	db	"the past...",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Is that the",$FE
+	db	"Assessment team?",$FD
+	db	LEFT, MAX, GFX1
+	db	"What happened!?",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"It's dangerous",$FE
+	db	"here...",$FE
+	db	"Please return.",$FD
+	db	LEFT, BASARA, GFX1
+	db	"What do you",$FE
+	db	"mean?",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"All of those",$FE
+	db	"creatures are",$FE
+	db	"targeting us...",$FD
+	db	LEFT, MAX, GFX1
+	db	"What!",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"Many of them seem",$FE
+	db	"to be brainwashed",$FD
+	db	LEFT, BASARA, GFX2
+	db	"I knew it!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"We can't leave",$FE
+	db	"it like this!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"My passion is",$FE
+	db	"burning now!",$FF

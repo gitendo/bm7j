@@ -1,0 +1,48 @@
+; referenced at 43:43c2
+; located at 43:4db8
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX0
+	db	"Don't you think",$FE
+	db	"the landscape of",$FE
+	db	"this area is",$FE
+	db	"kind of strange?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Indeed...",$FE
+	db	"The mechanical",$FE
+	db	"parts are getting",$FE
+	db	"exposed.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Heh...we will find",$FE
+	db	"many more of these",$FE
+	db	"for sure.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"What do you mean?",$FD
+	db	LEFT, BASARA, GFX3
+	db	"They are getting",$FE
+	db	"the stage ready",$FE
+	db	"for me.",$FD
+	db	RIGHT, MAX, GFX1
+	db	"It means that we",$FE
+	db	"are getting closer",$FE
+	db	"to our enemy's",$FE
+	db	"main base",$FD
+	db	LEFT, GAMLIN, GFX2
+	db	"Basara would have",$FE
+	db	"never guessed that",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Shut up.",$FD
+	db	LEFT, MAX, GFX2
+	db	"What do you think",$FE 
+	db	"is hidden in",$FE
+	db	"the center of",$FE
+	db	"this planet?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Probably the main",$FE
+	db	"power core.",$FD
+	db	LEFT, MAX, GFX0
+	db	"If we can reach",$FE
+	db	"there, we will",$FE
+	db	"know...",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"Let's go, then!",$FE
+	db	"Fire!",$FF

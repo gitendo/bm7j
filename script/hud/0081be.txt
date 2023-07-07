@@ -1,0 +1,7 @@
+; referenced at 02:41be
+; located at 02:4692
+;		 <------------>
+	db	"Underestimate "
+	db	"me and you    ",$FE,$3C
+	db	"will burn!    ",$FE,$3C
+	db	$FF

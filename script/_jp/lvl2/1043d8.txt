@@ -1,0 +1,43 @@
+﻿; referenced at 41:43d8
+; located at 41:5c73
+
+LEFT, RAY, GFX3
+"たいした",$FE
+"歓迎ぶりですね",$FD
+
+RIGHT, MAX, GFX1
+"そんなわけ",$FE
+"無いだろう！！",$FD
+
+LEFT, MILIA, GFX3
+"マックス[]少しは",$FE
+"落ち着きなさいよ",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, MAX, GFX1
+"ミリア[]君は",$FE
+"何も感じないのか？",$FD
+
+RIGHT, MILIA, GFX1
+"何ですって？！",$FD
+
+LEFT, RAY, GFX3
+"まぁまぁ",$FD
+
+RIGHT, MAX, GFX3
+"どうやらカンが",$FE
+"にぶったようだな",$FD
+
+LEFT, MILIA, GFX1
+"私に喧嘩を",$FE
+"売るつもり？",$FD
+
+RIGHT, RAY, GFX3
+"やれやれ…",$FD
+
+LEFT, VEFFIDAS, GFX0
+"海…",$FF
+
+; size: 267 bytes

@@ -1,0 +1,39 @@
+; referenced at 41:43d2
+; located at 41:5834
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"How come! ",$FE
+	db	"They're right here",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"Mylene,",$FE
+	db	"calm down.",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"But....",$FD
+	db	RIGHT, MAX, GFX0
+	db	"This is",$FE
+	db	"indeed strange.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Max, do you",$FE
+	db	"understand",$FE
+	db	"what's going on",$FE
+	db	"here?",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Not in thorough",$FE
+	db	"detail.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"why are we under",$FE
+	db	"attack!?",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"Easy, because we",$FE 
+	db	"are interrupting",$FE
+	db	"their summer",$FE 
+	db	"vacation on a",$FE
+	db	"brand new planet.",$FD
+	db	LEFT, MAX, GFX1
+	db	"That's a",$FE 
+	db	"ridiculous answer.",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"Was it wrong?",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Papa, mama, please",$FE
+	db	"don't make a scene",$FF

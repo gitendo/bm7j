@@ -1,0 +1,51 @@
+﻿; referenced at 45:43c3
+; located at 45:5bf2
+
+LEFT, RAY, GFX0
+"これで終わりですね",$FD
+
+RIGHT, GAMLIN, GFX0
+"もう大丈夫でしょう",$FD
+
+LEFT, MAX, GFX0
+"敵兵の洗脳も",$FE
+"解けるだろう",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, GAMLIN, GFX1
+"敵がまだ",$FE
+"攻撃してきます！",$FD
+
+RIGHT, MAX, GFX1
+"本体を倒せば洗脳は",$FE
+"解けるはずじゃ",$FE
+"ないのか",$FD
+
+LEFT, RAY, GFX0
+"まだ終わりでは",$FE
+"ないという事か",$FD
+
+RIGHT, GAMLIN, GFX0
+"本体は別の所に",$FE
+"あるという事ですね",$FD
+
+LEFT, MAX, GFX1
+"ここは一旦退いて",$FE
+"体制を整えるぞ",$FD
+
+RIGHT, RAY, GFX0
+"ここもじきに",$FE
+"崩れるぞ！",$FD
+
+LEFT, MAX, GFX2
+"時間がないな",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, RAY, GFX2
+"バサラ…",$FF
+
+; size: 345 bytes

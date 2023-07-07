@@ -1,0 +1,5 @@
+; referenced at 02:4184
+; located at 02:448a
+;		 <------------>
+	db	"...!?         ",$FE,$1E
+	db	$FF

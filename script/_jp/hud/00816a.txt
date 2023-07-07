@@ -1,0 +1,7 @@
+﻿; referenced at 02:416a
+; located at 02:43d8
+
+"ありがたい！！",$1E,$FE
+"",$FF,$FF
+
+; size: 18 bytes

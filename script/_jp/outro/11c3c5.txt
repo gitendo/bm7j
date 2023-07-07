@@ -1,0 +1,27 @@
+﻿; referenced at 47:43c5
+; located at 47:4bbf
+
+LEFT, GAMLIN, GFX0
+"ミレーヌさん",$FE
+"スペシャルゲストを",$FE
+"おつれしました",$FD
+
+RIGHT, MAX, GFX0
+"ミレーヌ",$FD
+
+LEFT, MYLENE, GFX3
+"パパ！！",$FD
+
+RIGHT, GAMLIN, GFX0
+"今日は",$FE
+"最高のステージに",$FE
+"なりそうですね",$FD
+
+LEFT, MAX, GFX0
+"客席で",$FE
+"見ているからな",$FD
+
+RIGHT, MYLENE, GFX3
+"まかしといて！！",$FF
+
+; size: 172 bytes

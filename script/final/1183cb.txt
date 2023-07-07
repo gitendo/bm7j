@@ -1,0 +1,46 @@
+; referenced at 46:43cb
+; located at 46:52c4
+;		 <---------------->
+	db	LEFT, MILIA, GFX1
+	db	"That monster is",$FE
+	db	"is faster than",$FE
+	db	"we expected!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"We can't win at",$FE
+	db	"this point!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"You guys go first!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"Basara, what are",$FE 
+	db	"you going to do!?",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I'll make him",$FE 
+	db	"listen to my solo",$FE 
+	db	"presentation live!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"That's too",$FE
+	db	"reckless!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"You can't!",$FE  
+	db	"It's too dangerous",$FE 
+	db	"if you do",$FE 
+	db	"it alone!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"I'm gonna make",$FE
+	db	"him listen to",$FE
+	db	"my song!",$FD
+	db	LEFT, MAX, GFX0
+	db	"Is it going",$FE
+	db	"to work?",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Leave it to me!",$FE
+	db	"This is the spe-",$FE
+	db	"cial stage where I",$FE 
+	db	"wanted to perform",$FE
+	db	"all along!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Be careful!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"It's time for me",$FE
+	db	"to act!",$FE
+	db	"Fireee!",$FF

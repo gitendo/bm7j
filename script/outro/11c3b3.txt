@@ -1,0 +1,17 @@
+; referenced at 47:43b3
+; located at 47:4620
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX0
+	db	"Basara, we came",$FE
+	db	"to support you!",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"You came to listen",$FE
+	db	"to my songs?",$FD
+	db	LEFT, RAY, GFX3
+	db	"Well, have fun.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX3
+	db	"I have a surprise",$FE 
+	db	"for Mylene after",$FE 
+	db	"the concert.",$FF

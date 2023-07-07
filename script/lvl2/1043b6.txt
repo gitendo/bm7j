@@ -1,0 +1,37 @@
+; referenced at 41:43b6
+; located at 41:4525
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"Didn't you realize",$FE
+	db	"this was a dange-",$FE
+	db	"rous place",$FE
+	db	"Basara!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"How should I know?",$FD
+	db	RIGHT, GAMLIN, GFX3
+	db	"Mylene, Basara",$FE
+	db	"never thinks",$FE
+	db	"before he acts.",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Shut up! I just",$FE
+	db	"know how to sing.",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"But this whole",$FE
+	db	"place is very",$FE
+	db	"strange...",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"I don't think",$FE
+	db	"they like us.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"It's totally",$FE
+	db	"unrelated.",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"You're still",$FE
+	db	"talking at a",$FE
+	db	"time like this?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"I don't feel",$FE
+	db	"people's presence.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I will make them",$FE
+	db	"hear my songs!",$FF

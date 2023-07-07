@@ -1,0 +1,22 @@
+; referenced at 3f:4180
+; located at 3f:449a
+;		 <---------------->
+	db	LEFT, MYLENE, GFX0
+	db	"Hey, do you know",$FE
+	db	"where Basara is?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"He always does",$FE 
+	db	"this. Just leave",$FE
+	db	"him alone.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"But...",$FD
+	db	RIGHT, RAY, GFX3
+	db	"This is not the",$FE 
+	db	"first time he's",$FE 
+	db	"not coming, right?",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Geez!",$FE
+	db	"He never cares",$FE 
+	db	"about anything!",$FF

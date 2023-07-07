@@ -1,0 +1,60 @@
+﻿; referenced at 46:43c7
+; located at 46:4f5a
+
+LEFT, GAMLIN, GFX1
+"このままでは",$FE
+"追いつかれて",$FE
+"しまいます！",$FD
+
+RIGHT, MAX, GFX2
+"まずいな…",$FD
+
+LEFT, BASARA, GFX1
+"お前らは先に行け！",$FD
+
+RIGHT, GAMLIN, GFX1
+"何を考えている！",$FD
+
+LEFT, BASARA, GFX3
+"コイツには",$FE
+"俺のソロライブを",$FE
+"聞かせてやるぜ！",$FD
+
+RIGHT, MAX, GFX1
+"無謀すぎるぞ！！",$FD
+
+LEFT, BASARA, GFX1
+"響かせてやるぜ！",$FE
+"俺のサウンドを！",$FD
+
+RIGHT, MAX, GFX2
+"秘策はあるのか？",$FD
+
+LEFT, BASARA, GFX3
+"まかせとけ！",$FE
+"最高のステージに",$FE
+"してやるぜ！",$FD
+
+RIGHT, GAMLIN, GFX0
+"何とか",$FE
+"なりそうなのか？",$FD
+
+LEFT, BASARA, GFX3
+"当たり前の事",$FE
+"聞くんじゃねー",$FD
+
+RIGHT, MAX, GFX1
+"まかせるぞ",$FE
+"我々はこのまま",$FE
+"退却する",$FD
+
+LEFT, GAMLIN, GFX3
+"バサラ！",$FE
+"思いっきり",$FE
+"歌ってこい！",$FD
+
+RIGHT, BASARA, GFX1
+"やってやるぜ！！",$FE
+"ファイヤー！",$FF
+
+; size: 462 bytes

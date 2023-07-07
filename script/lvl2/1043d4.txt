@@ -1,0 +1,38 @@
+; referenced at 41:43d4
+; located at 41:59c1
+;		 <---------------->
+	db	LEFT, MAX, GFX1
+	db	"What is this",$FE
+	db	"place?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Looks like",$FE
+	db	"they perceive us",$FE
+	db	"as their enemy.",$FD
+	db	LEFT, RAY, GFX0
+	db	"We're being",$FE
+	db	"treated as such",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MAX, GFX0
+	db	"Can we be friendly",$FE
+	db	"with them?",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"I don't think",$FE
+	db	"that's an option",$FE
+	db	"anymore.",$FD
+	db	LEFT, RAY, GFX0
+	db	"I can't find",$FE
+	db	"anyone like a",$FE
+	db	"commander here.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"I also cannot",$FE
+	db	"locate the",$FE
+	db	"creatures'",$FE
+	db	"commander.",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Captain, I see",$FE
+	db	"the ocean.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"There might be",$FE
+	db	"something there,",$FE
+	db	"let's check it out",$FF

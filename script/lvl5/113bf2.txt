@@ -1,0 +1,11 @@
+; referenced at 44:7bf2
+; located at 44:7cc5
+;		 <---------------->
+	db	"According to the",$FE
+	db	"M7 Assessment team",$FE
+	db	"it is possible for",$FE
+	db	"you to break the",$FE
+	db	"enemy's brain-",$FE
+	db	"washing waves with",$FE
+	db	"a sound attack!",$FF
+

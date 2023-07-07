@@ -1,0 +1,38 @@
+﻿; referenced at 41:43c6
+; located at 41:5113
+
+LEFT, MAX, GFX1
+"まったく",$FE
+"無茶をしおって！！",$FD
+
+RIGHT, BASARA, GFX3
+"いいじゃねーか",$FD
+
+LEFT, MILIA, GFX0
+"何か変な所ね",$FD
+
+RIGHT, MAX, GFX0
+"生活の気配が無いな",$FD
+
+LEFT, MILIA, GFX1
+"いきなり攻撃を",$FE
+"仕掛けてくるし！",$FD
+
+RIGHT, BASARA, GFX3
+"俺の歌を聞きに",$FE
+"集まって来てるぜ！",$FD
+
+LEFT, MAX, GFX1
+"そんな悠長な事が",$FE
+"言ってられるか！",$FD
+
+RIGHT, MILIA, GFX0
+"海を越えたら",$FE
+"何かあるかも",$FE
+"しれないわね",$FD
+
+LEFT, BASARA, GFX3
+"俺の歌を",$FE
+"聞かせてやるぜー！",$FF
+
+; size: 285 bytes

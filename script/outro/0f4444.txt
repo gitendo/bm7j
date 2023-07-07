@@ -1,0 +1,4 @@
+; referenced at 3d:4444
+; located at 3d:44de
+;		 <---------------->
+	db	"A few days later..",$FF

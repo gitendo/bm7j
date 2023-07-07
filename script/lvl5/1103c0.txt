@@ -1,0 +1,43 @@
+; referenced at 44:43c0
+; located at 44:4d12
+;		 <---------------->
+	db	LEFT, BASARA, GFX0
+	db	"What a strange",$FE 
+	db	"place.",$FD
+	db	RIGHT, RAY, GFX0
+	db	"This is not",$FE 
+	db	"an ordinary",$FE
+	db	"planet.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, MILIA, GFX2
+	db	"Why are they",$FE
+	db	"attacking...?",$FD
+	db	LEFT, RAY, GFX0
+	db	"Is that's the",$FE
+	db	"Assessment team?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, PILOT, GFX0
+	db	"It's dangerous",$FE
+	db	"here...",$FE
+	db	"Please return.",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"What do you",$FE
+	db	"mean?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"All of those",$FE
+	db	"creatures are",$FE
+	db	"targeting us...",$FD
+	db	RIGHT, MILIA, GFX2
+	db	"Can you be more",$FE
+	db	"specific about it?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Many of them seem",$FE
+	db	"to be brainwashed",$FD
+	db	RIGHT, BASARA, GFX2
+	db	"I knew it!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"We're going to",$FE
+	db	"defeat that",$FE
+	db	"stupid monster!",$FF

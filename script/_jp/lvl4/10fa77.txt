@@ -1,0 +1,6 @@
+﻿; referenced at 43:7a77
+; located at 43:7b24
+
+"誰が出撃しますか？",$FF
+
+; size: 20 bytes

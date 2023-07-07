@@ -1,0 +1,6 @@
+; referenced at 02:4194
+; located at 02:44fe
+;		 <------------>
+	db	"We can't lose "
+	db	"here! Fight!  ",$FE,$2D
+	db	$FF

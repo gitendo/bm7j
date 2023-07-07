@@ -1,0 +1,47 @@
+; referenced at 45:43c5
+; located at 45:5d4b
+;		 <---------------->
+	db	LEFT, RAY, GFX0
+	db	"Okay, job's done.",$FE
+	db	"The battle is",$FE
+	db	"over.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Now everything is",$FE
+	db	"fine, right?",$FD
+	db	LEFT, MILIA, GFX0
+	db	"We can go home now",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"Captain!",$FE
+	db	"The enemy is",$FE 
+	db	"still attacking!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"Looks like play",$FE
+	db	"time isn't",$FE
+	db	"over yet....",$FD
+	db	LEFT, RAY, GFX0
+	db	"So, it's not",$FE 
+	db	"over yet, then?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"His true core is",$FE 
+	db	"located in a",$FE  
+	db	"different place.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"This place is",$FE
+	db	"collapsing!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"Call for support",$FE
+	db	"and brace for",$FE
+	db	"impact!",$FD
+	db	LEFT, RAY, GFX0
+	db	"This place won't",$FE
+	db	"last any longer!",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Geez, this is",$FE
+	db	"getting worse and",$FE
+	db	"worse!",$FD
+	db	RIGHT, RAY, GFX2
+	db	"Basara...",$FF

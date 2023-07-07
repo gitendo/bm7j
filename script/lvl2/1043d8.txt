@@ -1,0 +1,35 @@
+; referenced at 41:43d8
+; located at 41:5c73
+;		 <---------------->
+	db	LEFT, RAY, GFX3
+	db	"What a welcome!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"I don't think so!",$FD
+	db	LEFT, MILIA, GFX3
+	db	"Max, it's a joke",$FE
+	db	"take it easy.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MAX, GFX1
+	db	"Milia, don't you",$FE
+	db	"sense something",$FE
+	db	"strange about",$FE
+	db	"this place?",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"What is it!?",$FD
+	db	LEFT, RAY, GFX3
+	db	"Well, well...",$FD
+	db	RIGHT, MAX, GFX3
+	db	"It seems like she",$FE
+	db	"doesn't have the",$FE 
+	db	"same sharp percep-",$FE 
+	db	"tion skills like",$FE                                                
+	db	"the old glory days",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Do you seriously",$FE 
+	db	"want me to shoot",$FE 
+	db	"you down now?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"Geez...",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"The ocean...",$FF

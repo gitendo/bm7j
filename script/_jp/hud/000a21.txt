@@ -1,0 +1,8 @@
+﻿; referenced at 00:0a21
+; located at 02:46e0
+
+"前方に生体反応",$2D,$FE
+"巨大植物です！",$2D,$FE
+"",$FF,$FF
+
+; size: 34 bytes

@@ -1,0 +1,7 @@
+; referenced at 02:4152
+; located at 02:4306
+;		 <------------>
+	db	"Come on and   "
+	db	"listen to     ",$FE,$2D
+	db	"my songs!     ",$FE,$1E
+	db	$FF

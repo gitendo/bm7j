@@ -1,0 +1,52 @@
+﻿; referenced at 44:43c4
+; located at 44:5006
+
+LEFT, BASARA, GFX0
+"なんだか変な所だな",$FD
+
+RIGHT, GAMLIN, GFX2
+"おかしいのは",$FE
+"この星に来た時から",$FE
+"わかっているだろう",$FD
+
+LEFT, MILIA, GFX0
+"誰がこんな事を",$FE
+"しているのかしら",$FD
+
+RIGHT, BASARA, GFX0
+"あれは",$FE
+"調査隊じゃねーか？",$FD
+
+LEFT, MILIA, GFX2
+"しっかりしなさい！",$FD
+
+RIGHT, PILOT, GFX0
+"ここは危険です…",$FE
+"撤退して下さい",$FD
+
+LEFT, BASARA, GFX1
+"どういう事だ？",$FD
+
+RIGHT, PILOT, GFX0
+"こいつらの目的は",$FE
+"我々です",$FD
+
+LEFT, GAMLIN, GFX2
+"という事は…",$FD
+
+RIGHT, PILOT, GFX0
+"攻撃しているのは",$FE
+"洗脳された者たち",$FE
+"なのです",$FD
+
+LEFT, BASARA, GFX2
+"やっばりな",$FD
+
+RIGHT, MILIA, GFX1
+"ほっとくわけには",$FE
+"いかないわね",$FD
+
+LEFT, BASARA, GFX3
+"燃えてきたぜ！！",$FF
+
+; size: 395 bytes

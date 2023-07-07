@@ -1,0 +1,30 @@
+; referenced at 40:4395
+; located at 40:43bb
+;		 <---------------->
+	db	LEFT, BASARA, GFX3
+	db	"Did you also come",$FE
+	db	"to sing?",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"That's not",$FE
+	db	"why I'm here!",$FD
+	db	LEFT, RAY, GFX0
+	db	"Well, you don't",$FE
+	db	"need to get angry.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, BASARA, GFX0
+	db	"We're already",$FE
+	db	"here, so may",$FE
+	db	"as well give",$FE
+	db	"them a good show,",$FE
+	db	"right?",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"Wait! Something",$FE
+	db	"is attacking us!",$FD
+	db	LEFT, RAY, GFX3
+	db	"Looks like we are",$FE
+	db	"up for a big",$FE
+	db	"welcome!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's go!",$FE
+	db	"BOMBER!!!",$FF

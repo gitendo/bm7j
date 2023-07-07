@@ -1,0 +1,6 @@
+; referenced at 02:41ba
+; located at 02:4632
+;		 <------------>
+	db	"That many!?   ",$FE,$1E
+	db	$FF
+

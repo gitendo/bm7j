@@ -1,0 +1,8 @@
+; referenced at 00:0a23
+; located at 02:4702
+;		 <------------>
+	db	"Energy reac-  "
+	db	"tion detected!",$FE,$3C
+	db	"Proceed with  "
+	db	"extra caution ",$FE,$3C
+	db	$FF

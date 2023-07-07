@@ -1,0 +1,8 @@
+﻿; referenced at 02:41be
+; located at 02:4692
+
+"なめていると",$1E,$FE
+"火傷するわよ！",$1E,$FE
+"",$FF,$FF
+
+; size: 32 bytes

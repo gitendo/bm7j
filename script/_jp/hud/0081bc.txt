@@ -1,0 +1,8 @@
+﻿; referenced at 02:41bc
+; located at 02:4672
+
+"私に勝てると",$1E,$FE
+"思っているの？",$1E,$FE
+"",$FF,$FF
+
+; size: 32 bytes

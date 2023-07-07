@@ -1,0 +1,44 @@
+﻿; referenced at 41:43cc
+; located at 41:543f
+
+LEFT, MYLENE, GFX1
+"一体どうなってるの",$FE
+"ここは！！",$FD
+
+RIGHT, RAY, GFX3
+"すごい歓迎ぶりだな",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, MILIA, GFX3
+"いい運動が",$FE
+"できそうね",$FD
+
+RIGHT, MYLENE, GFX2
+"ちょっと[]ママ！",$FD
+
+LEFT, MILIA, GFX0
+"けどここには",$FE
+"町が無いのかしら",$FD
+
+RIGHT, RAY, GFX0
+"確かに",$FD
+
+RIGHT, MYLENE, GFX0
+"ママ",$FE
+"潮の香りがしない？",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, MILIA, GFX3
+"海があるようね",$FE
+"とりあえずここを",$FE
+"越えてみましょう",$FD
+
+RIGHT, MYLENE, GFX3
+"海かー",$FE
+"泳いでいきたいなー",$FF
+
+; size: 285 bytes

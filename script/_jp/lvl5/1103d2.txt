@@ -1,0 +1,55 @@
+﻿; referenced at 44:43d2
+; located at 44:5ae1
+
+LEFT, MYLENE, GFX2
+"何がなんだか",$FE
+"もうわからない！",$FD
+
+RIGHT, MILIA, GFX0
+"落ち着きなさい",$FE
+"ミレーヌ",$FD
+
+LEFT, MAX, GFX0
+"こういう時こそ",$FE
+"冷静に判断せねば",$FE
+"ならない",$FD
+
+RIGHT, MYLENE, GFX1
+"あれ[]調査隊じゃ",$FE
+"ないかしら",$FD
+
+LEFT, MILIA, GFX2
+"しっかりしなさい",$FD
+
+RIGHT, PILOT, GFX0
+"ここは危険です…",$FE
+"撤退して下さい",$FD
+
+LEFT, MAX, GFX1
+"どういう事だ？",$FD
+
+RIGHT, PILOT, GFX0
+"こいつらの目的は",$FE
+"我々なのです…",$FD
+
+LEFT, MYLENE, GFX1
+"えっ？",$FD
+
+RIGHT, PILOT, GFX0
+"攻撃しているのは",$FE
+"洗脳された者たち",$FE
+"なのです…",$FD
+
+LEFT, MILIA, GFX0
+"なるほどね",$FD
+
+RIGHT, MAX, GFX0
+"真相が",$FE
+"わかってきたな…",$FD
+
+LEFT, MYLENE, GFX1
+"そこで待っていて！",$FE
+"そんな事する奴",$FE
+"許せない！！",$FF
+
+; size: 417 bytes

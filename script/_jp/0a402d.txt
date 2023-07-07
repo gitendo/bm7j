@@ -1,0 +1,9 @@
+﻿; referenced at 29:402d
+; located at 29:43e8
+
+"惑星中心部に",$FE
+"巨大生命体を確認！",$FE
+"こちらに",$FE
+"向かって来ます！！",$FF
+
+; size: 64 bytes

@@ -1,0 +1,7 @@
+; referenced at 02:41ae
+; located at 02:460a
+;		 <------------>
+	db	"Annoying bas- "
+	db	"tard. Get out ",$FE,$3C
+	db	"of the way!   ",$FE,$3C
+	db	$FF

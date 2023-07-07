@@ -1,0 +1,37 @@
+; referenced at 43:43bc
+; located at 43:494b
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX0
+	db	"Is this",$FE 
+	db	"a fortress?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Looks like it.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I don't care,",$FE
+	db	"I will rock songs",$FE
+	db	"anywhere!",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"I wonder how much",$FE
+	db	"longer we need",$FE
+	db	"to advance.",$FD
+	db	RIGHT, RAY, GFX0
+	db	"The attack is",$FE
+	db	"getting more",$FE
+	db	"intense too.",$FD
+	db	LEFT, BASARA, GFX0
+	db	"Heh, isn't",$FE
+	db	"that interesting.",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"What about the",$FE
+	db	"M7 team that",$FE
+	db	"went earlier?",$FD
+	db	LEFT, RAY, GFX3
+	db	"We need to hurry.",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"I hope they",$FE
+	db	"are safe.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's go!",$FE
+	db	"Fire!",$FF

@@ -1,0 +1,39 @@
+﻿; referenced at 42:43be
+; located at 42:4909
+
+LEFT, BASARA, GFX0
+"何か転がっているぜ",$FD
+
+RIGHT, MAX, GFX1
+"あれは[]調査隊の",$FE
+"バルキリー…",$FD
+
+LEFT, RAY, GFX0
+"まだ誰か",$FE
+"いるみたいだぞ",$FD
+
+RIGHT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+LEFT, MAX, GFX1
+"一体何が",$FE
+"あったのだ？",$FD
+
+RIGHT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+LEFT, BASARA, GFX1
+"チッ…！！",$FD
+
+RIGHT, MAX, GFX2
+"奥にもまだ何か",$FE
+"あるというのか…",$FD
+
+LEFT, RAY, GFX0
+"先に進むしか",$FE
+"ないようですね",$FD
+
+RIGHT, BASARA, GFX3
+"行ってやるぜー！！",$FF
+
+; size: 260 bytes

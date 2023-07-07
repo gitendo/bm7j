@@ -1,0 +1,53 @@
+; referenced at 44:43d4
+; located at 44:5c82
+;		 <---------------->
+	db	LEFT, RAY, GFX0
+	db	"The behavior of",$FE
+	db	"the enemy is",$FE
+	db	"quite strange.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"You're right.",$FD
+	db	LEFT, MAX, GFX2
+	db	"It's like they're",$FE
+	db	"being manipulated.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"Is that the",$FE
+	db	"Assessment team?",$FD
+	db	RIGHT, MAX, GFX1
+	db	"What happened!?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Captain Max,",$FE
+	db	"It's dangerous",$FE
+	db	"here, please",$FE
+	db	"return.",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"what do you mean?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"All of those",$FE
+	db	"creatures are",$FE
+	db	"targeting us...",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Indeed...",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Many of them seem",$FE
+	db	"to be brainwashed",$FD
+	db	RIGHT, RAY, GFX0
+	db	"The sole thought",$FE
+	db	"of it makes it",$FE
+	db	"unbearable.",$FD
+	db	LEFT, GAMLIN, GFX2
+	db	"What should",$FE
+	db	"we do?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"I think it will",$FE
+	db	"be over once we",$FE
+	db	"defeat the",$FE 
+	db	"commander.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, RAY, GFX0
+	db	"That's the only",$FE 
+	db	"way to get outta",$FE 
+	db	"this mess, eh?",$FF

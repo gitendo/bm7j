@@ -1,0 +1,49 @@
+﻿; referenced at 40:43a3
+; located at 40:4b46
+
+LEFT, BASARA, GFX1
+"何でお前らまで",$FE
+"ついて来るんだよ！",$FD
+
+RIGHT, MAX, GFX1
+"自分が何を",$FE
+"やってるか分かって",$FE
+"いるのか！！",$FD
+
+RIGHT, GAMLIN, GFX1
+"いつも勝手な",$FE
+"事ばかりして！！",$FD
+
+LEFT, BASARA, GFX1
+"文句を言いに",$FE
+"来たのか！！",$FD
+
+RIGHT, GAMLIN, GFX1
+"それもあるが…！",$FD
+
+RIGHT, MAX, GFX2
+"遊びに来ている",$FE
+"わけじゃないんだぞ",$FD
+
+LEFT, BASARA, GFX1
+"うるせー！！",$FD
+
+RIGHT, GAMLIN, GFX1
+"マックス艦長！！",$FE
+"敵影を確認！！",$FD
+
+LEFT, MAX, GFX1
+"やはり[]調査隊は…",$FD
+
+RIGHT, BASARA, GFX3
+"歓迎されている",$FE
+"みたいだぜ！！",$FD
+
+LEFT, GAMLIN, GFX2
+"お前な…",$FD
+
+RIGHT, BASARA, GFX3
+"行くぜ！",$FE
+"ボンバー！！",$FF
+
+; size: 366 bytes

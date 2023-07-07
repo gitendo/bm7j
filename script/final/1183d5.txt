@@ -1,0 +1,50 @@
+; referenced at 46:43d5
+; located at 46:5ba0
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"He's chasing us!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"We have to resist",$FE
+	db	"for just a little",$FE
+	db	"more!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"We won't have",$FE
+	db	"enough time.",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Wooaaah! Listen to",$FE
+	db	"my song!",$FD
+	db	LEFT, MYLENE, GFX3
+	db	"Basara!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"You guys go first!",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"What are you",$FE
+	db	"thinking!?",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"I'll make him",$FE 
+	db	"listen to my solo",$FE 
+	db	"presentation live!",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"You can't!",$FE  
+	db	"It'll be dangerous",$FE 
+	db	"if you do",$FE 
+	db	"it alone!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"Do you think you",$FE
+	db	"can win?",$FD
+	db	LEFT, BASARA, GFX0
+	db	"Leave it to me!",$FE
+	db	"This is the spe-",$FE
+	db	"cial stage where I",$FE 
+	db	"wanted to perform",$FE
+	db	"all along!",$FD
+	db	RIGHT, GAMLIN, GFX3
+	db	"Go, Basara! Sing",$FE
+	db	"with all your",$FE
+	db	"power!",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"Basara...",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"It's time for me",$FE
+	db	"to act!",$FE
+	db	"Fireee!",$FF

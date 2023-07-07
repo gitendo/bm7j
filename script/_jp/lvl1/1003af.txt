@@ -1,0 +1,42 @@
+﻿; referenced at 40:43af
+; located at 40:53ac
+
+LEFT, MYLENE, GFX2
+"まったくもう",$FE
+"バサラったら…",$FD
+
+RIGHT, MAX, GFX1
+"許可なしで",$FE
+"出撃しおって！",$FD
+
+RIGHT, GAMLIN, GFX3
+"ほっときましょうよ",$FE
+"ミレーヌさん",$FD
+
+LEFT, MYLENE, GFX2
+"でもー…",$FD
+
+RIGHT, MAX, GFX2
+"今回の事件には",$FE
+"気になる事が多いな",$FD
+
+LEFT, GAMLIN, GFX0
+"調査隊の件ですか？",$FD
+
+RIGHT, MYLENE, GFX0
+"どういう事なのパパ",$FD
+
+LEFT, MAX, GFX0
+"関係ない事だ",$FD
+
+RIGHT, GAMLIN, GFX1
+"敵影を確認！！",$FD
+
+LEFT, MAX, GFX2
+"来たか…",$FD
+
+RIGHT, MYLENE, GFX1
+"やっばり",$FE
+"こうなるのね！！",$FF
+
+; size: 279 bytes

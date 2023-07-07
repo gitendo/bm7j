@@ -1,0 +1,50 @@
+﻿; referenced at 46:43cb
+; located at 46:52c4
+
+LEFT, MILIA, GFX1
+"ちょっと",$FE
+"このままだと不利ね",$FD
+
+RIGHT, MAX, GFX1
+"奴のほうが",$FE
+"スピードが速いぞ",$FD
+
+LEFT, BASARA, GFX1
+"お前らは先に行け！",$FD
+
+RIGHT, MILIA, GFX0
+"あなたは",$FE
+"どうする気なの？",$FD
+
+LEFT, BASARA, GFX3
+"コイツには",$FE
+"俺のソロライブを",$FE
+"聞かせてやるぜ！",$FD
+
+RIGHT, MAX, GFX1
+"無謀すぎるぞ！！",$FD
+
+LEFT, MILIA, GFX1
+"無茶よ！１人じゃ",$FE
+"危険だわ！",$FD
+
+RIGHT, BASARA, GFX1
+"響かせてやるぜ！",$FE
+"俺のサウンドを！",$FD
+
+LEFT, MAX, GFX0
+"通用するのか？",$FD
+
+RIGHT, BASARA, GFX0
+"まかせとけ！！",$FE
+"最高のステージに",$FE
+"してやるぜ！",$FD
+
+LEFT, MILIA, GFX1
+"気をつけるのよ！",$FD
+
+RIGHT, BASARA, GFX1
+"やってやるぜ！！",$FE
+"ファイヤー！",$FF
+
+; size: 390 bytes

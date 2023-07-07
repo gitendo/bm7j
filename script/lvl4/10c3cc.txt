@@ -1,0 +1,31 @@
+; referenced at 43:43cc
+; located at 43:55ee
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"How long is",$FE
+	db	"this cave...?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"I don't think this",$FE
+	db	"is a cave.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"What do you mean?",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"I think this",$FE
+	db	"is man-made.",$FD
+	db	LEFT, RAY, GFX0
+	db	"Things like",$FE
+	db	"machines are",$FE
+	db	"exposed.",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"Who did this?",$FD
+	db	LEFT, MILIA, GFX3
+	db	"The answer",$FE
+	db	"is inside.",$FD
+	db	RIGHT, RAY, GFX3
+	db	"This is going",$FE
+	db	"to be entertaining",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"Entertaining?",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"If we keep going,",$FE
+	db	"we will find out.",$FF

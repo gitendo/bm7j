@@ -1,0 +1,7 @@
+; referenced at 00:0000
+; located at 42:73fb
+;		 <---------------->
+	db	"Please choose",$FE
+	db	"a Valkyrie",$FE
+	db	"transformation",$FE
+	db	"mode for assault.",$FF

@@ -1,0 +1,6 @@
+; referenced at 02:41b6
+; located at 02:4660
+;		 <------------>
+	db	"This is enough"
+	db	"Let's return! ",$FE,$3C
+	db	$FF

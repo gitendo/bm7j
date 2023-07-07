@@ -1,0 +1,34 @@
+﻿; referenced at 40:43a1
+; located at 40:4a62
+
+LEFT, BASARA, GFX1
+"何でお前らまで",$FE
+"ついて来るんだよ！",$FD
+
+RIGHT, RAY, GFX3
+"いいじゃないか",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, MILIA, GFX3
+"そうよ",$FE
+"いいじゃないの",$FD
+
+LEFT, BASARA, GFX3
+"じゃそういう事なら",$FE
+"ボン…",$FD
+
+RIGHT, MILIA, GFX0
+"そんな余裕は",$FE
+"ないみたいね…",$FD
+
+RIGHT, RAY, GFX0
+"盛大な歓迎が",$FE
+"期待できそうだな！",$FD
+
+LEFT, BASARA, GFX3
+"関係ないぜ！！",$FE
+"ボンバー！！",$FF
+
+; size: 228 bytes

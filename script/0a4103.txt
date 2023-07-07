@@ -1,0 +1,14 @@
+; referenced at 29:4103
+; located at 29:44bc
+;		 <---------------->
+	db	"Calculating the",$FE
+	db	"size of",$FE
+	db	"the reaction.",$FE
+	db	"The giant creature",$FE
+	db	"seems to be the",$FE
+	db	"main body of",$FE
+	db	"this planet!!!",$FE
+	db	"The attack from",$FE 
+	db	"the reaction",$FE
+	db	"bullets isn't",$FE
+	db	"working at all!",$FF

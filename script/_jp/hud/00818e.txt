@@ -1,0 +1,7 @@
+﻿; referenced at 02:418e
+; located at 02:44e0
+
+"助かります！！",$1E,$FE
+"",$FF,$FF
+
+; size: 18 bytes

@@ -1,0 +1,6 @@
+; referenced at 02:414c
+; located at 02:428e
+;		 <------------>
+	db	"It isn't good!"
+	db	"See ya later! ",$FE,$3C
+	db	$FF

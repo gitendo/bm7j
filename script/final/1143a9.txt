@@ -1,0 +1,45 @@
+; referenced at 45:43a9
+; located at 45:48d5
+;		 <---------------->
+	db	LEFT, BASARA, GFX3
+	db	"Yeah!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"What's left is to",$FE
+	db	"return home now.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"We've destroyed",$FE
+	db	"the core, right?",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"I still want to",$FE
+	db	"rock more songs!",$FD
+	db	LEFT, MILIA, GFX3
+	db	"You sure have",$FE
+	db	"a lot of energy.",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"Mama! The enemy is",$FE
+	db	"still attacking!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"What!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Something big is",$FE
+	db	"coming from",$FE
+	db	"inside!",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"I've had enough!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"Let's get",$FE 
+	db	"outta here!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"We've come this",$FE
+	db	"far, we can't",$FE
+	db	"stop now!",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"What are you",$FE
+	db	"talking about!?",$FE
+	db	"This entire place",$FE
+	db	"is going to",$FE
+	db	"collapse!",$FD
+	db	LEFT, MILIA, GFX0
+	db	"This is the",$FE
+	db	"enemy's true",$FE
+	db	"form...",$FF

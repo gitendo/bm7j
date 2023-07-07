@@ -1,0 +1,43 @@
+﻿; referenced at 44:43bc
+; located at 44:4ab8
+
+LEFT, BASARA, GFX0
+"変な所だな",$FD
+
+RIGHT, RAY, GFX0
+"普通の惑星では",$FE
+"ない事ぐらい",$FE
+"わかるがな",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, GAMLIN, GFX1
+"あれは調査隊…",$FD
+
+LEFT, PILOT, GFX0
+"ここは危険です…",$FE
+"撤退して下さい",$FD
+
+RIGHT, BASARA, GFX1
+"どういう事だ？",$FD
+
+LEFT, PILOT, GFX0
+"こいつらの目的は",$FE
+"我々だ",$FD
+
+RIGHT, RAY, GFX1
+"そういう事か",$FD
+
+LEFT, PILOT, GFX0
+"攻撃しているのは",$FE
+"洗脳された者たち",$FE
+"なのです…",$FD
+
+RIGHT, BASARA, GFX2
+"やっばりな",$FD
+
+LEFT, GAMLIN, GFX1
+"急がなければ！！",$FF
+
+; size: 277 bytes

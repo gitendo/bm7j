@@ -1,0 +1,46 @@
+﻿; referenced at 43:43d0
+; located at 43:58c6
+
+LEFT, MYLENE, GFX2
+"一体この洞窟は",$FE
+"どこまで",$FE
+"あるのかしら？",$FD
+
+RIGHT, MILIA, GFX0
+"ただの洞窟とは",$FE
+"思えないけどね",$FD
+
+LEFT, MYLENE, GFX0
+"どういう事？ママ",$FD
+
+RIGHT, GAMLIN, GFX0
+"何らかの者の",$FE
+"手によって造られた",$FE
+"という事です",$FD
+
+LEFT, MILIA, GFX0
+"少なくとも",$FE
+"平和主義者では",$FE
+"ない事は確かね",$FD
+
+RIGHT, MYLENE, GFX1
+"とっても",$FE
+"危険って事？！",$FD
+
+LEFT, GAMLIN, GFX0
+"そういう事ですね",$FD
+
+RIGHT, MILIA, GFX0
+"だけど",$FE
+"もう引き返す事は",$FE
+"できそうも無いわね",$FD
+
+LEFT, MYLENE, GFX2
+"先に進むしか",$FE
+"ないのね…",$FD
+
+RIGHT, GAMLIN, GFX0
+"気を引き締めて",$FE
+"行きましょう",$FF
+
+; size: 360 bytes

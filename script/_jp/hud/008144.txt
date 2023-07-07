@@ -1,0 +1,8 @@
+﻿; referenced at 02:4144
+; located at 02:42ac
+
+"まだ…",$1E,$FE
+"終わりじゃねー",$FF,$FE
+"",$FF,$FF
+
+; size: 26 bytes

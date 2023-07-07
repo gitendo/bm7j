@@ -1,0 +1,50 @@
+﻿; referenced at 43:43b8
+; located at 43:4631
+
+LEFT, MYLENE, GFX0
+"ここ[]本当に",$FE
+"洞窟なのかしら",$FD
+
+RIGHT, BASARA, GFX0
+"当然だろ",$FD
+
+LEFT, MYLENE, GFX1
+"何で機械が",$FE
+"いっばいころがって",$FE
+"いるのよ！！",$FD
+
+RIGHT, BASARA, GFX1
+"知るか！！",$FD
+
+LEFT, MAX, GFX0
+"簡単な事だろう",$FD
+
+RIGHT, MYLENE, GFX0
+"どういう事？パパ",$FD
+
+LEFT, MAX, GFX0
+"何者かによって",$FE
+"侵入者を",$FE
+"迎撃するように",$FE
+"なっているんだろう",$FD
+
+RIGHT, BASARA, GFX0
+"だからどうだって",$FE
+"いうんだ？",$FD
+
+LEFT, MYLENE, GFX1
+"これからもっと",$FE
+"危険になって",$FE
+"いくって事でしょ！",$FD
+
+RIGHT, MAX, GFX0
+"そのとおりだ",$FE
+"しかし先に",$FE
+"進まねばならない…",$FD
+
+LEFT, BASARA, GFX3
+"なんだか",$FE
+"よくわからねーが[]",$FE
+"行くぜ！ボンバー！",$FF
+
+; size: 403 bytes

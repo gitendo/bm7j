@@ -1,0 +1,42 @@
+﻿; referenced at 41:43ce
+; located at 41:555c
+
+LEFT, MYLENE, GFX1
+"一体どうなってるの",$FE
+"ここは！！",$FD
+
+RIGHT, GAMLIN, GFX3
+"大丈夫ですよ",$FE
+"ミレーヌさん",$FE
+"自分がついています",$FD
+
+LEFT, MAX, GFX1
+"気が緩んでるんじゃ",$FE
+"ないのか？",$FD
+
+RIGHT, GAMLIN, GFX2
+"すいません艦長",$FD
+
+LEFT, MYLENE, GFX0
+"それにしても",$FE
+"何で攻撃して",$FE
+"くるのかしら",$FD
+
+RIGHT, MAX, GFX0
+"敵の対応が",$FE
+"早すぎるのも",$FE
+"気になるな…",$FD
+
+LEFT, GAMLIN, GFX0
+"艦長[]前方に",$FE
+"海が見えます",$FD
+
+RIGHT, MAX, GFX0
+"海を越えた先に",$FE
+"何かあるかもしれん",$FD
+
+LEFT, MYLENE, GFX3
+"海かー",$FE
+"泳いでいきたいなー",$FF
+
+; size: 329 bytes

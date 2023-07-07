@@ -1,0 +1,24 @@
+﻿; referenced at 47:43bd
+; located at 47:4993
+
+LEFT, MILIA, GFX0
+"ミレーヌは",$FE
+"いるかしら？",$FD
+
+RIGHT, BASARA, GFX0
+"珍しい",$FE
+"組み合わせだな",$FD
+
+LEFT, MAX, GFX0
+"ミレーヌに来いと",$FE
+"言われたのでな",$FD
+
+RIGHT, MILIA, GFX3
+"今はいないようね",$FD
+
+LEFT, BASARA, GFX3
+"俺の歌を聞いた後に",$FE
+"感想でも",$FE
+"聞かせてくれよ",$FF
+
+; size: 163 bytes

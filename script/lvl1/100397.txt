@@ -1,0 +1,30 @@
+; referenced at 40:4397
+; located at 40:44b1
+;		 <---------------->
+	db	LEFT, BASARA, GFX3
+	db	"Did you also come",$FE
+	db	"to sing?",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"That's not",$FE
+	db	"why I'm here!",$FD
+	db	LEFT, GAMLIN, GFX2
+	db	"Even if you say",$FE
+	db	"that to Basara,",$FE
+	db	"he won't listen",$FE
+	db	"to you, Mylene.",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"Even so...",$FD
+	db	LEFT, BASARA, GFX1
+	db	"You're too",$FE
+	db	"annoying!",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"Wait! Something",$FE
+	db	"is attacking us!",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"Anytime Basara",$FE 
+	db	"is around, weird",$FE
+	db	"things will always",$FE
+	db	"happen...",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's go!",$FE
+	db	"BOMBER!",$FF

@@ -1,0 +1,31 @@
+; referenced at 43:43c8
+; located at 43:5338
+;		 <---------------->
+	db	LEFT, MYLENE, GFX0
+	db	"I wonder if Basara",$FE
+	db	"is already inside.",$FD
+	db	RIGHT, RAY, GFX0
+	db	"I think so.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"He doesn't like to",$FE
+	db	"overlook things",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"I wonder if this",$FE
+	db	"is really a cave?",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Well, it doesn't",$FE
+	db	"look like a",$FE
+	db	"natural cave.",$FD
+	db	RIGHT, RAY, GFX0
+	db	"We'll find out",$FE
+	db	"what's inside soon",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"Is it okay,",$FE
+	db	"though?",$FD
+	db	RIGHT, GAMLIN, GFX3
+	db	"I'll protect you",$FE
+	db	"so it's fine.",$FD
+	db	LEFT, RAY, GFX3
+	db	"Don't be reckless!",$FF

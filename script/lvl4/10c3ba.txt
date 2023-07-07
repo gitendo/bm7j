@@ -1,0 +1,40 @@
+; referenced at 43:43ba
+; located at 43:47c4
+;		 <---------------->
+	db	LEFT, MYLENE, GFX0
+	db	"Is this really",$FE
+	db	"a cave?",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Of course.",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Why are machines",$FE
+	db	"mixed with trees?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"How should I know?",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Looks like there",$FE
+	db	"was some combat",$FE
+	db	"that happened here",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"So, someone else",$FE
+	db	"came before us?",$FD
+	db	LEFT, MILIA, GFX0
+	db	"I think so.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"If they want",$FE
+	db	"to fight, we will",$FE
+	db	"fight them!",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"But there's no one",$FE
+	db	"like Basara.",$FE
+	db	"He rather give",$FE
+	db	"them a concert",$FE
+	db	"instead of",$FE
+	db	"fighting them,",$FE 
+	db	"that's so weird.",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"For now,",$FE
+	db	"let's hurry!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's go!",$FE
+	db	"Fire!",$FF

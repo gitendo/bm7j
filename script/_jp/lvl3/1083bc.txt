@@ -1,0 +1,43 @@
+﻿; referenced at 42:43bc
+; located at 42:47de
+
+LEFT, BASARA, GFX0
+"何か転がっているぜ",$FD
+
+RIGHT, GAMLIN, GFX1
+"あれは[]撃墜された",$FE
+"バルキリー…",$FD
+
+LEFT, RAY, GFX0
+"まだ誰か",$FE
+"いるみたいだぞ？",$FD
+
+RIGHT, GAMLIN, GFX1
+"しっかりしろ！！",$FD
+
+LEFT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+RIGHT, RAY, GFX2
+"何があったんだ？",$FD
+
+LEFT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+RIGHT, BASARA, GFX1
+"チッ…！！",$FD
+
+LEFT, GAMLIN, GFX2
+"まだ奥に",$FE
+"隠された事が",$FE
+"ありそうですね",$FD
+
+RIGHT, RAY, GFX0
+"まだここが",$FE
+"どうなっているか",$FE
+"わからんしな",$FD
+
+LEFT, BASARA, GFX3
+"行ってやるぜー！！",$FF
+
+; size: 299 bytes

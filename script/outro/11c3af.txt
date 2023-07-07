@@ -1,0 +1,17 @@
+; referenced at 47:43af
+; located at 47:452a
+;		 <---------------->
+	db	LEFT, MAX, GFX0
+	db	"Mylene.",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"Papa, you came!",$FD
+	db	LEFT, BASARA, GFX0
+	db	"How unusual of you",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Sorry, I always",$FE 
+	db	"miss your solo,",$FE 
+	db	"Mylene....",$FD
+	db	LEFT, MYLENE, GFX3
+	db	"This time, watch",$FE  
+	db	"our concert until",$FE 
+	db	"the end, papa!",$FF

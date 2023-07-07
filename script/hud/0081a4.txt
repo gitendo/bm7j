@@ -1,0 +1,6 @@
+; referenced at 02:41a4
+; located at 02:45c0
+;		 <------------>
+	db	"Recharge has  "
+	db	"been completed",$FE,$2D
+	db	$FF

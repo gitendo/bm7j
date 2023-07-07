@@ -1,0 +1,37 @@
+; referenced at 40:439d
+; located at 40:481d
+;		 <---------------->
+	db	LEFT, BASARA, GFX1
+	db	"Why are you guys",$FE
+	db	"coming with me!?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"It's okay, right?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"Come on, don't",$FE
+	db	"say that.",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Shut up!",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"We're still",$FE
+	db	"investigating ",$FE
+	db	"this incident!",$FD
+	db	RIGHT, RAY, GFX3
+	db	"No matter how",$FE
+	db	"much we argue,",$FE
+	db	"it's still going",$FE
+	db	"to attack us,",$FE
+	db	"right?",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"What! An",$FE
+	db	"enemy...!?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"Looks like we",$FE
+	db	"are up for a",$FE
+	db	"big welcome!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's go!",$FE
+	db	"BOMBEEER!!!",$FF

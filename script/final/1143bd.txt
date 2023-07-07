@@ -1,0 +1,39 @@
+; referenced at 45:43bd
+; located at 45:57bd
+;		 <---------------->
+	db	LEFT, MYLENE, GFX3
+	db	"Yay! We have",$FE
+	db	"defeated them!",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Now everything",$FE
+	db	"is fine, right?",$FD
+	db	LEFT, MAX, GFX0
+	db	"The brainwashed",$FE 
+	db	"soldiers should",$FE
+	db	"have been freed",$FE
+	db	"now!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"Captain!",$FE
+	db	"The enemy is",$FE 
+	db	"still attacking!",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Why!?",$FD
+	db	RIGHT, MAX, GFX1
+	db	"Just because we",$FE
+	db	"have defeated",$FE
+	db	"them, it doesn't",$FE
+	db	"mean the",$FE 
+	db	"brainwashing has",$FE
+	db	"stopped!",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"So that was not",$FE
+	db	"the true form!",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"What should",$FE
+	db	"we do!?",$FD
+	db	LEFT, MAX, GFX1
+	db	"We have to get",$FE
+	db	"out of here!",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"Basara... I wonder",$FE
+	db	"if he's okay...",$FF

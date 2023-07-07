@@ -1,0 +1,61 @@
+﻿; referenced at 45:43a7
+; located at 45:46f7
+
+LEFT, BASARA, GFX3
+"ヨッシャー！！",$FD
+
+RIGHT, MAX, GFX0
+"これで敵の攻撃が",$FE
+"おさまるはず",$FD
+
+LEFT, MYLENE, GFX0
+"要塞を",$FE
+"破壊したんだもんね",$FD
+
+RIGHT, BASARA, GFX3
+"まだまだ",$FE
+"歌いたりねーぜ！",$FD
+
+LEFT, MAX, GFX1
+"お前のせいで",$FE
+"こんな事になって",$FE
+"しまったんだぞ",$FD
+
+RIGHT, BASARA, GFX0
+"無事だったんだから",$FE
+"いいじゃねーか",$FD
+
+LEFT, MYLENE, GFX1
+"ちょっとぉ！！",$FE
+"敵の攻撃が",$FE
+"止まないわ！",$FD
+
+RIGHT, MAX, GFX1
+"何故だ！！",$FD
+
+LEFT, BASARA, GFX1
+"なんか奥から",$FE
+"でけぇ奴が来るぜ",$FD
+
+RIGHT, MYLENE, GFX2
+"もぅ[]いや！！",$FD
+
+LEFT, MAX, GFX1
+"ここは一旦",$FE
+"退くんだ！",$FD
+
+RIGHT, BASARA, GFX1
+"ここまで来て",$FE
+"やめられるか！！",$FD
+
+LEFT, MYLENE, GFX1
+"何言っているのよ！",$FE
+"ここはもう",$FE
+"崩れそうなのよ！",$FD
+
+RIGHT, MAX, GFX2
+"さっきの奴が",$FE
+"本体では",$FE
+"なかったのか…",$FF
+
+; size: 478 bytes

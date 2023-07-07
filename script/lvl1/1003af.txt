@@ -1,0 +1,34 @@
+; referenced at 40:43af
+; located at 40:53ac
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"Geez, Basara...",$FD
+	db	RIGHT, MAX, GFX1
+	db	"He goes without",$FE
+	db	"permission!",$FD
+	db	RIGHT, GAMLIN, GFX3
+	db	"Just let him be,",$FE
+	db	"Mylene",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"But...",$FD
+	db	RIGHT, MAX, GFX2
+	db	"I'm really curious",$FE
+	db	"for this incident.",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"The Assessment",$FE
+	db	"team?",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"What do you mean,",$FE
+	db	"papa?",$FD
+	db	LEFT, MAX, GFX0
+	db	"This is totally",$FE
+	db	"unrelated.",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"We've confirmed",$FE
+	db	"the enemy's",$FE
+	db	"position!",$FD
+	db	LEFT, MAX, GFX2
+	db	"They came...",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"I knew this was",$FE
+	db	"going to happen.",$FF

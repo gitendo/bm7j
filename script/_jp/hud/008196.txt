@@ -1,0 +1,7 @@
+﻿; referenced at 02:4196
+; located at 02:44f2
+
+"くそ！！",$1E,$FE
+"",$FF,$FF
+
+; size: 12 bytes

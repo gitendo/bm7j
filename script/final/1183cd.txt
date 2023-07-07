@@ -1,0 +1,43 @@
+; referenced at 46:43cd
+; located at 46:544a
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"He's chasing us!",$FD
+	db	RIGHT, RAY, GFX1
+	db	"At this pace,we",$FE 
+	db	"won't make it!",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"What should we",$FE
+	db	"do now?",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Wooaaah! Listen to",$FE
+	db	"my song!",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"Basara!",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"You are safe!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"You guys go first!",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Basara, what about",$FE
+	db	"you!?",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"I'll make him",$FE 
+	db	"listen to my solo",$FE 
+	db	"presentation live!",$FD
+	db	LEFT, RAY, GFX3
+	db	"He's going to",$FE 
+	db	"take the best",$FE 
+	db	"role!",$FD
+	db	RIGHT, GAMLIN, GFX3
+	db	"Go, Basara!",$FE
+	db	"Sing with all your",$FE
+	db	"power!",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"Basara...",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"It's time for me",$FE
+	db	"to act!",$FE
+	db	"Fireee!",$FF

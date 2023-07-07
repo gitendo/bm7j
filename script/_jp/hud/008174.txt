@@ -1,0 +1,8 @@
+﻿; referenced at 02:4174
+; located at 02:443a
+
+"これ以上仲間を",$1E,$FE
+"傷つけさせん！",$1E,$FE
+"",$FF,$FF
+
+; size: 34 bytes

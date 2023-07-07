@@ -1,0 +1,32 @@
+; referenced at 42:43bc
+; located at 42:47de
+;		 <---------------->
+	db	LEFT, BASARA, GFX0
+	db	"What is it?",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"It looks like",$FE
+	db	"a Valkyrie",$FE 
+	db	"was shot down!",$FD
+	db	LEFT, RAY, GFX0
+	db	"Someone is there.",$FE
+	db	"Hang in there!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"We will help you!",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Ugh...",$FD
+	db	RIGHT, RAY, GFX2
+	db	"What happened!?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Still inside, ugh!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Tsk...",$FD
+	db	LEFT, GAMLIN, GFX2
+	db	"Looks like they're",$FE
+	db	"hiding something",$FE
+	db	"inside...",$FD
+	db	RIGHT, RAY, GFX0
+	db	"We still don't",$FE
+	db	"know what's",$FE 
+	db	"going on.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's go!",$FF

@@ -1,0 +1,32 @@
+; referenced at 42:43c2
+; located at 42:4b3d
+;		 <---------------->
+	db	LEFT, BASARA, GFX0
+	db	"What is it?",$FD
+	db	RIGHT, MAX, GFX2
+	db	"It's the",$FE
+	db	"Assessment team's",$FE
+	db	"Valkyrie...",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Someone is there!",$FE
+	db	"Ugh...!",$FD
+	db	LEFT, MAX, GFX1
+	db	"Hey, tell me",$FE
+	db	"what happened?",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"Still inside...",$FE
+	db	"Ugh...",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Tsk...!",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"Did he say there's",$FE
+	db	"something inside?",$FD
+	db	LEFT, MAX, GFX2
+	db	"Maybe...",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"We are getting.",$FE
+	db	"close to the",$FE
+	db	"enemy's area of",$FE 
+	db	"operations.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I'm going in!",$FF

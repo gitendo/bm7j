@@ -1,0 +1,58 @@
+﻿; referenced at 46:43d5
+; located at 46:5ba0
+
+LEFT, MYLENE, GFX1
+"もう",$FE
+"追いつかれちゃう！",$FD
+
+RIGHT, GAMLIN, GFX1
+"もうすぐそこまで",$FE
+"来ています！！",$FD
+
+LEFT, MILIA, GFX1
+"このままだと",$FE
+"時間の問題ね…！",$FD
+
+RIGHT, BASARA, GFX1
+"ウオォォォ！！",$FE
+"俺の歌を聞けー！",$FD
+
+LEFT, MYLENE, GFX3
+"バサラ！！",$FD
+
+RIGHT, BASARA, GFX1
+"お前らは先に行け！",$FD
+
+LEFT, GAMLIN, GFX1
+"何を考えている",$FD
+
+RIGHT, BASARA, GFX3
+"コイツには",$FE
+"俺のソロライブを",$FE
+"聞かせてやるぜ！！",$FD
+
+LEFT, MYLENE, GFX1
+"無茶よ！！",$FE
+"１人じゃ危ないわ！",$FD
+
+RIGHT, MILIA, GFX0
+"勝てそうなの？",$FD
+
+LEFT, BASARA, GFX0
+"まかせとけ！！",$FE
+"最高のステージに",$FE
+"してやるぜ！",$FD
+
+RIGHT, GAMLIN, GFX3
+"行けバサラ！！",$FE
+"思いっきり",$FE
+"歌ってこい！",$FD
+
+LEFT, MYLENE, GFX2
+"バサラーー！！",$FD
+
+RIGHT, BASARA, GFX1
+"やってやるぜ！！",$FE
+"ファイヤー！！",$FF
+
+; size: 454 bytes

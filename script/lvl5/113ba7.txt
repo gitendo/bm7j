@@ -1,0 +1,11 @@
+; referenced at 44:7ba7
+; located at 44:7c7b
+;		 <---------------->
+	db	"The biological",$FE
+	db	"reactions within",$FE
+	db	"the fortress are",$FE
+	db	"increasing! It's",$FE
+	db	"as if the planet",$FE
+	db	"itself is a",$FE
+	db	"gigantic creature!",$FF
+

@@ -1,0 +1,6 @@
+; referenced at 02:4198
+; located at 02:4534
+;		 <------------>
+	db	"I'll do it for"
+	db	"you,my Mylene!",$FE,$2D
+	db	$FF

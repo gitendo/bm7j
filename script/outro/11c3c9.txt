@@ -1,0 +1,26 @@
+; referenced at 47:43c9
+; located at 47:4d29
+;		 <---------------->
+	db	LEFT, MYLENE, GFX3
+	db	"Papa, mama!",$FE
+	db	"You guys came!",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"We got tickets",$FE
+	db	"from Mylene,",$FE
+	db	"there's no way we",$FE
+	db	"were going to",$FE
+	db	"miss it.",$FD
+	db	LEFT, MAX, GFX0
+	db	"It's been a while",$FE
+	db	"since the last",$FE
+	db	"time we went to",$FE
+	db	"a concert.",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"Have fun!",$FD
+	db	LEFT, MILIA, GFX0
+	db	"We'll watch you",$FE
+	db	"from the audience.",$FD
+	db	RIGHT, MAX, GFX3
+	db	"It's good to be",$FE
+	db	"like this once",$FE
+	db	"in a while.",$FF

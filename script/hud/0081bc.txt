@@ -1,0 +1,6 @@
+; referenced at 02:41bc
+; located at 02:4672
+;		 <------------>
+	db	"D'ya think you"
+	db	"can beat me!? ",$FE,$3C
+	db	$FF

@@ -1,0 +1,22 @@
+﻿; referenced at 47:43bf
+; located at 47:4a36
+
+LEFT, GAMLIN, GFX3
+"ミレーヌさん",$FD
+
+RIGHT, MYLENE, GFX3
+"ガムリンさん",$FE
+"来てくれたのね",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, RAY, GFX0
+"今回は",$FE
+"ご苦労でしたね",$FD
+
+LEFT, GAMLIN, GFX0
+"ええ[]コンサート",$FE
+"がんばって下さい",$FF
+
+; size: 125 bytes

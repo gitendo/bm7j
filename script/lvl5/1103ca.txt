@@ -1,0 +1,45 @@
+; referenced at 44:43ca
+; located at 44:547a
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"Are we there yet,",$FE
+	db	"papa?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Almost there.",$FD
+	db	LEFT, RAY, GFX2
+	db	"I don't understand",$FE
+	db	"anymore...",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Is that the",$FE
+	db	"Assessment team?",$FD
+	db	RIGHT, MAX, GFX1
+	db	"What happened!?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"It's dangerous",$FE
+	db	"here...",$FE
+	db	"Please return.",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"Eh!?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"All of those",$FE
+	db	"creatures are",$FE
+	db	"targeting us...",$FD
+	db	RIGHT, RAY, GFX0
+	db	"What do you mean?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Many of them seem",$FE
+	db	"to be brainwashed",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MAX, GFX1
+	db	"I knew it,",$FE
+	db	"so that's what's",$FE
+	db	"going on!",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"Wait here, we",$FE
+	db	"won't let the",$FE
+	db	"monster respon-",$FE
+	db	"sible get away",$FE
+	db	"with it!",$FF

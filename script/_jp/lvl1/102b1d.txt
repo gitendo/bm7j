@@ -1,0 +1,8 @@
+﻿; referenced at 40:6b1d
+; located at 40:6bda
+
+"敵機には",$FE
+"サウンド攻撃が",$FE
+"通用するようです",$FF
+
+; size: 44 bytes

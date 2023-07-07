@@ -1,0 +1,18 @@
+; referenced at 47:43b5
+; located at 47:469f
+;		 <---------------->
+	db	LEFT, MAX, GFX0
+	db	"Is Mylene here?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Your seat is there",$FD
+	db	LEFT, BASARA, GFX0
+	db	"It's unusual to",$FE 
+	db	"see you here.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"We'll stay until",$FE
+	db	"the end this time.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, RAY, GFX0
+	db	"Well, have fun and",$FE
+	db	"enjoy the show.",$FF

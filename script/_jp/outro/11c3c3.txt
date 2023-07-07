@@ -1,0 +1,23 @@
+﻿; referenced at 47:43c3
+; located at 47:4b36
+
+LEFT, MILIA, GFX0
+"ミレーヌは",$FE
+"いるかしら？",$FD
+
+RIGHT, MYLENE, GFX3
+"ママ！",$FE
+"来てくれたのね",$FD
+
+LEFT, RAY, GFX0
+"招待したのか",$FD
+
+RIGHT, MILIA, GFX3
+"ミレーヌから",$FE
+"手紙をもらってね",$FD
+
+LEFT, MYLENE, GFX0
+"最後まで",$FE
+"見ていってね！",$FF
+
+; size: 137 bytes

@@ -1,0 +1,36 @@
+; referenced at 41:43c0
+; located at 41:4cc9
+;		 <---------------->
+	db	LEFT, MILIA, GFX0
+	db	"I loved it, we are",$FE
+	db	"so reckless!",$FD
+	db	RIGHT, RAY, GFX3
+	db	"I'm glad you are",$FE
+	db	"enjoying this ride",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, BASARA, GFX1
+	db	"She knows how to",$FE
+	db	"set her heart free",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"But I'm curious",$FE
+	db	"about what",$FE
+	db	"Max said.",$FD
+	db	LEFT, RAY, GFX0
+	db	"Well, if we keep",$FE
+	db	"going, we might be",$FE
+	db	"able to find them.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"They're probably",$FE
+	db	"shirking",$FE
+	db	"their duties.",$FD
+	db	LEFT, MILIA, GFX1
+	db	"I don't think so!",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, RAY, GFX0
+	db	"There might be",$FE
+	db	"something ahead.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I will let them",$FE
+	db	"hear my songs!",$FF

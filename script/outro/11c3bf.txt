@@ -1,0 +1,17 @@
+; referenced at 47:43bf
+; located at 47:4a36
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX3
+	db	"I'm here, Mylene,",$FE
+	db	"I love you.",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"I'm glad you came,",$FE
+	db	"what was that?",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"Finally...",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Thank you for your",$FE
+	db	"hard work today!",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Let's get married",$FE
+	db	"after the concert.",$FD

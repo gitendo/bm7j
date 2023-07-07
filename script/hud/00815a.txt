@@ -1,0 +1,6 @@
+; referenced at 02:415a
+; located at 02:4392
+;		 <------------>
+	db	"Keep on       "
+	db	"rocking!      ",$FE,$1E
+	db	$FF

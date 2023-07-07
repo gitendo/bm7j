@@ -1,0 +1,39 @@
+﻿; referenced at 42:43b6
+; located at 42:44d5
+
+LEFT, MYLENE, GFX0
+"何かしらあれ",$FD
+
+RIGHT, GAMLIN, GFX1
+"あれは[]撃墜された",$FE
+"バルキリー…",$FD
+
+LEFT, BASARA, GFX1
+"誰かいるみたいだぜ",$FD
+
+RIGHT, MYLENE, GFX2
+"しっかりして！！",$FD
+
+LEFT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+RIGHT, GAMLIN, GFX1
+"大丈夫か？！",$FD
+
+LEFT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+RIGHT, BASARA, GFX1
+"チッ…！！",$FD
+
+LEFT, GAMLIN, GFX2
+"この先に",$FE
+"何があるというんだ",$FD
+
+RIGHT, MYLENE, GFX1
+"とりあえず行こうよ",$FD
+
+LEFT, BASARA, GFX3
+"行ってやるぜー！！",$FF
+
+; size: 247 bytes

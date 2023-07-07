@@ -1,0 +1,20 @@
+; referenced at 47:43ab
+; located at 47:43d1
+;		 <---------------->
+	db	LEFT, RAY, GFX0
+	db	"It is almost our",$FE
+	db	"turn to act.",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"As expected, if",$FE
+	db	"you want to sing,",$FE
+	db	"a concert is the",$FE
+	db	"best place.",$FD
+	db	LEFT, BASARA, GFX0
+	db	"As long as we can",$FE
+	db	"sing, everywhere",$FE
+	db	"is the best stage",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MYLENE, GFX3
+	db	"So, shall we go",$FE
+	db	"now?",$FF

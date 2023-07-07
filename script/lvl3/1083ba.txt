@@ -1,0 +1,28 @@
+; referenced at 42:43ba
+; located at 42:46e7
+;		 <---------------->
+	db	LEFT, MYLENE, GFX0
+	db	"What is it?",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"It looks like",$FE
+	db	"a Valkyrie",$FE 
+	db	"was shot down!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Someone is there.",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"Hang in there!",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Ugh...!",$FD
+	db	RIGHT, MILIA, GFX2
+	db	"Who are they!?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Still Inside, ugh!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Tsk...",$FD
+	db	LEFT, MILIA, GFX1
+	db	"What's inside?",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"At any rate,",$FE
+	db	"let's go!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's go!",$FF

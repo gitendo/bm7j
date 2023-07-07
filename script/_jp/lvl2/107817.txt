@@ -1,0 +1,7 @@
+﻿; referenced at 41:7817
+; located at 41:78a9
+
+"前方に生体反応",$FE
+"巨大植物です！",$FF
+
+; size: 32 bytes

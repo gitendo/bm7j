@@ -1,0 +1,54 @@
+﻿; referenced at 45:43bb
+; located at 45:5640
+
+LEFT, MYLENE, GFX3
+"ヤッター！！",$FE
+"倒したわ！",$FD
+
+RIGHT, RAY, GFX0
+"もう大丈夫だろう",$FD
+
+LEFT, MILIA, GFX3
+"後は帰るだけね",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, MYLENE, GFX1
+"ちょとママ！まだ",$FE
+"攻撃してくるわ！",$FD
+
+LEFT, MILIA, GFX1
+"まだ",$FE
+"遊び足りないようね",$FD
+
+RIGHT, MYLENE, GFX1
+"さっきのが",$FE
+"ここのボスじゃ",$FE
+"なかったの？！",$FD
+
+LEFT, RAY, GFX1
+"どうやら",$FE
+"違ったようだな",$FD
+
+RIGHT, MILIA, GFX1
+"ここはもう",$FE
+"もたないわね",$FD
+
+LEFT, MYLENE, GFX2
+"どうしよう！",$FD
+
+RIGHT, RAY, GFX0
+"ここにいるのは",$FE
+"危険なようだ",$FE
+"逃げよう",$FD
+
+LEFT, MILIA, GFX1
+"マクロス艦に戻って",$FE
+"体制を整えましょう",$FD
+
+RIGHT, MYLENE, GFX2
+"バサラ…",$FE
+"大丈夫なの…",$FF
+
+; size: 381 bytes

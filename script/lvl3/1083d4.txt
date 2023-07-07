@@ -1,0 +1,30 @@
+; referenced at 42:43d4
+; located at 42:5544
+;		 <---------------->
+	db	LEFT, RAY, GFX0
+	db	"What is that",$FE
+	db	"Valkyrie!?",$FD
+	db	RIGHT, MAX, GFX2
+	db	"That's the",$FE 
+	db	"team's Valkyrie.",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Maybe someone is",$FE
+	db	"still there!?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Ugh...!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"What happened?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Still inside...",$FE
+	db	"Ugh...",$FD
+	db	RIGHT, VEFFIDAS, GFX2
+	db	"...",$FD
+	db	LEFT, MAX, GFX2
+	db	"There might be",$FE
+	db	"surviving team",$FE
+	db	"members inside.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Let's hurry.",$FD
+	db	LEFT, RAY, GFX2
+	db	"I hope we're not",$FE
+	db	"too late...",$FF

@@ -1,0 +1,46 @@
+; referenced at 41:43b8
+; located at 41:4665
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"Didn't you realize",$FE
+	db	"this was a dange-",$FE
+	db	"rous place",$FE
+	db	"Basara!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"How should I know?",$FD
+	db	LEFT, MAX, GFX0
+	db	"According to the",$FE
+	db	"situation, it",$FE
+	db	"seems that we",$FE
+	db	"are their enemy.",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"What were you",$FE
+	db	"worried about,",$FE
+	db	"papa?",$FD
+	db	LEFT, MAX, GFX2
+	db	"The team that went",$FE
+	db	"earlier never",$FE
+	db	"contacted us.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"They're probably",$FE
+	db	"shirking",$FE
+	db	"their duties.",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Impossible,",$FE
+	db	"they're not",$FE
+	db	"like Basara.",$FD
+	db	LEFT, MAX, GFX1
+	db	"What was that?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Shut up!",$FE
+	db	"I just know",$FE
+	db	"how to sing.",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"Basara.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"We need",$FE
+	db	"to investigate",$FE
+	db	"further.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I will let them",$FE
+	db	"hear my songs!",$FF

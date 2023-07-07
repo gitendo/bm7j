@@ -1,0 +1,39 @@
+; referenced at 41:43d0
+; located at 41:56a5
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"How come!",$FE
+	db	"They're right here",$FD
+	db	RIGHT, GAMLIN, GFX3
+	db	"It's okay,",$FE
+	db	"Mylene.",$FD
+	db	LEFT, MILIA, GFX3
+	db	"Are you going",$FE
+	db	"to protect me?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"A man will always",$FE
+	db	"protect a woman.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"How reliable",$FE
+	db	"you are.",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"Why are they",$FE
+	db	"attacking?",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"It's hard to",$FE
+	db	"counterattack.",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"It seems that they",$FE
+	db	"are hiding",$FE
+	db	"something.",$FD
+	db	LEFT, MYLENE, GFX3
+	db	"Mama! I see",$FE
+	db	"the ocean.",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"There might",$FE
+	db	"be something",$FE
+	db	"there.",$FD
+	db	LEFT, MYLENE, GFX3
+	db	"An ocean, eh?",$FE
+	db	"I'd like to go",$FE
+	db	"swimming.",$FF

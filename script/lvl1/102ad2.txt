@@ -1,0 +1,10 @@
+; referenced at 40:6ad2
+; located at 40:6ba6
+;		 <---------------->
+	db	"A large number of",$FE
+	db	"asteroids are",$FE
+	db	"coming this way.",$FE
+	db	"All spaceships,",$FE
+	db	"proceed with",$FE
+	db	"extreme caution!",$FF
+

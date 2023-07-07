@@ -1,0 +1,28 @@
+﻿; referenced at 47:43c9
+; located at 47:4d29
+
+LEFT, MYLENE, GFX3
+"パパ[]ママ！",$FE
+"来てくれたんだ！！",$FD
+
+RIGHT, MILIA, GFX3
+"ミレーヌから",$FE
+"手紙をもらったら",$FE
+"来ないわけに",$FE
+"いかないでしょう",$FD
+
+LEFT, MAX, GFX0
+"コンサートなんて",$FE
+"久しぶりだな",$FD
+
+RIGHT, MYLENE, GFX3
+"楽しんでいってね",$FD
+
+LEFT, MILIA, GFX0
+"客席で見ているわ",$FD
+
+RIGHT, MAX, GFX3
+"たまには",$FE
+"いいかもな…",$FF
+
+; size: 208 bytes

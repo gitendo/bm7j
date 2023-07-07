@@ -1,0 +1,21 @@
+; referenced at 47:43c5
+; located at 47:4bbf
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX0
+	db	"Miss Mylene,",$FE
+	db	"I got a special",$FE
+	db	"surprise for after",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Mylene.",$FD
+	db	LEFT, MYLENE, GFX3
+	db	"Papa!",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Looks like this is",$FE
+	db	"going to be your",$FE
+	db	"perfect stage.",$FD
+	db	LEFT, MAX, GFX0
+	db	"We'll watch you",$FE
+	db	"from the audience.",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"Thanks,I'm excited",$FE
+	db	"for the surprise.",$FF

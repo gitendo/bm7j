@@ -1,0 +1,9 @@
+; referenced at 41:7817
+; located at 41:78a9
+;		 <---------------->
+	db	"An immense biolo-",$FE
+	db	"gical threat has",$FE
+	db	"been detected",$FE
+	db	"ahead! My gosh!",$FE
+	db	"It's a gigantic",$FE 
+	db	"monstruous plant!",$FF

@@ -1,0 +1,41 @@
+﻿; referenced at 40:43a5
+; located at 40:4cb4
+
+LEFT, BASARA, GFX1
+"何でお前らまで",$FE
+"ついて来るんだよ！",$FD
+
+RIGHT, GAMLIN, GFX1
+"いつも勝手な",$FE
+"事ばかりして！！",$FD
+
+RIGHT, MILIA, GFX3
+"そうよ！！",$FD
+
+LEFT, BASARA, GFX1
+"うるせー！！",$FD
+
+RIGHT, MILIA, GFX3
+"行くなら行くで",$FE
+"一声かけてからに",$FE
+"しなさい",$FD
+
+LEFT, GAMLIN, GFX2
+"ミリア市長…",$FD
+
+LEFT, BASARA, GFX3
+"俺の歌を聞かせに",$FE
+"行くだけだぜ！！",$FD
+
+RIGHT, GAMLIN, GFX1
+"バサ…敵影を確認！",$FD
+
+RIGHT, MILIA, GFX1
+"この私に喧嘩を",$FE
+"売るつもり？！",$FD
+
+LEFT, BASARA, GFX3
+"行くぜ！",$FE
+"ボンバー！！",$FF
+
+; size: 294 bytes

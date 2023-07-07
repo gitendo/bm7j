@@ -1,0 +1,8 @@
+﻿; referenced at 02:4166
+; located at 02:43c0
+
+"行くぞ！",$0F,$FE
+"ビヒーダ！",$0F,$FE
+"",$FF,$FF
+
+; size: 24 bytes

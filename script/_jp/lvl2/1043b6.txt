@@ -1,0 +1,43 @@
+﻿; referenced at 41:43b6
+; located at 41:4525
+
+LEFT, MYLENE, GFX1
+"一体どうなってるの",$FE
+"バサラ！！",$FD
+
+RIGHT, BASARA, GFX1
+"俺が知るかよ！！",$FD
+
+RIGHT, GAMLIN, GFX3
+"バサラは[]何も",$FE
+"考えていませんよ",$FE
+"ミレーヌさん",$FD
+
+LEFT, BASARA, GFX1
+"うるせー！",$FE
+"俺は歌うだけだー！",$FD
+
+RIGHT, MYLENE, GFX0
+"けどここ変な所ね",$FD
+
+LEFT, GAMLIN, GFX0
+"我々に",$FE
+"好意的でない事は",$FE
+"確かですね",$FD
+
+RIGHT, BASARA, GFX3
+"関係ないぜ",$FD
+
+LEFT, MYLENE, GFX1
+"この状態で",$FE
+"まだ言っているの？",$FD
+
+RIGHT, GAMLIN, GFX0
+"人の存在が",$FE
+"感じられませんね",$FD
+
+LEFT, BASARA, GFX3
+"俺の歌を",$FE
+"聞かせてやるぜー！",$FF
+
+; size: 320 bytes

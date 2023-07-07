@@ -1,0 +1,6 @@
+﻿; referenced at 3d:4444
+; located at 3d:44de
+
+"[][]…数日後…[][]",$FF
+
+; size: 20 bytes

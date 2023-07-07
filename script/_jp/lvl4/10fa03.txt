@@ -1,0 +1,8 @@
+﻿; referenced at 43:7a03
+; located at 43:7aa0
+
+"要塞奥は[]さらに",$FE
+"複雑になっています",$FE
+"敵反応も多数確認！",$FF
+
+; size: 58 bytes

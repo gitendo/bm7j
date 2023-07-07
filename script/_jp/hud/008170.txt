@@ -1,0 +1,7 @@
+﻿; referenced at 02:4170
+; located at 02:43f8
+
+"クッ大丈夫か？",$1E,$FE
+"",$FF,$FF
+
+; size: 18 bytes

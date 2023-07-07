@@ -1,0 +1,48 @@
+; referenced at 46:43c9
+; located at 46:5128
+;		 <---------------->
+	db	LEFT, MILIA, GFX1
+	db	"We're going to",$FE
+	db	"lose at this point",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"We have to resist",$FE
+	db	"for just a",$FE
+	db	"little more!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"You guys go",$FE
+	db	"first!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"Basara, don't",$FE
+	db	"tell me, you...",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I'll make him",$FE 
+	db	"listen to my solo",$FE 
+	db	"presentation live!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"You can't!",$FE  
+	db	"It'll be dangerous",$FE 
+	db	"if you do",$FE 
+	db	"it alone!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"I'm gonna make",$FE
+	db	"him listen to",$FE
+	db	"my song!",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Are you really",$FE
+	db	"going, Basara?",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Leave it to me!",$FE
+	db	"This is the spe-",$FE
+	db	"cial stage where I",$FE 
+	db	"wanted to perform",$FE
+	db	"all along!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"Be careful!",$FD
+	db	LEFT, GAMLIN, GFX3
+	db	"Go, Basara!",$FE
+	db	"Sing with all your",$FE
+	db	"power!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"It's time for me",$FE
+	db	"to act!",$FE
+	db	"Fireee!",$FF

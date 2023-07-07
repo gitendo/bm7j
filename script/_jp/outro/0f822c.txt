@@ -1,0 +1,107 @@
+﻿; referenced at 3e:422c
+; located at 3e:4576
+
+LEFT, MYLENE, GFX2
+"はぁー疲れた",$FD
+
+RIGHT, BASARA, GFX0
+"だらしねーな",$FD
+
+LEFT, RAY, GFX3
+"ハッハッハッハ！",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, MYLENE, GFX1
+"一体誰のおかげで",$FE
+"疲れていると",$FE
+"思ってるのよ！",$FD
+
+RIGHT, BASARA, GFX1
+"俺が何をやろうと",$FE
+"勝手じゃねーか！",$FD
+
+LEFT, RAY, GFX0
+"まぁ[]みんな",$FE
+"無事で何よりだ",$FD
+
+RIGHT, MYLENE, GFX2
+"本当の事を",$FE
+"知ってるのは",$FE
+"私達だけなのよね…",$FD
+
+LEFT, RAY, GFX0
+"銀河スポーツは",$FE
+"ちゃんと真相を",$FE
+"記事にしている",$FE
+"みたいだな",$FD
+
+RIGHT, BASARA, GFX0
+"まだそんなもの",$FE
+"読んでんのか？",$FD
+
+LEFT, RAY, GFX0
+"読者の皆様に注目を",$FE
+"あびていた新惑星は",$FE
+"実は生命体だった！",$FE
+"これは我々銀スポの",$FE
+"突撃調査隊による",$FE
+"勇気ある行動の",$FE
+"賜物であり……",$FD
+
+RIGHT, BASARA, GFX0
+"よくもまあ",$FE
+"記事にするな…",$FD
+
+LEFT, MYLENE, GFX1
+"少しは[]バサラも",$FE
+"新聞を読みなさいよ",$FD
+
+RIGHT, RAY, GFX3
+"ちゃんとした",$FE
+"普通の新聞をな",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, MYLENE, GFX1
+"それって[]イヤミ？",$FD
+
+LEFT, BASARA, GFX3
+"そういえば[]お前の",$FE
+"ヌード写真集が",$FE
+"出るって本当か？",$FD
+
+RIGHT, RAY, GFX0
+"マックス艦長",$FE
+"オペレータに",$FE
+"セクハラ？ってのも",$FE
+"あったな",$FD
+
+LEFT, MYLENE, GFX1
+"そんなわけ",$FE
+"無いでしょ！！",$FD
+
+RIGHT, BASARA, GFX0
+"お前の裸なんて",$FE
+"誰も興味ねーしな",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, MYLENE, GFX2
+"なんか肩透かしを",$FE
+"されたみたいな気分",$FD
+
+LEFT, RAY, GFX3
+"それでいいのさ",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, BASARA, GFX0
+"ぐだぐだ言わずに",$FE
+"早く行こうぜ！",$FF
+
+; size: 905 bytes

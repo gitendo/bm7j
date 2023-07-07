@@ -1,0 +1,54 @@
+﻿; referenced at 43:43c6
+; located at 43:5172
+
+LEFT, MILIA, GFX0
+"ここ本当にただの",$FE
+"惑星なのかしら",$FD
+
+RIGHT, MAX, GFX0
+"洞窟の所々に",$FE
+"機械的なものが",$FE
+"露出しているな",$FD
+
+LEFT, BASARA, GFX0
+"何かスゲーものが",$FE
+"出てきそうな",$FE
+"雰囲気だな",$FD
+
+RIGHT, MILIA, GFX0
+"今の所は何とか",$FE
+"もっているけどね",$FD
+
+LEFT, MAX, GFX0
+"歌エネルギーも",$FE
+"通用しているようだ",$FD
+
+RIGHT, BASARA, GFX3
+"もっと聞きに来い！",$FE
+"俺の歌を！！",$FD
+
+LEFT, MILIA, GFX0
+"誰がこんな事を",$FE
+"したのかしら",$FD
+
+RIGHT, MAX, GFX0
+"この様子から",$FE
+"推測すると",$FE
+"奥にいるんだろう",$FD
+
+LEFT, BASARA, GFX3
+"早くそいつの顔を",$FE
+"拝みに行こうぜ",$FD
+
+RIGHT, MILIA, GFX1
+"一体どんな奴が…",$FD
+
+LEFT, MAX, GFX2
+"これより先はさらに",$FE
+"危険になるだろう",$FD
+
+RIGHT, BASARA, GFX3
+"行くぜ！",$FE
+"ファイヤー！！",$FF
+
+; size: 454 bytes

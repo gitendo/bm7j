@@ -1,0 +1,10 @@
+; referenced at 41:77d6
+; located at 41:7873
+;		 <---------------->
+	db	"If you look at the",$FE
+	db	"dense forest below",$FE
+	db	"you will notice",$FE
+	db	"the creatures are",$FE
+	db	"spreading in all",$FE
+	db	"directions.",$FF
+

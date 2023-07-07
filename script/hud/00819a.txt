@@ -1,0 +1,6 @@
+; referenced at 02:419a
+; located at 02:4552
+;		 <------------>
+	db	"If you want to"
+	db	"die, come on! ",$FE,$2D
+	db	$FF

@@ -1,0 +1,57 @@
+﻿; referenced at 43:43d2
+; located at 43:5a2e
+
+LEFT, MYLENE, GFX0
+"ここ本当に",$FE
+"洞窟なのかしら",$FD
+
+RIGHT, MILIA, GFX0
+"違うでしょうね",$FD
+
+LEFT, MYLENE, GFX0
+"何でわかるのママ？",$FD
+
+RIGHT, MAX, GFX0
+"これだけ迎撃体制が",$FE
+"そろっていれば",$FE
+"当然だろう",$FD
+
+LEFT, MILIA, GFX3
+"この雰囲気",$FE
+"昔を思い出すわね",$FD
+
+RIGHT, MYLENE, GFX0
+"昔って？",$FD
+
+LEFT, MILIA, GFX0
+"マックスと",$FE
+"出会ったころよ",$FD
+
+RIGHT, MAX, GFX1
+"この状況で",$FE
+"不謹慎だぞ",$FD
+
+LEFT, MILIA, GFX3
+"なんと美しいのだ…",$FE
+"なんて言って",$FE
+"くれたのにねぇー",$FD
+
+RIGHT, MYLENE, GFX3
+"キャーー！！",$FD
+
+LEFT, MAX, GFX1
+"む[]昔の事より",$FE
+"今の状況を…",$FD
+
+RIGHT, MILIA, GFX3
+"じゃ[]先を",$FE
+"いそぎましょうか",$FD
+
+LEFT, MYLENE, GFX3
+"もっと続きを",$FE
+"教えてよー",$FD
+
+RIGHT, MAX, GFX2
+"……",$FF
+
+; size: 404 bytes

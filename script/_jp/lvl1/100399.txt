@@ -1,0 +1,41 @@
+﻿; referenced at 40:4399
+; located at 40:45cf
+
+LEFT, BASARA, GFX3
+"お前らも",$FE
+"歌いに来たのか？",$FD
+
+RIGHT, MYLENE, GFX1
+"そんなわけ",$FE
+"ないでしょ！！",$FD
+
+RIGHT, MAX, GFX1
+"許可なしで勝手な",$FE
+"事をするな！！",$FD
+
+RIGHT, MYLENE, GFX1
+"そうよ！いつも",$FE
+"一人で行っちゃうん",$FE
+"だから！！",$FD
+
+LEFT, BASARA, GFX1
+"ごちゃごちゃと",$FE
+"うるせーぞ外野共！",$FD
+
+RIGHT, MAX, GFX1
+"口のきき方に",$FE
+"気をつけろ！！",$FD
+
+LEFT, MYLENE, GFX1
+"ちょっと！！なんか",$FE
+"攻撃して来るわよ！",$FD
+
+RIGHT, MAX, GFX2
+"やはり",$FE
+"心配していた事が…",$FD
+
+LEFT, BASARA, GFX3
+"行くぜ！！",$FE
+"ボンバー！！",$FF
+
+; size: 325 bytes

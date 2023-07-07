@@ -1,0 +1,48 @@
+﻿; referenced at 41:43d6
+; located at 41:5b3d
+
+LEFT, GAMLIN, GFX1
+"何で攻撃して",$FE
+"くるんだ！！",$FD
+
+RIGHT, MILIA, GFX3
+"簡単な事よ",$FE
+"敵として扱われて",$FE
+"いるだけよ",$FD
+
+LEFT, RAY, GFX3
+"歓迎されている",$FE
+"だけだろう",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, GAMLIN, GFX2
+"そんな事を",$FE
+"言える余裕が",$FE
+"よくありますね",$FD
+
+RIGHT, MILIA, GFX0
+"余裕は大切よ",$FD
+
+LEFT, RAY, GFX3
+"まったくです",$FD
+
+RIGHT, GAMLIN, GFX2
+"……",$FD
+
+LEFT, MILIA, GFX0
+"海が見えてきたわね",$FD
+
+RIGHT, RAY, GFX0
+"何かあるかも",$FE
+"しれませんね",$FD
+
+LEFT, GAMLIN, GFX0
+"越えてみましょう",$FD
+
+RIGHT, RAY, GFX3
+"この先は",$FE
+"地獄かもしれんな",$FF
+
+; size: 310 bytes

@@ -1,0 +1,57 @@
+﻿; referenced at 44:43ba
+; located at 44:491c
+
+LEFT, MYLENE, GFX2
+"なんか",$FE
+"キモチワルイ所…",$FD
+
+RIGHT, BASARA, GFX3
+"何弱気な事",$FE
+"言ってんだよ",$FD
+
+LEFT, MILIA, GFX0
+"デリケートなのよ",$FD
+
+RIGHT, BASARA, GFX2
+"何言ってんだ？",$FE
+"オバサン",$FD
+
+LEFT, MILIA, GFX1
+"だれが",$FE
+"オバサンですって！",$FD
+
+LEFT, MYLENE, GFX1
+"あれ[]調査隊じゃ",$FE
+"ないかしら？",$FD
+
+RIGHT, MILIA, GFX2
+"しっかりしなさい！",$FD
+
+LEFT, PILOT, GFX0
+"ここは危険です…",$FE
+"撤退して下さい",$FD
+
+RIGHT, BASARA, GFX1
+"どういう事だ？",$FD
+
+LEFT, PILOT, GFX0
+"こいつらの目的は",$FE
+"我々だ",$FD
+
+LEFT, MYLENE, GFX1
+"えっ？",$FD
+
+RIGHT, PILOT, GFX0
+"攻撃しているのは",$FE
+"洗脳された者たち",$FE
+"なのです…",$FD
+
+LEFT, BASARA, GFX2
+"やっばりな",$FD
+
+LEFT, MYLENE, GFX1
+"そこで待っていて！",$FE
+"そんな事する奴",$FE
+"許せない！！",$FF
+
+; size: 412 bytes

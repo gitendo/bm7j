@@ -1,0 +1,42 @@
+; referenced at 44:43c4
+; located at 44:5006
+;		 <---------------->
+	db	LEFT, BASARA, GFX0
+	db	"What a strange",$FE 
+	db	"place.",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"We already knew",$FE
+	db	"that since we",$FE 
+	db	"arrived to this",$FE
+	db	"weird planet.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"I'm wondering",$FE
+	db	"who did this.",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Is that the",$FE
+	db	"Assessment team?",$FD
+	db	LEFT, MILIA, GFX2
+	db	"Hang in there!",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"It's dangerous",$FE
+	db	"here...",$FE
+	db	"Please return.",$FD
+	db	LEFT, BASARA, GFX1
+	db	"What do you mean?",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"Those people are",$FE
+	db	"targeting us...",$FD
+	db	LEFT, GAMLIN, GFX2
+	db	"You mean...",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"Those that",$FE
+	db	"attacked us have",$FE
+	db	"been brainwashed.",$FD
+	db	LEFT, BASARA, GFX2
+	db	"I knew it.",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"We can't leave",$FE
+	db	"it like this!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"My anger is",$FE
+	db	"burning now!",$FF

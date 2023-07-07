@@ -1,0 +1,6 @@
+; referenced at 02:4142
+; located at 02:423c
+;		 <------------>
+	db	"It's my turn  "
+	db	"to act, FIRE! ",$FE,$2D
+	db	$FF

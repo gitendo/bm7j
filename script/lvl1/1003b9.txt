@@ -1,0 +1,28 @@
+; referenced at 40:43b9
+; located at 40:59a0
+;		 <---------------->
+	db	LEFT, MILIA, GFX0
+	db	"Where did he go?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"I wonder?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MAX, GFX2
+	db	"I'm worried about",$FE
+	db	"Assessment team.",$FD
+	db	RIGHT, MILIA, GFX2
+	db	"Indeed...",$FD
+	db	LEFT, RAY, GFX0
+	db	"It seems that",$FE
+	db	"we'll find out",$FE
+	db	"the reason soon.",$FD
+	db	RIGHT, MAX, GFX2
+	db	"I knew it...",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Are they going",$FE
+	db	"to fight us!?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MAX, GFX1
+	db	"Looks like we have",$FE
+	db	"no other options!",$FF

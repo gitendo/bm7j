@@ -1,0 +1,11 @@
+; referenced at 29:40bc
+; located at 29:4476
+;		 <---------------->
+	db	"Confirm the planet",$FE
+	db	"exit with the",$FE
+	db	"ship's radar!",$FE
+	db	"A great number of",$FE
+	db	"enemies are ahead!",$FE
+	db	"All ships, prepare",$FE
+	db	"for counter attack",$FE
+	db	"at once!!!",$FF

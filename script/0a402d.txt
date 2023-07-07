@@ -1,0 +1,9 @@
+; referenced at 29:402d
+; located at 29:43e8
+;		 <---------------->
+	db	"Confirming a giant",$FE
+	db	"creature in the",$FE
+	db	"center of",$FE
+	db	"the planet!",$FE
+	db	"It's coming...",$FE
+	db	"right for us!",$FF

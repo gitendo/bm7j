@@ -1,0 +1,7 @@
+﻿; referenced at 02:416c
+; located at 02:4428
+
+"きいている様だ",$1E,$FE
+"",$FF,$FF
+
+; size: 18 bytes

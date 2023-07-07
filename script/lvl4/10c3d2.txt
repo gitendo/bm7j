@@ -1,0 +1,42 @@
+; referenced at 43:43d2
+; located at 43:5a2e
+;		 <---------------->
+	db	LEFT, MYLENE, GFX0
+	db	"Is this really",$FE
+	db	"a cave?",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"I don't think so.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"What do you mean,",$FE
+	db	"mama?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"I think this",$FE
+	db	"is man-made.",$FD
+	db	LEFT, MILIA, GFX3
+	db	"This atmosphere",$FE
+	db	"reminds me of",$FE
+	db	"the past...",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"Past?",$FD
+	db	LEFT, MILIA, GFX0
+	db	"When I met Max.",$FD
+	db	RIGHT, MAX, GFX1
+	db	"How imprudent.",$FD
+	db	LEFT, MILIA, GFX3
+	db	"How beautiful...",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"Yeah, good times,",$FE
+	db	"mama, Kyaah!",$FD
+	db	LEFT, MAX, GFX1
+	db	"There's no use",$FE
+	db	"talking about our",$FE
+	db	"past, what's",$FE
+	db	"important is now.",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"Well, then, let's",$FE
+	db	"move forward.",$FD
+	db	LEFT, MYLENE, GFX3
+	db	"Tell me more juicy",$FE
+	db	"details soon, mama",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Dear god...",$FF

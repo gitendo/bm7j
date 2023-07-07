@@ -1,0 +1,44 @@
+﻿; referenced at 42:43c4
+; located at 42:4c5a
+
+LEFT, BASARA, GFX0
+"何か転がっているぜ",$FD
+
+RIGHT, MILIA, GFX0
+"マックスが言ってた",$FE
+"調査隊の機体かしら",$FD
+
+LEFT, GAMLIN, GFX0
+"まだ誰か",$FE
+"残っているかも",$FE
+"しれません",$FD
+
+RIGHT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+LEFT, MILIA, GFX2
+"大丈夫？",$FD
+
+RIGHT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+LEFT, BASARA, GFX1
+"チッ…！！",$FD
+
+RIGHT, GAMLIN, GFX2
+"まだ生存者が",$FE
+"奥にいるのでは？",$FD
+
+LEFT, MILIA, GFX0
+"考えている以上の",$FE
+"事態になっている",$FE
+"みたいね",$FD
+
+RIGHT, GAMLIN, GFX0
+"洞窟の中を",$FE
+"進みましょう",$FD
+
+LEFT, BASARA, GFX3
+"行ってやるぜー！！",$FF
+
+; size: 309 bytes

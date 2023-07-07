@@ -1,0 +1,51 @@
+; referenced at 46:43cf
+; located at 46:55f2
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"He's chasing us!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"We can't win at",$FE
+	db	"this point.",$FD
+	db	LEFT, RAY, GFX1
+	db	"What should we do?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Wooaaah! Listen to",$FE
+	db	"my song!",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"Basara!",$FD
+	db	LEFT, MAX, GFX0
+	db	"Where have you",$FE
+	db	"been!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"You guys go first!",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Basara, what about",$FE
+	db	"you!?",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"I'll make him",$FE 
+	db	"listen to my solo",$FE 
+	db	"presentation live!",$FD
+	db	LEFT, RAY, GFX3
+	db	"He's going to take",$FE 
+	db	"the best role!",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Is it going",$FE
+	db	"to work?",$FD
+	db	LEFT, BASARA, GFX0
+	db	"Leave it to me!",$FE
+	db	"This is the spe-",$FE
+	db	"cial stage where I",$FE 
+	db	"wanted to perform",$FE
+	db	"all along!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"We're counting on",$FE
+	db	"you! We are going",$FE
+	db	"to retreat now!",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"Basara...",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"It's time for me",$FE
+	db	"to act!!!",$FE
+	db	"Fireee!",$FF

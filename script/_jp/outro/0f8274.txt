@@ -1,0 +1,109 @@
+﻿; referenced at 3e:4274
+; located at 3e:48ff
+
+LEFT, MAX, GFX2
+"まったく",$FE
+"ひどい目にあった",$FD
+
+RIGHT, GAMLIN, GFX0
+"バサラにかかわると",$FE
+"いつもこうです",$FD
+
+LEFT, MILIA, GFX0
+"それにしても",$FE
+"惑星自体が",$FE
+"生命体だったとはね",$FD
+
+RIGHT, MAX, GFX0
+"あの巨大生命体は",$FE
+"一体何だったのか…",$FD
+
+LEFT, GAMLIN, GFX0
+"つかまえた生物を",$FE
+"洗脳してあやつり",$FE
+"生命力をすいとって",$FE
+"エネルギーにする…",$FD
+
+RIGHT, MILIA, GFX2
+"これじゃまるで",$FE
+"プロトデビルンね",$FD
+
+LEFT, GAMLIN, GFX0
+"…まだ生き残りが",$FE
+"いたのでしょうか？",$FD
+
+RIGHT, MAX, GFX2
+"考えられない事では",$FE
+"ないだろうな…",$FD
+
+LEFT, MILIA, GFX0
+"だけど本当の事は",$FE
+"市民に知らせるべき",$FE
+"なのかしら",$FD
+
+RIGHT, MAX, GFX0
+"それはしない方が",$FE
+"いいだろう",$FD
+
+LEFT, GAMLIN, GFX0
+"一部の報道が",$FE
+"この事件の事を",$FE
+"取り上げている",$FE
+"ようですが",$FD
+
+RIGHT, MILIA, GFX0
+"ゴシップ誌の",$FE
+"ネタにしか",$FE
+"なりそうも無いわね",$FD
+
+LEFT, MAX, GFX1
+"しかしもう少し",$FE
+"バサラの奴は",$FE
+"おとなしく",$FE
+"ならんのか！",$FD
+
+RIGHT, GAMLIN, GFX2
+"あいつの首に",$FE
+"鎖をつけても",$FE
+"すぐにどこかへ",$FE
+"行ってしまいますよ",$FD
+
+LEFT, MILIA, GFX3
+"まさにそのとおりね",$FD
+
+RIGHT, MAX, GFX0
+"今回の事件は",$FE
+"我々だけで",$FE
+"処理できたのが",$FE
+"不幸中の幸いだ",$FD
+
+LEFT, GAMLIN, GFX3
+"そういえば",$FE
+"ミレーヌさんから",$FE
+"お二人にと手紙を",$FE
+"預かっております",$FD
+
+RIGHT, MILIA, GFX3
+"珍しいわね",$FD
+
+LEFT, MYLENE, GFX3
+"パパ[]ママ",$FE
+"今回の事は",$FE
+"バサラに代わって",$FE
+"謝ります",$FE
+"お詫びという",$FE
+"わけじゃないけど",$FE
+"私達の",$FE
+"ライブのチケットを",$FE
+"同封しておきます",$FE
+"絶対に応援に来てね",$FE
+"ミレーヌより",$FD
+
+RIGHT, MAX, GFX3
+"フッ…",$FD
+
+LEFT, GAMLIN, GFX3
+"一緒に",$FE
+"行きませんか？",$FF
+
+; size: 1051 bytes

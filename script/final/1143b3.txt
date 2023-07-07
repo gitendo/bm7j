@@ -1,0 +1,46 @@
+; referenced at 45:43b3
+; located at 45:5075
+;		 <---------------->
+	db	LEFT, MILIA, GFX0
+	db	"After this I'm",$FE
+	db	"going to take",$FE
+	db	"a good nap.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"We've stopped",$FE
+	db	"their attack!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I still want to",$FE
+	db	"rock more songs!",$FD
+	db	LEFT, MILIA, GFX3
+	db	"You sure have",$FE
+	db	"a lot of energy.",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"Captain,",$FE
+	db	"the enemy is still",$FE
+	db	"attacking!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"So the guy from",$FE
+	db	"earlier was not in",$FE
+	db	"his true form!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Something big is",$FE
+	db	"coming from",$FE
+	db	"inside!",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"So there's still",$FE
+	db	"more enemies",$FE
+	db	"inside?",$FD
+	db	RIGHT, MILIA, GFX2
+	db	"Let's get",$FE 
+	db	"outta here!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"We've come this",$FE
+	db	"far, we can't",$FE
+	db	"stop now!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"We'll be in danger",$FE
+	db	"if we stay here.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Damn that guy,",$FE
+	db	"what is his true",$FE
+	db	"form...?",$FF

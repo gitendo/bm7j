@@ -1,0 +1,46 @@
+; referenced at 40:43b3
+; located at 40:5606
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"Geez, Basara...",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"He's always",$FE
+	db	"reckless.",$FD
+	db	RIGHT, MAX, GFX1
+	db	"He goes without",$FE
+	db	"caring about us!",$FD
+	db	LEFT, MILIA, GFX2
+	db	"What did you mean",$FE
+	db	"about what you",$FE
+	db	"said earlier?",$FD
+	db	RIGHT, MAX, GFX2
+	db	"We have no clue",$FE
+	db	"about the team's",$FE
+	db	"whereabouts.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"What do you mean?",$FE
+	db	"People already",$FE
+	db	"went to that",$FE
+	db  	"planet!?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"This is totally",$FE
+	db	"unrelated.",$FD
+	db	RIGHT, MILIA, GFX2
+	db	"More importantly,",$FE
+	db	"I'm curious about",$FE
+	db	"what Max said.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"What are you",$FE
+	db	"talking about?",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"Sorry, I can't ",$FE
+	db	"talk about it yet.",$FD
+	db	LEFT, MAX, GFX1
+	db	"Something is",$FE
+	db	"attacking us!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"Are they going",$FE
+	db	"to fight us!?",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"I knew this was",$FE
+	db	"going to happen.",$FF

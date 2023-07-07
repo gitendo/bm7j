@@ -1,0 +1,36 @@
+; referenced at 41:43c4
+; located at 41:4fa9
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX1
+	db	"What is",$FE
+	db	"this place?",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"If they try to",$FE
+	db	"fight us, those",$FE
+	db	"guys are idiots.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"They have gathered",$FE
+	db	"to listen to",$FE
+	db	"my songs.",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"You've got",$FE
+	db	"some nerve.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"But I'm curious",$FE
+	db	"about what",$FE
+	db	"Max said.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"We can only",$FE
+	db	"keep going.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"They're probably",$FE
+	db	"shirking",$FE
+	db	"their duties.",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"I don't think so!",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Let's go toward",$FE
+	db	"the ocean.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"I'll make them",$FE
+	db	"hear my songs!",$FF

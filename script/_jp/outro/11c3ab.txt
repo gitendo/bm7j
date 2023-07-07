@@ -1,0 +1,23 @@
+﻿; referenced at 47:43ab
+; located at 47:43d1
+
+LEFT, RAY, GFX0
+"そろそろ本番だな",$FD
+
+RIGHT, MYLENE, GFX3
+"やっば歌うのなら",$FE
+"コンサート会場が",$FE
+"一番ね！",$FD
+
+LEFT, BASARA, GFX0
+"どこでも歌えれば",$FE
+"最高のステージに",$FE
+"なるぜ",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, MYLENE, GFX3
+"じゃ[]行こっか？",$FF
+
+; size: 147 bytes

@@ -1,0 +1,46 @@
+﻿; referenced at 40:43b1
+; located at 40:54c3
+
+LEFT, MYLENE, GFX2
+"まったくもう",$FE
+"バサラったら…",$FD
+
+RIGHT, MILIA, GFX3
+"落ち着きの",$FE
+"無い子ねー",$FD
+
+RIGHT, GAMLIN, GFX3
+"ほっときましょうよ",$FE
+"ミレーヌさん",$FD
+
+LEFT, MYLENE, GFX0
+"でもー…",$FD
+
+RIGHT, MILIA, GFX0
+"それにしても",$FE
+"マックスが",$FE
+"言ってた事が",$FE
+"気になるわね",$FD
+
+LEFT, MYLENE, GFX0
+"どういう事なのママ",$FD
+
+RIGHT, MILIA, GFX3
+"こっちの話よ",$FD
+
+LEFT, MYLENE, GFX2
+"バサラったら",$FE
+"どこまで行ったの…",$FD
+
+RIGHT, GAMLIN, GFX1
+"敵影を確認！！",$FD
+
+LEFT, MILIA, GFX1
+"私に喧嘩を",$FE
+"売るつもり？",$FD
+
+RIGHT, MYLENE, GFX1
+"やっばり",$FE
+"こうなるのね！！",$FF
+
+; size: 323 bytes

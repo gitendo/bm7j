@@ -1,0 +1,58 @@
+﻿; referenced at 43:43c4
+; located at 43:4f9c
+
+LEFT, GAMLIN, GFX0
+"少しまわりの様子が",$FE
+"おかしいと",$FE
+"思いませんか？",$FD
+
+RIGHT, MILIA, GFX0
+"そうね…",$FE
+"機械的なものが",$FE
+"露出している部分が",$FE
+"あるわね",$FD
+
+LEFT, BASARA, GFX3
+"へへ…だんだん",$FE
+"らしくなってきたぜ",$FD
+
+RIGHT, GAMLIN, GFX0
+"どういう事だ？",$FD
+
+LEFT, BASARA, GFX3
+"当然",$FE
+"俺のステージに",$FE
+"似合ってきたと",$FE
+"いう事さ",$FD
+
+RIGHT, MILIA, GFX3
+"あなたらしい",$FE
+"考え方ね",$FD
+
+LEFT, GAMLIN, GFX1
+"少しは[]状況を",$FE
+"考えたらどうだ！",$FD
+
+RIGHT, BASARA, GFX1
+"小難しい事",$FE
+"いってんじゃねー！",$FD
+
+LEFT, MILIA, GFX0
+"この奥には",$FE
+"大事なものが",$FE
+"あるんでしょうね",$FD
+
+RIGHT, GAMLIN, GFX0
+"多分この惑星の",$FE
+"動力部だと",$FE
+"思われます",$FD
+
+LEFT, MILIA, GFX0
+"そこを破壊しに",$FE
+"行きましょう",$FD
+
+RIGHT, BASARA, GFX3
+"行くぜ！",$FE
+"ファイヤー！！",$FF
+
+; size: 470 bytes

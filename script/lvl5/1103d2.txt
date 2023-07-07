@@ -1,0 +1,43 @@
+; referenced at 44:43d2
+; located at 44:5ae1
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"I don't understand",$FE
+	db	"anymore!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"Calm down, Mylene.",$FD
+	db	LEFT, MAX, GFX0
+	db	"At a time like",$FE
+	db	"this, you need",$FE
+	db	"to chill out.",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"Is that the",$FE
+	db	"Assessment team?",$FD
+	db	LEFT, MILIA, GFX2
+	db	"Hang in there!",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"It's dangerous",$FE
+	db	"here...",$FE
+	db	"Please return.",$FD
+	db	LEFT, MAX, GFX1
+	db	"What do you mean?",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"All of those",$FE
+	db	"creatures are",$FE
+	db	"targeting us...",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Eh!?",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"Many of them seem",$FE
+	db	"to be brainwashed",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Indeed...",$FD
+	db	RIGHT, MAX, GFX0
+	db	"We finally know",$FE
+	db	"the truth of it..",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Wait here, we",$FE
+	db	"won't let the",$FE
+	db	"monster respon-",$FE
+	db	"sible get away",$FE
+	db	"with it!",$FF

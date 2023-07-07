@@ -1,0 +1,17 @@
+; referenced at 47:43b1
+; located at 47:4595
+;		 <---------------->
+	db	LEFT, MILIA, GFX0
+	db	"Mylene, we came.",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"Mama!",$FE
+	db	"You came?",$FD
+	db	LEFT, BASARA, GFX3
+	db	"It's weird for old",$FE
+	db	"ladies to frequent",$FE
+	db	"these places...",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"I'm not that old,",$FE
+	db	"you hear!",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"It's started...",$FF

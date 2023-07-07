@@ -1,0 +1,36 @@
+; referenced at 3f:41c8
+; located at 3f:4560
+;		 <---------------->
+	db	RIGHT, MAX, GFX1
+	db	"What are you",$FE
+	db	"doing!?",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Alright!",$FE
+	db	"Bring it on!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"Where do you think",$FE
+	db	"you're going?",$FE
+	db	"Basara!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"You know it!",$FE
+	db	"I'll welcome them",$FE
+	db	"with some good",$FE
+	db	"rock songs!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"Don't tell me that",$FE
+	db	"you're going to",$FE 
+	db	"that new planet?",$FD
+	db	RIGHT, MAX, GFX1
+	db	"Are you crazy!?",$FE
+	db	"We're still",$FE
+	db	"investigating if",$FE
+	db	"that planet is a",$FE
+	db	"safe place to go.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"You can't stop me!",$FE
+	db	"I need to sing and",$FE
+	db	"make their passion",$FE
+	db	"burn!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Let's do this!",$FE
+	db	"Bomber!",$FF

@@ -1,0 +1,27 @@
+﻿; referenced at 47:43cf
+; located at 47:4f94
+
+LEFT, MILIA, GFX0
+"ミレーヌは",$FE
+"いるかしら？",$FD
+
+RIGHT, MAX, GFX0
+"……",$FD
+
+LEFT, RAY, GFX0
+"珍しい組み合わせ",$FE
+"ですね",$FD
+
+RIGHT, MILIA, GFX3
+"ミレーヌに",$FE
+"招待されてね",$FD
+
+LEFT, MAX, GFX0
+"そうでもしなければ",$FE
+"来ないからな",$FD
+
+RIGHT, RAY, GFX3
+"ミレーヌもきっと",$FE
+"喜びますよ",$FF
+
+; size: 166 bytes

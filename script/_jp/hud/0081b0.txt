@@ -1,0 +1,7 @@
+﻿; referenced at 02:41b0
+; located at 02:4650
+
+"この私が？！",$FF,$FE
+"",$FF,$FF
+
+; size: 16 bytes

@@ -1,0 +1,43 @@
+﻿; referenced at 42:43c2
+; located at 42:4b3d
+
+LEFT, BASARA, GFX0
+"何か転がっているぜ",$FD
+
+RIGHT, MAX, GFX2
+"あれは調査隊の",$FE
+"バルキリー…",$FD
+
+LEFT, GAMLIN, GFX0
+"まだ誰か",$FE
+"残っているかも",$FE
+"しれません",$FD
+
+RIGHT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+LEFT, MAX, GFX1
+"一体何が",$FE
+"あったというのだ？",$FD
+
+RIGHT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+LEFT, BASARA, GFX1
+"チッ…！！",$FD
+
+RIGHT, GAMLIN, GFX2
+"まだ生存者が",$FE
+"奥にいるのでは？",$FD
+
+LEFT, MAX, GFX2
+"たぶんな…",$FD
+
+RIGHT, GAMLIN, GFX0
+"洞窟の中を",$FE
+"進みましょう",$FD
+
+LEFT, BASARA, GFX3
+"行ってやるぜー！！",$FF
+
+; size: 285 bytes

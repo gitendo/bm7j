@@ -1,0 +1,31 @@
+; referenced at 42:43b8
+; located at 42:45cc
+;		 <---------------->
+	db	LEFT, MYLENE, GFX0
+	db	"What is it?",$FD
+	db	RIGHT, MAX, GFX1
+	db	"The wreckage of",$FE
+	db	"a Valkyrie...?",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Someone is there.",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"Hang in there!",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Ugh...!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"What happened!?",$FE
+	db	"Are you okay?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Still inside, ugh!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Ahh!",$FD
+	db	LEFT, MAX, GFX2
+	db	"Looks like there",$FE
+	db	"are Assessment",$FE
+	db	"team members",$FE 
+	db	"still inside!",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"We must go",$FE
+	db	"then, fight on!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's go!",$FF

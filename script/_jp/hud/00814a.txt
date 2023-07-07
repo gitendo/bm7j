@@ -1,0 +1,7 @@
+﻿; referenced at 02:414a
+; located at 02:42c6
+
+"ボンバー！！",$1E,$FE
+"",$FF,$FF
+
+; size: 16 bytes

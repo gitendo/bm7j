@@ -1,0 +1,50 @@
+﻿; referenced at 43:43be
+; located at 43:4a9e
+
+LEFT, MAX, GFX0
+"奥に進むほど攻撃が",$FE
+"激しくなっていくな",$FD
+
+RIGHT, RAY, GFX0
+"それだけ",$FE
+"奥に大事な物が",$FE
+"あるんでしょう",$FD
+
+LEFT, BASARA, GFX3
+"俺のための",$FE
+"ステージの準備は",$FE
+"できてるんだろうな",$FD
+
+RIGHT, RAY, GFX3
+"期待を裏切る事は",$FE
+"無いだろう",$FD
+
+LEFT, MAX, GFX1
+"不謹慎だぞ！！",$FD
+
+RIGHT, BASARA, GFX1
+"いいじゃねーか！",$FD
+
+LEFT, RAY, GFX0
+"しかし[]何が",$FE
+"あるんでしょうか？",$FD
+
+RIGHT, MAX, GFX0
+"おそらく[]動力部",$FE
+"もしくは指揮官が",$FE
+"いるんだろう",$FD
+
+LEFT, BASARA, GFX0
+"早くそいつを",$FE
+"拝みに行こうぜ",$FD
+
+RIGHT, RAY, GFX3
+"ベッピンさんかも",$FE
+"しれんしな",$FD
+
+LEFT, MAX, GFX2
+"少しは",$FE
+"緊張というものを",$FE
+"覚えろ…",$FF
+
+; size: 409 bytes

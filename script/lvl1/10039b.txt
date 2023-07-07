@@ -1,0 +1,30 @@
+; referenced at 40:439b
+; located at 40:4714
+;		 <---------------->
+	db	LEFT, BASARA, GFX3
+	db	"Did you also come",$FE
+	db	"to sing?",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"That's not",$FE
+	db	"why I'm here!",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"I knew it.",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Wait! Mama!",$FD
+	db	LEFT, BASARA, GFX0
+	db	"I knew you would",$FE
+	db	"understand the",$FE
+	db	"way we feel!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"Don't get carried",$FE
+	db	"away!",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Wait! Something",$FE
+	db	"is attacking us!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"Looks like we",$FE
+	db	"are up for a",$FE
+	db	"big welcome!",$FD
+	db	LEFT, BASARA, GFX0
+	db	"Let's go!",$FE
+	db	"BOMBEEER!!!",$FF

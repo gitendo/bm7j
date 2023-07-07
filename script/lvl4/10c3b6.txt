@@ -1,0 +1,37 @@
+; referenced at 43:43b6
+; located at 43:44d1
+;		 <---------------->
+	db	LEFT, MYLENE, GFX0
+	db	"Is this really",$FE
+	db	"a cave?",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Of course.",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Why are machines",$FE
+	db	"mixed with trees?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"How should",$FE
+	db	"I know?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Do you think",$FE
+	db	"Basara is",$FE
+	db	"interested in",$FE
+	db	"something like",$FE
+	db	"this, Mylene?",$FD
+	db	LEFT, BASARA, GFX1
+	db	"You guys!",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"What do you think",$FE 
+	db	"is inside?",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"It's obvious,",$FE
+	db	"a stage!",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"why did I ask?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Let's hurry!",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"Wait for me!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"We're really gonna",$FE
+	db	"rock this place!",$FF

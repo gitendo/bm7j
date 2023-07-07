@@ -1,0 +1,21 @@
+﻿; referenced at 47:43af
+; located at 47:452a
+
+LEFT, MAX, GFX0
+"ミレーヌ",$FD
+
+RIGHT, MYLENE, GFX3
+"パパ！",$FE
+"来てくれたんだ",$FD
+
+LEFT, BASARA, GFX0
+"珍しいのが来たな",$FD
+
+RIGHT, MAX, GFX0
+"悪かったな",$FD
+
+LEFT, MYLENE, GFX3
+"最後まで",$FE
+"見ていってね！！",$FF
+
+; size: 107 bytes

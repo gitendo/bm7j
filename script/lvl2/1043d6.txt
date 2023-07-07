@@ -1,0 +1,37 @@
+; referenced at 41:43d6
+; located at 41:5b3d
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX1
+	db	"Why are we under",$FE
+	db	"attack!?",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"Easy, because we",$FE 
+	db	"are interrupting",$FE
+	db	"their summer",$FE 
+	db	"vacation on a",$FE
+	db	"brand new planet.",$FD
+	db	LEFT, RAY, GFX3
+	db	"Aren't they just",$FE
+	db	"welcoming us?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX2
+	db	"This is not the",$FE
+	db	"time to start",$FE
+	db	"joking like that.",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"But it's important",$FD
+	db	LEFT, RAY, GFX3
+	db	"Geez",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"...",$FD
+	db	LEFT, MILIA, GFX0
+	db	"I see the ocean.",$FD
+	db	RIGHT, RAY, GFX0
+	db	"There might be",$FE
+	db	"something there.",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"Let's check it out",$FD
+	db	RIGHT, RAY, GFX3
+	db	"It might be hell",$FE
+	db	"ahead, for sure!",$FF

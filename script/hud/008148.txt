@@ -1,0 +1,6 @@
+; referenced at 02:4148
+; located at 02:42d6
+;		 <------------>
+	db	"Listen to my  "
+	db	"song, FIREEE! ",$FE,$2D
+	db	$FF

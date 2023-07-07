@@ -1,0 +1,32 @@
+; referenced at 43:43ca
+; located at 43:5496
+;		 <---------------->
+	db	LEFT, MYLENE, GFX0
+	db	"I wonder if Basara",$FE
+	db	"is already inside.",$FD
+	db	RIGHT, RAY, GFX0
+	db	"I think so.",$FD
+	db	LEFT, MAX, GFX2
+	db	"I wonder if the",$FE
+	db	"Assessment team is",$FE
+	db	"still inside...",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, RAY, GFX0
+	db	"This place is",$FE
+	db	"getting more like",$FE
+	db	"a fortress.",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"I wonder if we can",$FE
+	db	"return from here.",$FD
+	db	LEFT, MAX, GFX0
+	db	"We can only go",$FE
+	db	"forward....",$FD
+	db	RIGHT, RAY, GFX3
+	db	"If we can destroy",$FE
+	db	"their stronghold..",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"It's not gonna be",$FE
+	db	"easy, though.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Let's hurry.",$FF

@@ -1,0 +1,6 @@
+; referenced at 02:419e
+; located at 02:45b0
+;		 <------------>
+	db	"Why is this   "
+	db	"happening!?   ",$FE,$FF
+	db	$FF

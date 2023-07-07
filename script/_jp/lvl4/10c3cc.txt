@@ -1,0 +1,46 @@
+﻿; referenced at 43:43cc
+; located at 43:55ee
+
+LEFT, MYLENE, GFX2
+"一体この洞窟は",$FE
+"どこまで",$FE
+"あるのかしら",$FD
+
+RIGHT, RAY, GFX0
+"ここが本当に",$FE
+"洞窟とは",$FE
+"思えないがな…",$FD
+
+LEFT, MYLENE, GFX0
+"どういう事？",$FD
+
+RIGHT, MILIA, GFX0
+"ここが人工物だと",$FE
+"いう事よ",$FD
+
+LEFT, RAY, GFX0
+"洞窟の所々に",$FE
+"機械的なものが",$FE
+"露出してきて",$FE
+"いるからな",$FD
+
+RIGHT, MYLENE, GFX2
+"誰がこんな事を",$FE
+"しているのかしら…",$FD
+
+LEFT, MILIA, GFX3
+"この奥に答えが",$FE
+"待っていると思うわ",$FD
+
+RIGHT, RAY, GFX3
+"たいそうな",$FE
+"おもてなしを",$FE
+"してくれそうだな",$FD
+
+LEFT, MYLENE, GFX0
+"おもてなしって？",$FD
+
+RIGHT, MILIA, GFX0
+"行けばわかるわよ",$FF
+
+; size: 360 bytes

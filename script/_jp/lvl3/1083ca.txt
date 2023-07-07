@@ -1,0 +1,41 @@
+﻿; referenced at 42:43ca
+; located at 42:4fb5
+
+LEFT, MYLENE, GFX0
+"何かしらあれ",$FD
+
+RIGHT, RAY, GFX1
+"撃墜された",$FE
+"バルキリーだな…",$FD
+
+LEFT, MAX, GFX0
+"まだ誰か",$FE
+"残っているのか？",$FD
+
+RIGHT, MYLENE, GFX2
+"しっかりして！！",$FD
+
+LEFT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+RIGHT, RAY, GFX2
+"何があったんだ？",$FD
+
+LEFT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+RIGHT, MAX, GFX2
+"奥に何が…",$FD
+
+LEFT, RAY, GFX1
+"この先に答えが",$FE
+"ありそうですね",$FD
+
+RIGHT, MYLENE, GFX1
+"とりあえず行こうよ",$FD
+
+LEFT, MAX, GFX0
+"洞窟内は狭いから",$FE
+"気をつけろ！！",$FF
+
+; size: 271 bytes

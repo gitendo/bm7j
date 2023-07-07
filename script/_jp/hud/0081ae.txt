@@ -1,0 +1,8 @@
+﻿; referenced at 02:41ae
+; located at 02:460a
+
+"邪魔よ！",$0F,$FE
+"どきなさい！！",$0F,$FE
+"",$FF,$FF
+
+; size: 28 bytes

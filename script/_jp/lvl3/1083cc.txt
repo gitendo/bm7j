@@ -1,0 +1,42 @@
+﻿; referenced at 42:43cc
+; located at 42:50c4
+
+LEFT, MYLENE, GFX0
+"何かしらあれ",$FD
+
+RIGHT, RAY, GFX1
+"撃墜された",$FE
+"バルキリーだな…",$FD
+
+LEFT, MILIA, GFX0
+"誰かいるかも",$FE
+"しれないわね",$FD
+
+RIGHT, MYLENE, GFX2
+"しっかりして！！",$FD
+
+LEFT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+RIGHT, RAY, GFX2
+"何があったんだ？",$FD
+
+LEFT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+RIGHT, MILIA, GFX2
+"奥に何が",$FE
+"あるのかしら？",$FD
+
+LEFT, RAY, GFX1
+"この先に答えが",$FE
+"ありそうですね",$FD
+
+RIGHT, MYLENE, GFX1
+"とりあえず行こうよ",$FD
+
+LEFT, MILIA, GFX0
+"ミレーヌ",$FE
+"あせりは禁物よ",$FF
+
+; size: 277 bytes

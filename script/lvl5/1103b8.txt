@@ -1,0 +1,55 @@
+; referenced at 44:43b8
+; located at 44:475a
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"I hate this place.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"Don't get all",$FE 
+	db	"moody at this",$FE
+	db	"moment.",$FD
+	db	LEFT, MAX, GFX0
+	db	"This feels too",$FE
+	db	"uncomfortable.",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"I feel like",$FE
+	db	"we're inside the",$FE
+	db	"stomach of a",$FE
+	db	"creature or",$FE 
+	db	"something...",$FD
+	db	LEFT, BASARA, GFX0
+	db	"It's okay,",$FE
+	db	"right?",$FD
+	db	RIGHT, MAX, GFX2
+	db	"...",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Is that the",$FE
+	db	"Assessment",$FE
+	db	"team?",$FD
+	db	RIGHT, MAX, GFX1
+	db	"What happened!?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"It's dangerous",$FE
+	db	"here...",$FE
+	db	"Please return.",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"What do you mean?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"All of those",$FE
+	db	"creatures are",$FE
+	db	"targeting us...",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Eh!?",$FD
+	db	RIGHT, PILOT, GFX0
+	db	"Many of them seem",$FE
+	db	"to be brainwashed",$FD
+	db	LEFT, BASARA, GFX2
+	db	"I knew it!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"So that's what's",$FE
+	db	"going on.",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Wait here, we",$FE
+	db	"won't let the",$FE
+	db	"monster respon-",$FE
+	db	"sible get away",$FE
+	db	"with it!",$FF

@@ -1,0 +1,7 @@
+﻿; referenced at 02:4160
+; located at 02:4342
+
+"痛いじゃない！",$1E,$FE
+"",$FF,$FF
+
+; size: 18 bytes

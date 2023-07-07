@@ -1,0 +1,58 @@
+﻿; referenced at 44:43d6
+; located at 44:5e3a
+
+LEFT, RAY, GFX0
+"敵兵の様子が",$FE
+"おかしいな",$FD
+
+RIGHT, GAMLIN, GFX0
+"そうですね",$FD
+
+LEFT, MILIA, GFX0
+"親玉が近いのかしら",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, GAMLIN, GFX0
+"あれは",$FE
+"調査隊では？",$FD
+
+RIGHT, MILIA, GFX0
+"しっかりしなさい",$FD
+
+LEFT, PILOT, GFX0
+"ここは危険です…",$FE
+"撤退して下さい",$FD
+
+RIGHT, GAMLIN, GFX1
+"どういう事だ",$FD
+
+LEFT, MILIA, GFX1
+"落ち着きなさい",$FE
+"ガムリン",$FD
+
+RIGHT, PILOT, GFX0
+"こいつらの目的は",$FE
+"我々です…",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, PILOT, GFX0
+"攻撃しているのは",$FE
+"洗脳された者たち",$FE
+"なのです",$FD
+
+LEFT, RAY, GFX0
+"違和感が",$FE
+"あったからな",$FD
+
+RIGHT, GAMLIN, GFX2
+"どうしましょうか？",$FD
+
+LEFT, MILIA, GFX1
+"どうもこうもないわ",$FE
+"行きましょう！！",$FF
+
+; size: 387 bytes

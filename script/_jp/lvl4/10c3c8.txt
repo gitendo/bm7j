@@ -1,0 +1,45 @@
+﻿; referenced at 43:43c8
+; located at 43:5338
+
+LEFT, MYLENE, GFX0
+"バサラはもう先に",$FE
+"進んでいるのかしら",$FD
+
+RIGHT, RAY, GFX0
+"たぶん奴なら",$FE
+"そうしてるだろうな",$FD
+
+RIGHT, GAMLIN, GFX0
+"バサラがここを",$FE
+"見落とすような事は",$FE
+"ないでしょう",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, MYLENE, GFX0
+"本当にここ",$FE
+"洞窟なのかしら",$FD
+
+LEFT, GAMLIN, GFX0
+"あまりにも",$FE
+"自然洞窟としては",$FE
+"不自然ですからね",$FD
+
+RIGHT, RAY, GFX0
+"奥に何かいるのは",$FE
+"明らかだろう",$FD
+
+LEFT, MYLENE, GFX2
+"本当に",$FE
+"大丈夫なのかしら",$FD
+
+RIGHT, GAMLIN, GFX3
+"自分が守るから",$FE
+"平気ですよ",$FD
+
+LEFT, RAY, GFX3
+"あまり無理を",$FE
+"しないようにな",$FF
+
+; size: 350 bytes

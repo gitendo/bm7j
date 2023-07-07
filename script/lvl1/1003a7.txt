@@ -1,0 +1,38 @@
+; referenced at 40:43a7
+; located at 40:4dda
+;		 <---------------->
+	db	LEFT, BASARA, GFX1
+	db	"Why are you guys",$FE
+	db	"coming with me!?",$FD
+	db	RIGHT, MAX, GFX1
+	db	"Do you know what",$FE
+	db	"you are doing?",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"Geez, you're way",$FE
+	db	"too reckless!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"It's okay, right!?",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Do you realize how",$FE
+	db	"serious this is?",$FD
+	db	LEFT, MILIA, GFX3
+	db	"It always happens,",$FE
+	db	"so I'm used to it.",$FD
+	db	RIGHT, MAX, GFX1
+	db	"The Assessment",$FE
+	db	"team that went",$FE
+	db	"earlier hasn't",$FE
+	db	"returned!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Who cares! I just",$FE
+	db	"want them to",$FE
+	db	"listen to my song!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"Knock it off!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Max, that's!",$FD
+	db	RIGHT, MAX, GFX2
+	db	"I knew it...",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Isn't it superior?",$FE
+	db	"Bomber!",$FF

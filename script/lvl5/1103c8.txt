@@ -1,0 +1,45 @@
+; referenced at 44:43c8
+; located at 44:52f0
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"How long until",$FE
+	db	"we get there?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"I think it's a",$FE
+	db	"bit further ahead.",$FD
+	db	LEFT, RAY, GFX2
+	db	"I don't understand",$FE
+	db	"anymore.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Is that the",$FE 
+	db	"Assessment team?",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"Are you okay!?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"It's dangerous",$FE
+	db	"here...",$FE
+	db	"Please return.",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"Eh!?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"All of those",$FE
+	db	"creatures are",$FE
+	db	"targeting us...",$FD
+	db	RIGHT, RAY, GFX0
+	db	"What do you mean?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Many of them seem",$FE
+	db	"to be brainwashed",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"What a cruel thing",$FE
+	db	"to do! it's enough",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"Wait here, we",$FE
+	db	"won't let the",$FE
+	db	"monster respon-",$FE
+	db	"sible get away",$FE
+	db	"with it!",$FF

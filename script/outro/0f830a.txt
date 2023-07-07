@@ -1,0 +1,17 @@
+; referenced at 3e:430a
+; located at 3e:4d1a
+;		 <---------------->
+	db	LEFT, MYLENE, GFX3
+	db	"Everyone,",$FE
+	db	"let's go!",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Shall we start",$FE
+	db	"then?",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...!!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Today...",$FE
+	db	"we'll sing from",$FE
+	db	"the bottom of",$FE
+	db	"our hearts!!!",$FE
+	db	"Extreme fire!",$FF

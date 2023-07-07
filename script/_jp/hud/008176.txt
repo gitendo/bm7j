@@ -1,0 +1,8 @@
+﻿; referenced at 02:4176
+; located at 02:445c
+
+"ビヒーダ！",$1E,$FE
+"がんばるんだ！",$1E,$FE
+"",$FF,$FF
+
+; size: 30 bytes

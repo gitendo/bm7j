@@ -1,0 +1,42 @@
+; referenced at 45:43b9
+; located at 45:54e6
+;		 <---------------->
+	db	LEFT, MYLENE, GFX3
+	db	"Yay! We have",$FE
+	db	"defeated them!",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Now everything",$FE
+	db	"is fine, right?",$FD
+	db	LEFT, MAX, GFX0
+	db	"We can go home now",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, RAY, GFX2
+	db	"But this is",$FE
+	db	"strange...",$FD
+	db	LEFT, MAX, GFX1
+	db	"Just because we",$FE
+	db	"have defeated",$FE
+	db	"them, it doesn't",$FE
+	db	"mean the",$FE 
+	db	"brainwashing has",$FE
+	db	"stopped!",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"So the guy earlier",$FE
+	db	"was not the",$FE
+	db	"commander!?",$FD
+	db	LEFT, RAY, GFX1
+	db	"I think we were",$FE 
+	db	"mistaken.",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"What should we do?",$FD
+	db	LEFT, RAY, GFX0
+	db	"This place is",$FE 
+	db	"dangerous!",$FE 
+	db	"Retreat!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"We have to get",$FE
+	db	"out of here!",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"Basara... I wonder",$FE
+	db	"if he's okay...",$FF

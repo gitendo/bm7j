@@ -1,0 +1,8 @@
+; referenced at 00:161d
+; located at 02:41d0
+; this one originates from 001690.txt and must be included right after it!
+;		 <------------>
+	db	"Serious damage"
+	db	"done to ship! ",$FE,$3C
+	db	"Withdraw ASAP!",$FE,$3C
+	db	$FD,$01

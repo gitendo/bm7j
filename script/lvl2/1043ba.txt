@@ -1,0 +1,44 @@
+; referenced at 41:43ba
+; located at 41:4837
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"Didn't you realize",$FE
+	db	"this was a dange-",$FE
+	db	"rous place",$FE
+	db	"Basara!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"How should I know?",$FD
+	db	LEFT, MILIA, GFX3
+	db	"If they try to",$FE
+	db	"fight us, those",$FE
+	db	"guys are idiots.",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"Why are they",$FE
+	db	"attacking us?",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Max said that the",$FE
+	db	"team hasn't",$FE
+	db	"contacted us.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"They're probably",$FE
+	db	"shirking",$FE
+	db	"their duties.",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Impossible,",$FE
+	db	"they're not",$FE
+	db	"like you, Basara.",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"But we can't find",$FE
+	db	"anything that",$FE
+	db	"resembles a city.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"Indeed, this",$FE
+	db	"looks more like",$FE
+	db	"a fortress.",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Maybe they",$FE
+	db	"are waiting",$FE
+	db	"for my songs.",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Let's investigate",$FE
+	db	"further.",$FF

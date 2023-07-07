@@ -1,0 +1,64 @@
+﻿; referenced at 44:43d4
+; located at 44:5c82
+
+LEFT, RAY, GFX0
+"敵兵の様子が",$FE
+"おかしいな",$FD
+
+RIGHT, GAMLIN, GFX0
+"そうですね",$FD
+
+LEFT, MAX, GFX2
+"まるで何かに",$FE
+"操られているようだ",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, GAMLIN, GFX1
+"あれは",$FE
+"調査隊では？",$FD
+
+RIGHT, MAX, GFX1
+"何があったのだ！！",$FD
+
+LEFT, PILOT, GFX0
+"マックス艦長…",$FE
+"ここは危険です…",$FE
+"撤退して下さい",$FD
+
+RIGHT, GAMLIN, GFX1
+"どういう事だ！",$FD
+
+LEFT, PILOT, GFX0
+"こいつらの目的は",$FE
+"我々です",$FD
+
+RIGHT, MAX, GFX2
+"やはり…",$FD
+
+LEFT, PILOT, GFX0
+"攻撃しているのは",$FE
+"洗脳された者たち",$FE
+"なのです",$FD
+
+RIGHT, RAY, GFX0
+"違和感が",$FE
+"あったからな",$FD
+
+LEFT, GAMLIN, GFX2
+"どうしましょうか？",$FD
+
+RIGHT, MAX, GFX0
+"司令官を倒せば",$FE
+"何とかなるかも",$FE
+"しれん",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, RAY, GFX0
+"それしか方法が",$FE
+"ないでしょうね",$FF
+
+; size: 440 bytes

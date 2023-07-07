@@ -1,0 +1,7 @@
+﻿; referenced at 02:4158
+; located at 02:4332
+
+"サンキュー♪",$1E,$FE
+"",$FF,$FF
+
+; size: 16 bytes

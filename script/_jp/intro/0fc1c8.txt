@@ -1,0 +1,38 @@
+﻿; referenced at 3f:41c8
+; located at 3f:4560
+
+RIGHT, MAX, GFX1
+"何をしている！！",$FD
+
+LEFT, BASARA, GFX3
+"よっしゃー！",$FE
+"行くぜー！",$FD
+
+RIGHT, GAMLIN, GFX1
+"どこ行くつもりだ？",$FE
+"バサラ！！",$FD
+
+LEFT, BASARA, GFX1
+"決まってるだろ！",$FE
+"俺の歌を聞かせに",$FE
+"行くだけだ！！",$FD
+
+RIGHT, GAMLIN, GFX1
+"まさかあの惑星に",$FE
+"行くつもりか？",$FD
+
+RIGHT, MAX, GFX1
+"何考えているんだ！",$FE
+"あの惑星については",$FE
+"まだ調査段階だぞ！",$FD
+
+LEFT, BASARA, GFX3
+"うるせー！！",$FE
+"俺は歌いたい時に",$FE
+"歌うだけだ！！",$FD
+
+LEFT, BASARA, GFX1
+"行くぜー！",$FE
+"ボンバー！！",$FF
+
+; size: 320 bytes

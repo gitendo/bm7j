@@ -1,0 +1,8 @@
+﻿; referenced at 02:4142
+; located at 02:423c
+
+"俺の出番だ！！",$0F,$FE
+"ファイヤー！！",$0F,$FE
+"",$FF,$FF
+
+; size: 34 bytes

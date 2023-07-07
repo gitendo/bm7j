@@ -1,0 +1,43 @@
+﻿; referenced at 42:43d6
+; located at 42:5660
+
+LEFT, RAY, GFX0
+"あのバルキリーは…",$FD
+
+RIGHT, MILIA, GFX0
+"マックスが言ってた",$FE
+"調査隊の機体じゃ",$FE
+"ないかしら",$FD
+
+LEFT, GAMLIN, GFX1
+"生存者が",$FE
+"いるかもしれません",$FD
+
+RIGHT, RAY, GFX2
+"大丈夫か？",$FD
+
+LEFT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+RIGHT, MILIA, GFX2
+"何があったの？",$FD
+
+LEFT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+RIGHT, VEFFIDAS, GFX2
+"……",$FD
+
+LEFT, MILIA, GFX2
+"奥にまだ何か",$FE
+"あるようね",$FD
+
+RIGHT, GAMLIN, GFX0
+"先を急ぎましょう",$FD
+
+LEFT, MILIA, GFX0
+"思ってた以上の",$FE
+"展開になって",$FE
+"きたようね",$FF
+
+; size: 285 bytes

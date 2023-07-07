@@ -1,0 +1,43 @@
+﻿; referenced at 40:439d
+; located at 40:481d
+
+LEFT, BASARA, GFX1
+"何でお前らまで",$FE
+"ついて来るんだよ！",$FD
+
+RIGHT, RAY, GFX3
+"いいじゃないか",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, GAMLIN, GFX1
+"甘やかすような事は",$FE
+"言わないで下さい",$FD
+
+RIGHT, BASARA, GFX1
+"うるせー！！",$FD
+
+LEFT, GAMLIN, GFX1
+"今回の事については",$FE
+"まだ調査中だぞ！",$FD
+
+RIGHT, RAY, GFX3
+"何だかんだ言っても",$FE
+"来てるじゃないか？",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, GAMLIN, GFX1
+"…何だ！敵…！？",$FD
+
+RIGHT, RAY, GFX3
+"盛大な歓迎が",$FE
+"期待できそうだな！",$FD
+
+LEFT, BASARA, GFX3
+"行くぜ！！",$FE
+"ボンバー！！",$FF
+
+; size: 305 bytes

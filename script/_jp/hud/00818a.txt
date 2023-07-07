@@ -1,0 +1,7 @@
+﻿; referenced at 02:418a
+; located at 02:44ce
+
+"やってやる！！",$1E,$FE
+"",$FF,$FF
+
+; size: 18 bytes

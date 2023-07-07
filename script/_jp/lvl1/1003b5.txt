@@ -1,0 +1,44 @@
+﻿; referenced at 40:43b5
+; located at 40:5777
+
+LEFT, RAY, GFX3
+"先に行きやがって",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, GAMLIN, GFX2
+"そういう事は",$FE
+"言わないで下さい！",$FD
+
+LEFT, MAX, GFX2
+"例の事が心配だ…",$FD
+
+RIGHT, GAMLIN, GFX0
+"調査隊の事ですか？",$FD
+
+RIGHT, RAY, GFX3
+"バサラだったら",$FE
+"大丈夫ですよ",$FD
+
+LEFT, MAX, GFX1
+"そういう",$FE
+"問題じゃない！",$FD
+
+RIGHT, RAY, GFX0
+"それよりもどこまで",$FE
+"行ったんだか…",$FD
+
+LEFT, GAMLIN, GFX1
+"敵影を確認！！",$FD
+
+RIGHT, MAX, GFX2
+"やはり…",$FD
+
+LEFT, VEFFIDAS, GFX0
+"ボンバー…",$FD
+
+RIGHT, RAY, GFX0
+"…ビヒーダ？",$FF
+
+; size: 276 bytes

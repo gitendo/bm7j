@@ -1,0 +1,10 @@
+; referenced at 44:7c1f
+; located at 44:7d13
+;		 <---------------->
+	db	"There's a space-",$FE
+	db	"ship with a",$FE
+	db	"powerful reactor",$FE
+	db	"ahead, proceed",$FE
+	db	"with caution!",$FF
+
+

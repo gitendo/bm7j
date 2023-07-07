@@ -1,0 +1,9 @@
+; referenced at 29:4074
+; located at 29:4428
+;		 <---------------->
+	db	"Confirming",$FE
+	db	"abnormal energy",$FE
+	db	"inside the planet!",$FE
+	db	"Retreat from that",$FE
+	db	"place at once!",$FF
+	

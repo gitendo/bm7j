@@ -1,0 +1,41 @@
+; referenced at 41:43b4
+; located at 41:43da
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"Didn't you realize",$FE
+	db	"this was a dange-",$FE
+	db	"rous place",$FE
+	db	"Basara!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"How should I know?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"Well, don't fight",$FE
+	db	"then.",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"It's because you",$FE
+	db	"do what you want.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, RAY, GFX0
+	db	"I can't find",$FE
+	db	"the city.",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"Right, it looks",$FE
+	db	"like a fortress.",$FD
+	db	LEFT, BASARA, GFX0
+	db	"Those who want to",$FE
+	db	"listen to my songs",$FE
+	db	"are waiting.",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"You're still talk-",$FE
+	db	"ing like a big",$FE 
+	db	"rock star",$FE 
+	db	"right at this",$FE
+	db	"moment!?",$FD
+	db	LEFT, RAY, GFX0
+	db	"We need to",$FE
+	db	"investigate",$FE
+	db	"further...",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"I make let them",$FE
+	db	"hear my songs!",$FF

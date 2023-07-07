@@ -1,0 +1,22 @@
+; referenced at 47:43ad
+; located at 47:4464
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX0
+	db	"I'm here, Mylene,",$FE
+	db	"I love you.",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"Hey! You made it!",$FD
+	db	LEFT, BASARA, GFX0
+	db	"Geez, what's so",$FE
+	db	"good about him?",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"Let's get married",$FE
+	db	"after the concert.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"I'm glad you came,",$FE
+	db	"what was that?",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Hahah, say yes!",$FE
+	db	"Mylene, so we can",$FE
+	db	"rock at your",$FE
+	db	"wedding!",$FF

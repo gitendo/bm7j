@@ -1,0 +1,24 @@
+﻿; referenced at 47:43b9
+; located at 47:47fb
+
+LEFT, GAMLIN, GFX0
+"今日は艦長が",$FE
+"いらっしゃってるぞ",$FD
+
+RIGHT, BASARA, GFX0
+"珍しいな",$FD
+
+LEFT, MAX, GFX0
+"ミレーヌに来いと",$FE
+"言われたのでな",$FD
+
+RIGHT, GAMLIN, GFX0
+"応援しているからな",$FE
+"がんばれよ",$FD
+
+LEFT, BASARA, GFX3
+"へっ！",$FE
+"腰ぬかすんじゃ",$FE
+"ねーぞ！",$FF
+
+; size: 159 bytes

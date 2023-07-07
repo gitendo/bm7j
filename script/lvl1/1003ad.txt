@@ -1,0 +1,44 @@
+; referenced at 40:43ad
+; located at 40:522f
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"Geez, Basara...",$FD
+	db	RIGHT, RAY, GFX3
+	db	"It's the usual",$FE
+	db	"thing, right?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MILIA, GFX3
+	db	"Geez, he's way",$FE
+	db	"reckless.",$FD
+	db	RIGHT, RAY, GFX0
+	db	"It's the usual",$FE
+	db	"thing.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"How far is he",$FE
+	db	"going to go?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"We can go join him",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"It's a good thing,",$FE
+	db	"anyway.",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"You don't mind if",$FE
+	db	"I go with you?",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"What do you mean,",$FE
+	db	"mama?",$FD
+	db	RIGHT, VEFFIDAS, GFX1
+	db	"...!!!",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"What! An enemy..!?",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Are they going",$FE
+	db	"to attack us!?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Looks like it's",$FE
+	db	"not going",$FE
+	db	"to be easy!",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"I knew this was",$FE
+	db	"going to happen!",$FF

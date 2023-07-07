@@ -1,0 +1,47 @@
+; referenced at 45:43c3
+; located at 45:5bf2
+;		 <---------------->
+	db	LEFT, RAY, GFX0
+	db	"Okay, job's done.",$FE
+	db	"The battle is",$FE
+	db	"over.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Now everything is",$FE
+	db	"fine, right?",$FD
+	db	LEFT, MAX, GFX0
+	db	"The brainwashed",$FE 
+	db	"soldiers should",$FE
+	db	"have been freed",$FE
+	db	"now!",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"The enemy is",$FE 
+	db	"still attacking!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"Just because we",$FE
+	db	"have defeated",$FE
+	db	"them, it doesn't",$FE
+	db	"mean the",$FE 
+	db	"brainwashing has",$FE
+	db	"stopped!",$FD
+	db	LEFT, RAY, GFX0
+	db	"So, it's not",$FE 
+	db	"over yet, then?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"His true core is",$FE 
+	db	"located in a",$FE  
+	db	"different place.",$FD
+	db	LEFT, MAX, GFX1
+	db	"Let's get",$FE
+	db	"out of here!",$FD
+	db	RIGHT, RAY, GFX0
+	db	"This place is",$FE
+	db	"collapsing.",$FD
+	db	LEFT, MAX, GFX2
+	db	"We don't have",$FE
+	db	"much time!",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, RAY, GFX2
+	db	"Basara...",$FF

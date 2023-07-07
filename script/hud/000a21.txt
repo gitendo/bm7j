@@ -1,0 +1,8 @@
+; referenced at 00:0a21
+; located at 02:46e0
+;		 <------------>
+	db	"Enemy monster "
+	db	"ahead of us!  ",$FE,$3C
+	db	"It's a gigan- "
+	db	"tic Plant!    ",$FE,$3C
+	db	$FF

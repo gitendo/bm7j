@@ -1,0 +1,33 @@
+; referenced at 42:43ca
+; located at 42:4fb5
+;		 <---------------->
+	db	LEFT, MYLENE, GFX0
+	db	"What is it?",$FD
+	db	RIGHT, RAY, GFX1
+	db	"That's the",$FE 
+	db	"team's Valkyrie.",$FD
+	db	LEFT, MAX, GFX0
+	db	"Maybe someone is",$FE
+	db	"still there!?",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"Hang in there!",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Ugh...!",$FD
+	db	RIGHT, RAY, GFX2
+	db	"What happened?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Is still inside!",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Something is...",$FE
+	db	"still inside!",$FD
+	db	LEFT, RAY, GFX1
+	db	"The truth is",$FE
+	db	"right in front",$FE
+	db	"of us...",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"At any case,",$FE
+	db	"let's go.",$FD
+	db	LEFT, MAX, GFX0
+	db	"The cave is",$FE
+	db	"narrow, so be",$FE
+	db	"careful!",$FF

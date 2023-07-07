@@ -1,0 +1,7 @@
+﻿; referenced at 02:419e
+; located at 02:45b0
+
+"なんて事だ！",$FF,$FE
+"",$FF,$FF
+
+; size: 16 bytes

@@ -1,0 +1,7 @@
+; referenced at 02:4156
+; located at 02:4366
+;		 <------------>
+	db	"I can still   "
+	db	"sing!         ",$FE,$2D
+	db	"So I will!    ",$FE,$FF
+	db	$FF

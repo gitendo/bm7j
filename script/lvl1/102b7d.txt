@@ -1,0 +1,6 @@
+; referenced at 40:6b7d
+; located at 40:6c32
+;		 <---------------->
+	db	"Who will take care",$FE
+	db	"of this mission?",$FF
+

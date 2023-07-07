@@ -1,0 +1,21 @@
+; referenced at 47:43b7
+; located at 47:4749
+;		 <---------------->
+	db	LEFT, MILIA, GFX0
+	db	"Is Mylene here?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"We're looking for",$FE
+	db	"her.",$FD
+	db	LEFT, BASARA, GFX0
+	db	"She was counting",$FE
+	db	"that you'll be here",$FE
+	db	"today, old lady.",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"I'm not that old,",$FE
+	db	"you hear!",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, RAY, GFX2
+	db	"I'll ask her to",$FE 
+	db	"marry me after",$FE 
+	db	"the concert!",$FF

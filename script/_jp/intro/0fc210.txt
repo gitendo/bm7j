@@ -1,0 +1,39 @@
+﻿; referenced at 3f:4210
+; located at 3f:46a0
+
+LEFT, MILIA, GFX1
+"ちょっと一体",$FE
+"何の騒ぎ？",$FD
+
+RIGHT, MAX, GFX2
+"ミ[]ミリア…君には",$FE
+"関係のない話だ",$FD
+
+LEFT, MILIA, GFX1
+"私は市長よ！！",$FE
+"私には知る権利が",$FE
+"あるはずよ！！",$FD
+
+RIGHT, MAX, GFX2
+"……",$FD
+
+RIGHT, MAX, GFX0
+"バサラが勝手に",$FE
+"新惑星に向かって",$FE
+"しまったんだ…",$FD
+
+LEFT, MILIA, GFX3
+"どうやら先を",$FE
+"越されたようね…",$FD
+
+RIGHT, MAX, GFX1
+"何を言い出すんだ",$FE
+"ミリア！！",$FD
+
+LEFT, MILIA, GFX3
+"冗談よ！！",$FD
+
+RIGHT, MAX, GFX2
+"……本当か？",$FF
+
+; size: 283 bytes

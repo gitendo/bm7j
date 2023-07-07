@@ -1,0 +1,31 @@
+﻿; referenced at 47:43cd
+; located at 47:4ecb
+
+LEFT, GAMLIN, GFX0
+"ミリア市長が",$FE
+"いらっしゃってます",$FD
+
+RIGHT, MILIA, GFX0
+"ミレーヌは",$FE
+"いるかしら？",$FD
+
+LEFT, RAY, GFX0
+"ちょうど",$FE
+"探しに行った",$FE
+"ばかりですよ",$FD
+
+RIGHT, GAMLIN, GFX0
+"そうですか…",$FD
+
+LEFT, MILIA, GFX0
+"客席で見ていると",$FE
+"伝えておいて",$FD
+
+RIGHT, RAY, GFX3
+"ミレーヌもきっと",$FE
+"喜びますよ",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FF
+
+; size: 201 bytes

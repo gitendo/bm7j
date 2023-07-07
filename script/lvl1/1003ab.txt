@@ -1,0 +1,44 @@
+; referenced at 40:43ab
+; located at 40:50a4
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"Geez, Basara...",$FD
+	db	RIGHT, RAY, GFX3
+	db	"It's the usual",$FE
+	db	"thing, right?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, MAX, GFX1
+	db	"He's always",$FE
+	db	"selfish!",$FD
+	db	LEFT, RAY, GFX0
+	db	"It's okay, right?",$FD
+	db	RIGHT, MAX, GFX1
+	db	"No way!",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"How far is he",$FE
+	db	"going to go?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"We can go join him",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"It's a good",$FE
+	db	"thing anyway.",$FD
+	db	RIGHT, MAX, GFX2
+	db	"The report sent by",$FE
+	db	"the Assessment",$FE
+	db	"team, do you know",$FE
+	db	"what it means?",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"What does it",$FE
+	db	"mean, Papa?",$FD
+	db	RIGHT, VEFFIDAS, GFX1
+	db	"...!",$FD
+	db	LEFT, MAX, GFX1
+	db	"What! An enemy!?",$FD
+	db	LEFT, RAY, GFX0
+	db	"Looks like it's",$FE
+	db	"not going",$FE
+	db	"to be easy!!!",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"I knew this was",$FE
+	db	"going to happen!",$FF

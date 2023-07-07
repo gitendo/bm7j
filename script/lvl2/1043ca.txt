@@ -1,0 +1,31 @@
+; referenced at 41:43ca
+; located at 41:5357
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"How come!",$FE
+	db	"They're right here",$FD
+	db	RIGHT, RAY, GFX3
+	db	"Such an amazing",$FE
+	db	"welcome.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MAX, GFX2
+	db	"Geez...",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"But there are",$FE
+	db	"no people here.",$FD
+	db	LEFT, RAY, GFX0
+	db	"Indeed.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"It's too soon to",$FE
+	db	"feel the enemy's",$FE
+	db	"presence.",$FD
+	db	LEFT, MYLENE, GFX3
+	db	"I smell the ocean!",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Indeed, let's go",$FE
+	db	"toward the ocean.",$FD
+	db	RIGHT, MAX, GFX3
+	db	"It's been a while",$FE
+	db	"since I saw",$FE
+	db	"the ocean.",$FF

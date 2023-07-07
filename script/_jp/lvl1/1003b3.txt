@@ -1,0 +1,53 @@
+﻿; referenced at 40:43b3
+; located at 40:5606
+
+LEFT, MYLENE, GFX2
+"まったくもう",$FE
+"バサラったら…",$FD
+
+RIGHT, MILIA, GFX3
+"落ち着きの",$FE
+"無い子ねー",$FD
+
+RIGHT, MAX, GFX1
+"許可なしで",$FE
+"出撃しおって",$FD
+
+LEFT, MILIA, GFX2
+"さっきの話は",$FE
+"どういう事？",$FD
+
+RIGHT, MAX, GFX2
+"調査隊の消息が",$FE
+"不明なんだ",$FD
+
+LEFT, MYLENE, GFX0
+"どういう事？",$FD
+
+RIGHT, MAX, GFX0
+"関係の無い事だ",$FD
+
+RIGHT, MILIA, GFX2
+"でも[]マックスが",$FE
+"言っていた事が",$FE
+"気になるわね",$FD
+
+LEFT, MYLENE, GFX0
+"さっきから何の話？",$FD
+
+RIGHT, MILIA, GFX3
+"こっちの話よ",$FD
+
+LEFT, MAX, GFX1
+"何かが",$FE
+"攻撃して来るぞ！！",$FD
+
+RIGHT, MILIA, GFX1
+"私に喧嘩を",$FE
+"売るつもり？",$FD
+
+LEFT, MYLENE, GFX1
+"やっばり",$FE
+"こうなるのね！！",$FF
+
+; size: 369 bytes

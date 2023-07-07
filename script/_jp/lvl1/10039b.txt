@@ -1,0 +1,37 @@
+﻿; referenced at 40:439b
+; located at 40:4714
+
+LEFT, BASARA, GFX3
+"お前らも",$FE
+"歌いに来たのか？",$FD
+
+RIGHT, MYLENE, GFX1
+"そんなわけ",$FE
+"ないでしょ！！",$FD
+
+RIGHT, MILIA, GFX3
+"予想どおりね",$FD
+
+LEFT, MYLENE, GFX1
+"ちょっとー！ママ！",$FD
+
+LEFT, BASARA, GFX0
+"わかってる",$FE
+"みたいじゃねーか",$FD
+
+RIGHT, MILIA, GFX1
+"調子に乗らない！！",$FD
+
+LEFT, MYLENE, GFX1
+"ちょっと！！なんか",$FE
+"攻撃して来るわよ！",$FD
+
+RIGHT, MILIA, GFX0
+"盛大な歓迎が",$FE
+"期待できそうね！",$FD
+
+LEFT, BASARA, GFX0
+"行くぜ！！",$FE
+"ボンバー！！",$FF
+
+; size: 265 bytes

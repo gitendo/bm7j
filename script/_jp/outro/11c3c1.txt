@@ -1,0 +1,23 @@
+﻿; referenced at 47:43c1
+; located at 47:4ab3
+
+LEFT, MAX, GFX0
+"ミレーヌ",$FD
+
+RIGHT, MYLENE, GFX3
+"パパ！",$FE
+"来てくれたのね",$FD
+
+LEFT, RAY, GFX0
+"招待したのか",$FD
+
+RIGHT, MAX, GFX0
+"ミレーヌが",$FE
+"どうしても来いと",$FE
+"いうのでな",$FD
+
+LEFT, MYLENE, GFX0
+"最後まで",$FE
+"見ていってね！",$FF
+
+; size: 131 bytes

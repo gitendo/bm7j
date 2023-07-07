@@ -1,0 +1,8 @@
+; referenced at 00:09b6
+; located at 02:421e
+;		 <------------>
+	db	"Enemies detec-"
+	db	"ted behind us!",$FE,$3C
+	db	"They are about"
+	db	"to strike now!",$FE,$3C
+	db	$FF

@@ -1,0 +1,7 @@
+﻿; referenced at 02:417a
+; located at 02:44a4
+
+"……？！",$FF,$FE
+"",$FF,$FF
+
+; size: 12 bytes

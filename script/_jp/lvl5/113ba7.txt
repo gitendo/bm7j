@@ -1,0 +1,9 @@
+﻿; referenced at 44:7ba7
+; located at 44:7c7b
+
+"要塞内の生体反応が",$FE
+"増大しています！",$FE
+"この惑星自体が",$FE
+"生命体のようです！",$FF
+
+; size: 74 bytes

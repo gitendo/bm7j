@@ -1,0 +1,5 @@
+; referenced at 02:41b2
+; located at 02:4626
+;		 <------------>
+	db	"Phew!         ",$FE,$1E
+	db	$FF

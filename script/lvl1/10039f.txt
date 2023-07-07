@@ -1,0 +1,30 @@
+; referenced at 40:439f
+; located at 40:494e
+;		 <---------------->
+	db	LEFT, BASARA, GFX1
+	db	"Why are you guys",$FE
+	db	"coming with me!?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"It's okay, right?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Geez, you guys",$FE
+	db	"always do as",$FE
+	db	"you please.",$FD
+	db	LEFT, BASARA, GFX0
+	db	"That's not",$FE
+	db	"a problem, right?",$FD
+	db	RIGHT, MAX, GFX1
+	db	"IT IS!",$FD
+	db	RIGHT, RAY, GFX3
+	db	"Hahaha!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Why are you guys",$FE
+	db	"even here!?",$FD
+	db	RIGHT, MAX, GFX1
+	db	"There's no time",$FE
+	db	"to explain why!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Let's go!",$FE
+	db	"BOMBEEER!!!",$FF

@@ -1,0 +1,55 @@
+﻿; referenced at 41:43bc
+; located at 41:49fe
+
+LEFT, GAMLIN, GFX1
+"ここは[]一体",$FE
+"どうなってるんだ？",$FD
+
+RIGHT, RAY, GFX3
+"歓迎されている事は",$FE
+"間違いないな",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, BASARA, GFX3
+"俺の歌を聞きに",$FE
+"集まって来てるぜ！",$FD
+
+RIGHT, GAMLIN, GFX2
+"どういう神経を",$FE
+"しているんだ…",$FD
+
+LEFT, RAY, GFX0
+"それにしても",$FE
+"街らしき物が",$FE
+"見当たらないな",$FD
+
+LEFT, BASARA, GFX0
+"結構数は",$FE
+"いるみたいだけどな",$FD
+
+RIGHT, GAMLIN, GFX0
+"街というか",$FE
+"要塞みたいですね",$FD
+
+LEFT, RAY, GFX0
+"例の調査隊とは",$FE
+"連絡取れたのか？",$FD
+
+RIGHT, GAMLIN, GFX2
+"まだみたいです",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, RAY, GFX0
+"海が見えるな",$FE
+"この先に何か",$FE
+"あるかもしれないな",$FD
+
+LEFT, BASARA, GFX3
+"俺の歌を",$FE
+"聞かせてやるぜー！",$FF
+
+; size: 419 bytes

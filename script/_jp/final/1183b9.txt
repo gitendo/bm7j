@@ -1,0 +1,58 @@
+﻿; referenced at 46:43b9
+; located at 46:43df
+
+LEFT, MYLENE, GFX1
+"もう",$FE
+"追いつかれちゃう！",$FD
+
+RIGHT, RAY, GFX1
+"このままだと",$FE
+"間に合わないぞ！",$FD
+
+LEFT, VEFFIDAS, GFX0
+"……",$FD
+
+RIGHT, BASARA, GFX1
+"お前らは",$FE
+"先に行け！！",$FD
+
+LEFT, MYLENE, GFX1
+"バサラは",$FE
+"どうするの？！",$FD
+
+RIGHT, BASARA, GFX3
+"コイツには",$FE
+"俺のソロライブを",$FE
+"聞かせてやるぜ！",$FD
+
+LEFT, MYLENE, GFX1
+"無茶よ！",$FE
+"１人じゃ危ないわ！",$FD
+
+RIGHT, RAY, GFX0
+"自信はあるのか？",$FD
+
+LEFT, BASARA, GFX0
+"当たり前の事",$FE
+"聞くんじゃねー",$FD
+
+RIGHT, MYLENE, GFX2
+"でも…",$FD
+
+LEFT, RAY, GFX1
+"ここはバサラに",$FE
+"まかせるぞ！！",$FD
+
+RIGHT, BASARA, GFX3
+"まかせとけ！",$FE
+"最高のステージに",$FE
+"してやるぜ！",$FD
+
+LEFT, MYLENE, GFX2
+"バサラーー！！",$FD
+
+RIGHT, BASARA, GFX1
+"やってやるぜ！！",$FE
+"ファイヤー！！",$FF
+
+; size: 418 bytes

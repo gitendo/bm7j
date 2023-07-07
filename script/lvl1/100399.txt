@@ -1,0 +1,35 @@
+; referenced at 40:4399
+; located at 40:45cf
+;		 <---------------->
+	db	LEFT, BASARA, GFX3
+	db	"Did you also come",$FE
+	db	"to sing?",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"That's not",$FE
+	db	"why I'm here!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"Don't go running",$FE
+	db	"and doing things",$FE
+	db	"all by yourself",$FE
+	db	"without letting",$FE
+	db	"us know! ",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"That's right!",$FE
+	db	"You always leave",$FE
+	db	"us behind!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"You're too",$FE
+	db	"annoying!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"Watch what you're",$FE
+	db	"saying!",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Wait! Something",$FE
+	db	"is attacking us!",$FD
+	db	RIGHT, MAX, GFX2
+	db	"I knew it,",$FE
+	db	"the things I was",$FE
+	db	"worried about...",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's go!",$FE
+	db	"BOMBER!!!",$FF

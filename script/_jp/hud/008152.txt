@@ -1,0 +1,8 @@
+﻿; referenced at 02:4152
+; located at 02:4306
+
+"黙って",$1E,$FE
+"俺の歌を聞け！",$1E,$FE
+"",$FF,$FF
+
+; size: 26 bytes

@@ -1,0 +1,50 @@
+; referenced at 45:43b5
+; located at 45:51e9
+;		 <---------------->
+	db	LEFT, MILIA, GFX0
+	db	"After this I'm",$FE
+	db	"going to take",$FE
+	db	"a good nap.",$FD
+	db	LEFT, MAX, GFX0
+	db	"They have",$FE 
+	db	"finally withdrawn.",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"I still want to",$FE
+	db	"rock more songs!",$FD
+	db	LEFT, MILIA, GFX3
+	db	"You sure have",$FE
+	db	"a lot of energy.",$FD
+	db	RIGHT, MAX, GFX2
+	db	"Geez, what are",$FE 
+	db	"you thinking?",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Shut up!",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"Looks like play",$FE
+	db	"time isn't",$FE
+	db	"over yet...",$FD
+	db	LEFT, MAX, GFX1
+	db	"Was it their",$FE
+	db	"true form!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"Something big is",$FE
+	db	"coming from",$FE
+	db	"inside!",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Let's get",$FE 
+	db	"outta here!",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"We've come this",$FE
+	db	"far, we can't",$FE
+	db	"stop now!",$FD
+	db	LEFT, MAX, GFX1
+	db	"This entire place",$FE
+	db	"is going to",$FE
+	db	"collapse!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"Let's go to the",$FE
+	db	"Macross ship and",$FE
+	db	"get the system",$FE
+	db	"ready.",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Damn!",$FF

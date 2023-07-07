@@ -1,0 +1,28 @@
+﻿; referenced at 47:43cb
+; located at 47:4df9
+
+LEFT, GAMLIN, GFX0
+"マックス艦長が",$FE
+"いらっしゃってます",$FD
+
+RIGHT, MAX, GFX0
+"ミレーヌはいるか？",$FD
+
+LEFT, RAY, GFX0
+"ちょうど",$FE
+"探しに行った",$FE
+"みたいですよ",$FD
+
+RIGHT, GAMLIN, GFX0
+"すれ違いになって",$FE
+"しまったようですね",$FD
+
+LEFT, MAX, GFX0
+"ミレーヌに",$FE
+"伝えておいてくれ",$FD
+
+RIGHT, RAY, GFX3
+"ミレーヌもきっと",$FE
+"喜びますよ",$FF
+
+; size: 210 bytes

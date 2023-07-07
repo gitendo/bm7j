@@ -1,0 +1,54 @@
+﻿; referenced at 45:43af
+; located at 45:4d3f
+
+LEFT, BASARA, GFX3
+"ヨッシャー！！",$FD
+
+RIGHT, RAY, GFX0
+"これで大丈夫だろう",$FD
+
+LEFT, MILIA, GFX3
+"てこずらせて",$FE
+"くれたわね",$FD
+
+RIGHT, BASARA, GFX3
+"まだまだ",$FE
+"歌いたりねーぜ！",$FD
+
+LEFT, MILIA, GFX0
+"元気なものね",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, RAY, GFX1
+"敵の攻撃が",$FE
+"止まないぞ！",$FD
+
+RIGHT, MILIA, GFX1
+"なんですって？！",$FD
+
+LEFT, BASARA, GFX1
+"なんか奥から",$FE
+"でけぇ奴が来るぜ",$FD
+
+RIGHT, RAY, GFX0
+"コイツが",$FE
+"本体なのか！！",$FD
+
+LEFT, MILIA, GFX2
+"一旦退いて[]体制を",$FE
+"整えましょう！！",$FD
+
+RIGHT, BASARA, GFX1
+"ここまで来て",$FE
+"やめられるか！！",$FD
+
+LEFT, RAY, GFX0
+"ここはもう",$FE
+"もたないぞ",$FD
+
+RIGHT, MILIA, GFX0
+"コイツが敵の本体…",$FF
+
+; size: 368 bytes

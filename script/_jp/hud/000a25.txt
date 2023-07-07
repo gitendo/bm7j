@@ -1,0 +1,9 @@
+﻿; referenced at 00:0a25
+; located at 02:4730
+
+"機体前方に",$2D,$FE
+"エネルギー反応",$2D,$FE
+"警戒して下さい",$2D,$FE
+"",$FF,$FF
+
+; size: 46 bytes

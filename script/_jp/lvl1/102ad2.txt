@@ -1,0 +1,8 @@
+﻿; referenced at 40:6ad2
+; located at 40:6ba6
+
+"前方に多数の隕石群",$FE
+"各機体[]衝突に",$FE
+"注意して下さい",$FF
+
+; size: 52 bytes

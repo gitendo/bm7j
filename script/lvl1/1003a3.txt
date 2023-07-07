@@ -1,0 +1,39 @@
+; referenced at 40:43a3
+; located at 40:4b46
+;		 <---------------->
+	db	LEFT, BASARA, GFX1
+	db	"Why are you guys",$FE
+	db	"coming with me!?",$FD
+	db	RIGHT, MAX, GFX1
+	db	"Do you know what",$FE
+	db	"you are doing?",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"You always do",$FE
+	db	"whatever you want!",$FD
+	db	LEFT, BASARA, GFX1
+	db	"Are you just going",$FE
+	db	"to complain!?",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"That too, but..!",$FD
+	db	RIGHT, MAX, GFX2
+	db	"We're not",$FE
+	db	"here to play.",$FD
+	db	LEFT, BASARA, GFX1
+	db	"So annoying!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"Captain Max!",$FE
+	db	"We've confirmed",$FE
+	db	"the enemy position",$FD
+	db	LEFT, MAX, GFX1
+	db	"I knew it, the",$FE
+	db	"Assessment",$FE
+	db	"squadron...",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"Looks like we are",$FE
+	db	"up for a big",$FE
+	db	"welcome!",$FD
+	db	LEFT, GAMLIN, GFX2
+	db	"You...",$FD
+	db	RIGHT, BASARA, GFX3
+	db	"Let's go!",$FE
+	db	"Bomber!",$FF

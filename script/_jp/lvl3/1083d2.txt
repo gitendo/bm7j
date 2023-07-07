@@ -1,0 +1,44 @@
+﻿; referenced at 42:43d2
+; located at 42:5413
+
+LEFT, MYLENE, GFX0
+"何かしらあれ",$FD
+
+RIGHT, MAX, GFX2
+"あれは調査隊の",$FE
+"バルキリー…",$FD
+
+LEFT, MILIA, GFX0
+"まだだれかいるかも",$FE
+"しれないわね",$FD
+
+RIGHT, MYLENE, GFX2
+"しっかりして！！",$FD
+
+LEFT, PILOT, GFX0
+"ぐっ…！！",$FD
+
+RIGHT, MAX, GFX1
+"一体どうなって",$FE
+"いるのだ？",$FD
+
+LEFT, PILOT, GFX0
+"奥にまだ…ウッ！！",$FD
+
+RIGHT, MILIA, GFX1
+"ちょっと！！",$FD
+
+LEFT, MAX, GFX2
+"まだ奥に",$FE
+"残りの調査隊が",$FE
+"いるかもしれないな",$FD
+
+RIGHT, MYLENE, GFX1
+"だったら",$FE
+"いそいで行かなきゃ",$FD
+
+LEFT, MILIA, GFX0
+"ミレーヌ",$FE
+"あせりは禁物よ",$FF
+
+; size: 305 bytes

@@ -1,0 +1,40 @@
+; referenced at 45:43b7
+; located at 45:537f
+;		 <---------------->
+	db	LEFT, MYLENE, GFX3
+	db	"Yay! We have",$FE
+	db	"defeated them!",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Now everything",$FE
+	db	"is fine, right?",$FD
+	db	LEFT, GAMLIN, GFX3
+	db	"We can go home now",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, RAY, GFX2
+	db	"But this is",$FE
+	db	"strange...",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"The enemy is",$FE 
+	db	"still attacking!",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"So the guy earlier",$FE
+	db	"was not the",$FE
+	db	"commander!?",$FD
+	db	RIGHT, RAY, GFX1
+	db	"I think we were",$FE 
+	db	"mistaken.",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"We've confirmed",$FE 
+	db	"something giant!",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"What should we do?",$FD
+	db	LEFT, RAY, GFX0
+	db	"This place is",$FE 
+	db	"dangerous!",$FE 
+	db	"Run away!",$FD
+	db	RIGHT, GAMLIN, GFX1
+	db	"Call for support!",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"Basara... I wonder",$FE
+	db	"if he's okay...",$FF

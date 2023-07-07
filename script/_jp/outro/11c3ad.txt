@@ -1,0 +1,28 @@
+﻿; referenced at 47:43ad
+; located at 47:4464
+
+LEFT, GAMLIN, GFX0
+"ミレーヌさん",$FE
+"ステージがんばって",$FE
+"下さい",$FD
+
+RIGHT, MYLENE, GFX3
+"うん[]ありがとう！",$FD
+
+LEFT, BASARA, GFX0
+"まったくこんな奴の",$FE
+"どこがいいんだ？",$FD
+
+RIGHT, GAMLIN, GFX2
+"すぐに",$FE
+"そういう事を言う…",$FD
+
+LEFT, MYLENE, GFX0
+"少しは",$FE
+"ガムリンさんを",$FE
+"見習いなさいよね",$FD
+
+RIGHT, BASARA, GFX0
+"へいへい",$FF
+
+; size: 198 bytes

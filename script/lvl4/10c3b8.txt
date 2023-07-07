@@ -1,0 +1,39 @@
+; referenced at 43:43b8
+; located at 43:4631
+;		 <---------------->
+	db	LEFT, MYLENE, GFX0
+	db	"Is this really",$FE
+	db	"a cave?",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"Of course.",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"Why are machines",$FE
+	db	"mixed with trees!?",$FD
+	db	RIGHT, BASARA, GFX1
+	db	"How should I know?",$FD
+	db	LEFT, MAX, GFX0
+	db	"It's simple.",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"What do you mean,",$FE
+	db	"papa?",$FD
+	db	LEFT, MAX, GFX0
+	db	"Someone attacked",$FE
+	db	"them, because they",$FE
+	db	"thought they were",$FE
+	db	"intruders.",$FD
+	db	RIGHT, BASARA, GFX0
+	db	"What does that",$FE 
+	db	"mean?",$FD
+	db	LEFT, MYLENE, GFX1
+	db	"It's gonna get",$FE
+	db	"dangerous",$FE
+	db	"from here!",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Indeed, but we can",$FE
+	db	"only keep going...",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I don't get any",$FE
+	db	"of this,but anyway",$FE 
+	db	"let's keep",$FE
+	db	"fighting on!",$FE
+	db	"Bomber!",$FF

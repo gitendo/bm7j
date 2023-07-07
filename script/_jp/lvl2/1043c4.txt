@@ -1,0 +1,45 @@
+﻿; referenced at 41:43c4
+; located at 41:4fa9
+
+LEFT, GAMLIN, GFX1
+"ここは[]一体",$FE
+"どうなっているんだ",$FD
+
+RIGHT, MILIA, GFX1
+"私に喧嘩を売るとは",$FE
+"バカな奴等ね",$FD
+
+LEFT, BASARA, GFX3
+"俺の歌を聞きに",$FE
+"集まって来てるぜ！",$FD
+
+RIGHT, GAMLIN, GFX2
+"どういう神経を",$FE
+"しているんだ…",$FD
+
+LEFT, MILIA, GFX0
+"けど[]マックスが",$FE
+"言っていた事が",$FE
+"気になるわ",$FD
+
+RIGHT, GAMLIN, GFX0
+"先に進むしか",$FE
+"ないでしょうね",$FD
+
+LEFT, BASARA, GFX3
+"どっかでサボって",$FE
+"いるんじゃないか？",$FD
+
+RIGHT, MILIA, GFX1
+"そんなわけ",$FE
+"ないでしょ！！",$FD
+
+LEFT, GAMLIN, GFX0
+"海を越えて",$FE
+"みましょう",$FD
+
+RIGHT, BASARA, GFX3
+"俺の歌を",$FE
+"聞かせてやるぜー！",$FF
+
+; size: 362 bytes

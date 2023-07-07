@@ -1,0 +1,39 @@
+﻿; referenced at 41:43ca
+; located at 41:5357
+
+LEFT, MYLENE, GFX1
+"一体どうなってるの",$FE
+"ここは！",$FD
+
+RIGHT, RAY, GFX3
+"すごい歓迎ぶりだな",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, MAX, GFX2
+"やれやれ…",$FD
+
+RIGHT, MYLENE, GFX0
+"けど[]人が",$FE
+"いない感じね",$FD
+
+LEFT, RAY, GFX0
+"確かにな",$FD
+
+RIGHT, MAX, GFX0
+"敵の対応が",$FE
+"早すぎるな",$FD
+
+LEFT, MYLENE, GFX3
+"海の香りがするわ！",$FD
+
+RIGHT, RAY, GFX0
+"とりあえず",$FE
+"海を越えてみよう",$FD
+
+RIGHT, MAX, GFX3
+"海なんて",$FE
+"久しぶりだな",$FF
+
+; size: 232 bytes

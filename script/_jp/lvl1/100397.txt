@@ -1,0 +1,36 @@
+﻿; referenced at 40:4397
+; located at 40:44b1
+
+LEFT, BASARA, GFX3
+"お前らも",$FE
+"歌いに来たのか？",$FD
+
+RIGHT, MYLENE, GFX1
+"そんなわけ",$FE
+"ないでしょ！！",$FD
+
+LEFT, GAMLIN, GFX2
+"バサラにそんな事を",$FE
+"言っても無駄ですよ",$FE
+"ミレーヌさん",$FD
+
+RIGHT, MYLENE, GFX2
+"そうは言っても…",$FD
+
+LEFT, BASARA, GFX1
+"ごちゃごちゃと",$FE
+"うるせーぞ外野共！",$FD
+
+RIGHT, MYLENE, GFX1
+"ちょっと！！なんか",$FE
+"攻撃して来るわよ！",$FD
+
+LEFT, GAMLIN, GFX1
+"バサラといると",$FE
+"いつもこうだ…",$FD
+
+LEFT, BASARA, GFX3
+"行くぜ！！",$FE
+"ボンバー！！",$FF
+
+; size: 286 bytes

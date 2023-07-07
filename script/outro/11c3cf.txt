@@ -1,0 +1,19 @@
+; referenced at 47:43cf
+; located at 47:4f94
+;		 <---------------->
+	db	LEFT, MILIA, GFX0
+	db	"Is Mylene here?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"...",$FD
+	db	LEFT, RAY, GFX0
+	db	"How unusual.",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"Mylene has invited",$FE
+	db	"us.",$FD
+	db	LEFT, MAX, GFX0
+	db	"If she hadn't done",$FE
+	db	"it, we wouldn't be",$FE
+	db	"here.",$FD
+	db	RIGHT, RAY, GFX3
+	db	"I'm sure Mylene",$FE
+	db	"will be so happy.",$FF

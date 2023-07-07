@@ -1,0 +1,51 @@
+﻿; referenced at 45:43a9
+; located at 45:48d5
+
+LEFT, BASARA, GFX3
+"ヨッシャー！！",$FD
+
+RIGHT, MILIA, GFX0
+"あとは帰るだけね",$FD
+
+LEFT, MYLENE, GFX0
+"要塞を",$FE
+"破壊したんだもんね",$FD
+
+RIGHT, BASARA, GFX3
+"まだまだ",$FE
+"歌いたりねーぜ！",$FD
+
+LEFT, MILIA, GFX3
+"元気なものね",$FD
+
+RIGHT, MYLENE, GFX1
+"ママ！！敵の攻撃が",$FE
+"止まないわ！",$FD
+
+LEFT, MILIA, GFX1
+"なんですって？！",$FD
+
+RIGHT, BASARA, GFX1
+"なんか奥から",$FE
+"でけぇ奴が来るぜ",$FD
+
+LEFT, MYLENE, GFX2
+"もぅ[]いや！！",$FD
+
+RIGHT, MILIA, GFX0
+"一旦退いて[]体制を",$FE
+"整えましょう！！",$FD
+
+LEFT, BASARA, GFX1
+"ここまで来て",$FE
+"やめられるか！！",$FD
+
+RIGHT, MYLENE, GFX1
+"何言っているのよ！",$FE
+"ここはもう",$FE
+"崩れそうなのよ！",$FD
+
+LEFT, MILIA, GFX0
+"コイツが敵の本体…",$FF
+
+; size: 383 bytes

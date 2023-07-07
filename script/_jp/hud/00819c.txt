@@ -1,0 +1,7 @@
+﻿; referenced at 02:419c
+; located at 02:456c
+
+"出撃するぞ！！",$1E,$FE
+"",$FF,$FF
+
+; size: 18 bytes

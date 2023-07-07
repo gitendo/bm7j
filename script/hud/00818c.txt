@@ -1,0 +1,5 @@
+; referenced at 02:418c
+; located at 02:4510
+;		 <------------>
+	db	"Miss Mylene!  ",$FE,$FF
+	db	$FF

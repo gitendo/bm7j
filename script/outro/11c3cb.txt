@@ -1,0 +1,20 @@
+; referenced at 47:43cb
+; located at 47:4df9
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX0
+	db	"Captain Max is",$FE
+	db	"here.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"Is Mylene here?",$FD
+	db	LEFT, RAY, GFX0
+	db	"Looks like she's",$FE
+	db	"looking for you.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"We've missed each",$FE
+	db	"other.",$FD
+	db	LEFT, MAX, GFX0
+	db	"Please tell Mylene",$FE
+	db	"about us.",$FD
+	db	RIGHT, RAY, GFX3
+	db	"I'm sure Mylene",$FE
+	db	"will be happy.",$FF

@@ -1,0 +1,34 @@
+; referenced at 41:43c8
+; located at 41:5230
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"What is",$FE
+	db	"this place?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"Such an amazing",$FE
+	db	"welcome.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, GAMLIN, GFX2
+	db	"Do you really",$FE
+	db	"think so?",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"But there are no",$FE
+	db	"people here.",$FD
+	db	LEFT, RAY, GFX0
+	db	"Indeed.",$FD
+	db	LEFT, GAMLIN, GFX0
+	db	"This is more",$FE
+	db	"like a fortress.",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"I smell the ocean!",$FD
+	db	LEFT, RAY, GFX0
+	db	"At any rate,",$FE
+	db	"let's go",$FE
+	db	"toward the ocean.",$FD
+	db	RIGHT, GAMLIN, GFX3
+	db	"I wanted to see",$FE
+	db	"Mylene in a bikini",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"Why are you",$FE
+	db	"blushing, Gamlin?",$FF

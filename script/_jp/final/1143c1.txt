@@ -1,0 +1,56 @@
+﻿; referenced at 45:43c1
+; located at 45:5a55
+
+LEFT, MYLENE, GFX3
+"ヤッター！！",$FE
+"倒したわ！",$FD
+
+RIGHT, MILIA, GFX0
+"後は戻るだけね",$FD
+
+LEFT, MAX, GFX0
+"撤収しよう",$FD
+
+RIGHT, MYLENE, GFX0
+"なんか様子が",$FE
+"おかしくない？",$FD
+
+LEFT, MAX, GFX1
+"本体を倒せば洗脳は",$FE
+"解けるはずじゃ",$FE
+"ないのか",$FD
+
+RIGHT, MILIA, GFX1
+"どうやらまだ",$FE
+"遊び足りない",$FE
+"ようね",$FD
+
+LEFT, MYLENE, GFX1
+"さっきのが",$FE
+"ここのボスじゃ",$FE
+"なかったの？！",$FD
+
+RIGHT, MAX, GFX2
+"どうやら奴は",$FE
+"本体ではなかった",$FE
+"らしいな…",$FD
+
+LEFT, MILIA, GFX0
+"マックス！ここは",$FE
+"もうもたないわよ",$FD
+
+RIGHT, MYLENE, GFX2
+"どうしよう！",$FD
+
+LEFT, MAX, GFX1
+"一旦退いて",$FE
+"体勢を整えるぞ",$FD
+
+RIGHT, MILIA, GFX0
+"それがよさそうね",$FD
+
+LEFT, MYLENE, GFX2
+"バサラ…",$FE
+"大丈夫なの…",$FF
+
+; size: 413 bytes

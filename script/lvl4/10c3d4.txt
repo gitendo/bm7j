@@ -1,0 +1,34 @@
+; referenced at 43:43d4
+; located at 43:5bc2
+;		 <---------------->
+	db	LEFT, MAX, GFX0
+	db	"What is this",$FE
+	db	"place?",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"This is not a cave",$FE
+	db	"this is a man-made",$FD
+	db	LEFT, RAY, GFX0
+	db	"Their commander",$FE
+	db	"must be inside.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MAX, GFX2
+	db	"It was probably",$FE
+	db	"the right thing to",$FE
+	db	"come here.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Yes, but it's a",$FE
+	db	"dangerous place.",$FD
+	db	LEFT, RAY, GFX0
+	db	"What about the",$FE
+	db	"path to go back?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"If we can destroy",$FE
+	db	"the stronghold",$FE
+	db	"here.",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"I wonder who the",$FE
+	db	"commander is?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"If we keep going,",$FE
+	db	"we'll find out.",$FF

@@ -1,0 +1,10 @@
+﻿; referenced at 44:7bf2
+; located at 44:7cc5
+
+"調査隊からの",$FE
+"報告によると",$FE
+"サウンド攻撃で",$FE
+"敵による洗脳が",$FE
+"とけるようです！",$FF
+
+; size: 78 bytes

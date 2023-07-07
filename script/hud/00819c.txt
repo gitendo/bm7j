@@ -1,0 +1,6 @@
+; referenced at 02:419c
+; located at 02:456c
+;		 <------------>
+	db	"I will launch "
+	db	"the attack!   ",$FE,$2D
+	db	$FF

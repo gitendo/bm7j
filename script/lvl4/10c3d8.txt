@@ -1,0 +1,31 @@
+; referenced at 43:43d8
+; located at 43:5e90
+;		 <---------------->
+	db	LEFT, MAX, GFX0
+	db	"Is this an",$FE
+	db	"entrance?",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"What do you",$FE
+	db	"think is inside?",$FD
+	db	LEFT, RAY, GFX0
+	db	"The core of",$FE
+	db	"the planet?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MILIA, GFX0
+	db	"The path has",$FE
+	db	"been blocked.",$FD
+	db	RIGHT, MAX, GFX0
+	db	"If we can destroy",$FE
+	db	"the stronghold",$FE
+	db	"here.",$FD
+	db	LEFT, RAY, GFX0
+	db	"This is getting",$FE
+	db	"harsher and",$FE
+	db	"harsher.",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"We can only keep",$FE
+	db	"going forward.",$FD
+	db	LEFT, MAX, GFX2
+	db	"I don't think this",$FE
+	db	"will go smoothly.",$FF

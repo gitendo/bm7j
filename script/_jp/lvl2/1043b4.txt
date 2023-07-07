@@ -1,0 +1,46 @@
+﻿; referenced at 41:43b4
+; located at 41:43da
+
+LEFT, MYLENE, GFX1
+"一体どうなってるの",$FE
+"バサラ！！",$FD
+
+RIGHT, BASARA, GFX1
+"俺が知るかよ！！",$FD
+
+RIGHT, RAY, GFX3
+"まぁ[]喧嘩をするな",$FD
+
+LEFT, MYLENE, GFX2
+"バサラが勝手な事を",$FE
+"するから…",$FD
+
+RIGHT, VEFFIDAS, GFX0
+"……",$FD
+
+LEFT, RAY, GFX0
+"街が見当たらないな",$FD
+
+RIGHT, MYLENE, GFX0
+"本当",$FE
+"何か要塞みたい",$FD
+
+LEFT, BASARA, GFX0
+"俺の歌を",$FE
+"聞きたがってる奴が",$FE
+"待っているぜ",$FD
+
+RIGHT, MYLENE, GFX1
+"この状態で",$FE
+"まだ言っているの？",$FD
+
+LEFT, RAY, GFX0
+"もう少し",$FE
+"調べてみる必要は",$FE
+"ありそうだな",$FD
+
+RIGHT, BASARA, GFX3
+"俺の歌を",$FE
+"聞かせてやるぜー！",$FF
+
+; size: 331 bytes

@@ -1,0 +1,53 @@
+﻿; referenced at 41:43ba
+; located at 41:4837
+
+LEFT, MYLENE, GFX1
+"一体どうなってるの",$FE
+"バサラ！！",$FD
+
+RIGHT, BASARA, GFX1
+"俺が知るかよ！！",$FD
+
+LEFT, MILIA, GFX3
+"私に喧嘩を売るとは",$FE
+"バカな奴等ね",$FD
+
+RIGHT, MYLENE, GFX2
+"何で攻撃して",$FE
+"くるのかしら…",$FD
+
+LEFT, MILIA, GFX0
+"マックスが言うには",$FE
+"調査隊からの連絡が",$FE
+"無いらしいわ",$FD
+
+RIGHT, BASARA, GFX3
+"どっかで",$FE
+"サボっているんじゃ",$FE
+"ないか？",$FD
+
+LEFT, MYLENE, GFX1
+"バサラじゃ",$FE
+"ないんだから",$FE
+"そんな事あるわけ",$FE
+"無いでしょ！",$FD
+
+RIGHT, MILIA, GFX0
+"けど街らしい物が",$FE
+"見当たらないわね",$FD
+
+LEFT, MYLENE, GFX0
+"本当…何か",$FE
+"街というよりも",$FE
+"要塞みたいね",$FD
+
+RIGHT, BASARA, GFX0
+"俺の歌を聞く耳は",$FE
+"持ってるみたいじゃ",$FE
+"ねーか",$FD
+
+LEFT, MILIA, GFX0
+"もう少し調査を",$FE
+"してみましょう",$FF
+
+; size: 455 bytes

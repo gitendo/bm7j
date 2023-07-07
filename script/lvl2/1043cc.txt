@@ -1,0 +1,33 @@
+; referenced at 41:43cc
+; located at 41:543f
+;		 <---------------->
+	db	LEFT, MYLENE, GFX1
+	db	"How come!",$FE
+	db	"They're right here",$FD
+	db	RIGHT, RAY, GFX3
+	db	"Such an amazing",$FE
+	db	"welcome.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MILIA, GFX3
+	db	"Good move.",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"Wait, mama!",$FD
+	db	LEFT, MILIA, GFX0
+	db	"But is there",$FE
+	db	"no city here?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Indeed.",$FD
+	db	RIGHT, MYLENE, GFX0
+	db	"Mama, do you",$FE
+	db	"smell the tide?",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MILIA, GFX3
+	db	"There must",$FE
+	db	"be an ocean, ",$FE
+	db	"let's go there.",$FD
+	db	RIGHT, MYLENE, GFX3
+	db	"An ocean, eh?",$FE
+	db	"I'd like to take",$FE
+	db	"a swim.",$FF

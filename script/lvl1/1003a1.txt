@@ -1,0 +1,31 @@
+; referenced at 40:43a1
+; located at 40:4a62
+;		 <---------------->
+	db	LEFT, BASARA, GFX1
+	db	"Why are you guys",$FE
+	db	"coming with me!?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"It's okay, right?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, MILIA, GFX3
+	db	"You don't mind,",$FE
+	db	"right? I won't",$FE
+	db	"interrupt your",$FE
+	db	"songs, so have fun",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Then, let's rock",$FE
+	db	"on, lady!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"It's so nostalgic",$FE
+	db	"to be back in the",$FE
+	db	"heat of battle.",$FE
+	db	"I miss my SDF-1",$FE
+	db	"pilot days...",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Looks like we are",$FE
+	db	"up for a",$FE
+	db	"big welcome!",$FD
+	db	LEFT, BASARA, GFX3
+	db	"Let's go!",$FE
+	db	"Bomber!",$FF

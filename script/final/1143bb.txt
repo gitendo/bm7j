@@ -1,0 +1,45 @@
+; referenced at 45:43bb
+; located at 45:5640
+;		 <---------------->
+	db	LEFT, MYLENE, GFX3
+	db	"Yay! We have",$FE
+	db	"defeated them!",$FD
+	db	RIGHT, RAY, GFX0
+	db	"Now everything",$FE
+	db	"is fine, right?",$FD
+	db	LEFT, MILIA, GFX3
+	db	"We can go home now",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"Wait, mama! The",$FE
+	db	"enemy is still",$FE 
+	db	"attacking!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Looks like play",$FE
+	db	"time isn't",$FE
+	db	"over yet...",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"So the guy earlier",$FE
+	db	"was not the",$FE
+	db	"commander!?",$FD
+	db	LEFT, RAY, GFX1
+	db	"I think we were",$FE 
+	db	"mistaken.",$FD
+	db	RIGHT, MILIA, GFX1
+	db	"This place is",$FE
+	db	"collapsing.",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"What should",$FE
+	db	"we do!?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"This place is",$FE 
+	db	"dangerous!",$FE 
+	db	"Run away!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Let's go to the",$FE
+	db	"Macross and get",$FE 
+	db	"the system ready!",$FD
+	db	RIGHT, MYLENE, GFX2
+	db	"Basara... I wonder",$FE
+	db	"if he's okay...",$FF

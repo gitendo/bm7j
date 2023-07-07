@@ -1,0 +1,51 @@
+﻿; referenced at 45:43bf
+; located at 45:58e7
+
+LEFT, MYLENE, GFX3
+"ヤッター！！",$FE
+"倒したわ！",$FD
+
+RIGHT, GAMLIN, GFX0
+"もう大丈夫でしょう",$FD
+
+LEFT, MILIA, GFX0
+"後は戻るだけね",$FD
+
+RIGHT, MYLENE, GFX0
+"なんか様子が",$FE
+"おかしくない？",$FD
+
+LEFT, GAMLIN, GFX1
+"市長！敵がまだ",$FE
+"攻撃してきます！",$FD
+
+RIGHT, MILIA, GFX1
+"どうやら",$FE
+"遊び足りない",$FE
+"ようね",$FD
+
+LEFT, MYLENE, GFX1
+"さっきのが",$FE
+"ここのボスじゃ",$FE
+"なかったの？！",$FD
+
+RIGHT, GAMLIN, GFX1
+"巨大な",$FE
+"生命反応を確認！",$FD
+
+LEFT, MYLENE, GFX2
+"どうしよう！",$FD
+
+RIGHT, MILIA, GFX1
+"ここは危険ね",$FE
+"一旦退きましょう",$FD
+
+LEFT, GAMLIN, GFX1
+"応援を呼んで",$FE
+"体勢を整えれば…",$FD
+
+RIGHT, MYLENE, GFX2
+"バサラ…",$FE
+"大丈夫なの…",$FF
+
+; size: 366 bytes

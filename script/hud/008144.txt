@@ -1,0 +1,6 @@
+; referenced at 02:4144
+; located at 02:42ac
+;		 <------------>
+	db	"Keep going!   "
+	db	"Not over yet! ",$FE,$FF
+	db	$FF

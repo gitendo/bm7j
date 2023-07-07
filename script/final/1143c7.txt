@@ -1,0 +1,41 @@
+; referenced at 45:43c7
+; located at 45:5eaf
+;		 <---------------->
+	db	LEFT, RAY, GFX0
+	db	"This is over,",$FE
+	db	"right?",$FD
+	db	RIGHT, MAX, GFX0
+	db	"The brainwashed",$FE 
+	db	"soldiers should",$FE
+	db	"have been freed",$FE
+	db	"now!",$FD
+	db	LEFT, MILIA, GFX0
+	db	"We can go home now",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, RAY, GFX1
+	db	"The enemy is",$FE 
+	db	"still attacking!",$FD
+	db	RIGHT, MAX, GFX1
+	db	"Just because we",$FE
+	db	"have defeated",$FE
+	db	"them, it doesn't",$FE
+	db	"mean the",$FE 
+	db	"brainwashing has",$FE
+	db	"stopped!",$FD
+	db	LEFT, MILIA, GFX1
+	db	"Looks like play",$FE
+	db	"time isn't",$FE
+	db	"over yet...",$FD
+	db	RIGHT, RAY, GFX0
+	db	"So it was not",$FE 
+	db	"that guy, then?",$FD
+	db	LEFT, MAX, GFX1
+	db	"Call for support!",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"That's the",$FE
+	db	"best choice!",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, RAY, GFX2
+	db	"Basara...",$FF

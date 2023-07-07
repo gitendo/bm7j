@@ -1,0 +1,61 @@
+﻿; referenced at 44:43b6
+; located at 44:45a5
+
+LEFT, MYLENE, GFX2
+"なんか",$FE
+"キモチワルイ所…",$FD
+
+RIGHT, BASARA, GFX3
+"何弱気な事",$FE
+"言ってんだよ",$FD
+
+LEFT, GAMLIN, GFX2
+"鈍感な奴だ",$FD
+
+RIGHT, MYLENE, GFX0
+"何かの生物の",$FE
+"体の中みたい…",$FD
+
+LEFT, GAMLIN, GFX0
+"いかにも",$FE
+"怪しい雰囲気ですね",$FD
+
+RIGHT, BASARA, GFX0
+"何だって",$FE
+"いいじゃねーか",$FD
+
+RIGHT, MYLENE, GFX1
+"あれ[]調査隊じゃ",$FE
+"ないかしら？",$FD
+
+LEFT, GAMLIN, GFX1
+"大丈夫ですか！",$FD
+
+RIGHT, PILOT, GFX0
+"ここは危険です…",$FE
+"撤退して下さい",$FD
+
+LEFT, BASARA, GFX1
+"どういう事だ？",$FD
+
+RIGHT, PILOT, GFX0
+"こいつらの目的は",$FE
+"我々だ",$FD
+
+LEFT, MYLENE, GFX1
+"エッ？",$FD
+
+RIGHT, PILOT, GFX0
+"攻撃しているのは",$FE
+"洗脳された者たち",$FE
+"なのです…",$FD
+
+LEFT, BASARA, GFX2
+"やっばりな",$FD
+
+LEFT, MYLENE, GFX1
+"そこで待っていて！",$FE
+"そんな事する奴",$FE
+"許せない！！",$FF
+
+; size: 437 bytes

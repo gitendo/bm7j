@@ -1,0 +1,42 @@
+; referenced at 41:43bc
+; located at 41:49fe
+;		 <---------------->
+	db	LEFT, GAMLIN, GFX1
+	db	"What is this",$FE
+	db	"supposed to mean?",$FD
+	db	RIGHT, RAY, GFX3
+	db	"It seems that we",$FE
+	db	"are not welcome.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, BASARA, GFX3
+	db	"They're here to",$FE
+	db	"listen to my songs",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"What nerve you've",$FE
+	db	"got there!?",$FD
+	db	LEFT, RAY, GFX0
+	db	"But we can't find",$FE
+	db	"anything that",$FE
+	db	"resembles a city.",$FD
+	db	LEFT, BASARA, GFX0
+	db	"Looks like the",$FE
+	db	"number of enemies",$FE
+	db	"is not small.",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"Instead of city,",$FE
+	db	"this looks more",$FE
+	db	"like a fortress.",$FD
+	db	LEFT, RAY, GFX0
+	db	"Do you think the",$FE
+	db	"team got our call?",$FD
+	db	RIGHT, GAMLIN, GFX2
+	db	"I don't think so.",$FD
+	db	LEFT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, RAY, GFX0
+	db	"There might be",$FE
+	db	"something ahead.",$FD
+	db	LEFT, BASARA, GFX3
+	db	"I will let them",$FE
+	db	"hear my songs!",$FF

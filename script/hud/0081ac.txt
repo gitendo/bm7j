@@ -1,0 +1,7 @@
+; referenced at 02:41ac
+; located at 02:45f0
+;		 <------------>
+	db	"How could this"
+	db	"happen?       ",$FE,$3C
+	db	"What is it...?",$FE,$3C
+	db	$FF

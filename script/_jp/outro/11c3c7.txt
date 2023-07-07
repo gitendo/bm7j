@@ -1,0 +1,28 @@
+﻿; referenced at 47:43c7
+; located at 47:4c6b
+
+LEFT, GAMLIN, GFX0
+"ミレーヌさん",$FE
+"ミリア市長が",$FE
+"いらっしゃって",$FE
+"いますよ",$FD
+
+LEFT, MILIA, GFX0
+"応援に来たわよ",$FD
+
+RIGHT, MYLENE, GFX3
+"ママ！",$FE
+"ありがとう！！",$FD
+
+LEFT, GAMLIN, GFX0
+"今日は",$FE
+"最高のステージに",$FE
+"なりそうですね",$FD
+
+RIGHT, MILIA, GFX3
+"がんばりなさい",$FD
+
+LEFT, MYLENE, GFX3
+"うん[]まかせて！！",$FF
+
+; size: 190 bytes

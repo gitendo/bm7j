@@ -1,0 +1,36 @@
+; referenced at 40:43a9
+; located at 40:4f60
+;		 <---------------->
+	db	LEFT, MYLENE, GFX2
+	db	"Geez, Basara...",$FD
+	db	RIGHT, RAY, GFX3
+	db	"It's the usual",$FE
+	db	"thing, right?",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	RIGHT, GAMLIN, GFX0
+	db	"You don't need to",$FE
+	db	"worry about him.",$FD
+	db	LEFT, MYLENE, GFX0
+	db	"How far is he",$FE
+	db	"going to go?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"All of us can",$FE
+	db	"join him now.",$FD
+	db	LEFT, MYLENE, GFX2
+	db	"It's a good",$FE
+	db	"thing anyway.",$FD
+	db	RIGHT, GAMLIN, GFX3
+	db	"Just let him be,",$FE
+	db	"Mylene.",$FD
+	db	RIGHT, VEFFIDAS, GFX1
+	db	".....!!!",$FD
+	db	LEFT, GAMLIN, GFX1
+	db	"What!?",$FD
+	db	LEFT, RAY, GFX0
+	db	"Looks like this is",$FE
+	db	"not going to",$FE
+	db	"be easy!",$FD
+	db	RIGHT, MYLENE, GFX1
+	db	"I knew this was",$FE
+	db	"going to happen!",$FF

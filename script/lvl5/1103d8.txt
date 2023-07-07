@@ -1,0 +1,45 @@
+; referenced at 44:43d8
+; located at 44:5fbd
+;		 <---------------->
+	db	LEFT, RAY, GFX0
+	db	"The behavior of",$FE
+	db	"the enemy is",$FE
+	db	"quite strange.",$FD
+	db	RIGHT, MILIA, GFX0
+	db	"You're right.",$FD
+	db	LEFT, MAX, GFX2
+	db	"It's like they're",$FE
+	db	"being manipulated.",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, MILIA, GFX0
+	db	"Is that a member",$FE
+	db	"of the Assessment",$FE
+	db	"team?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"You are safe.",$FD
+	db	LEFT, PILOT, GFX0
+	db	"It's dangerous",$FE
+	db	"here...",$FE
+	db	"Please return.",$FD
+	db	RIGHT, MAX, GFX1
+	db	"What happened!?",$FD
+	db	LEFT, PILOT, GFX0
+	db	"All of those",$FE
+	db	"creatures are",$FE
+	db	"targeting us...",$FD
+	db	RIGHT, VEFFIDAS, GFX0
+	db	"...",$FD
+	db	LEFT, PILOT, GFX0
+	db	"Many of them seem",$FE
+	db	"to be brainwashed",$FD
+	db	RIGHT, MAX, GFX2
+	db	"I see....",$FD
+	db	LEFT, MILIA, GFX2
+	db	"How can we stop",$FE
+	db	"them, then?",$FD
+	db	RIGHT, RAY, GFX0
+	db	"if we defeat",$FE
+	db	"the commander,",$FE
+	db	"we will have a",$FE
+	db	"good chance!",$FF
