@@ -1,3 +1,10 @@
+### Notice
+Starting October 12th, 2023 GitHub is enforcing mandatory [two-factor authentication](https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13/) on my account.  
+I'm not going to comply and move all my activity to GitLab instead.  
+Any future updates / releases will be available at: [https://gitlab.com/gitendo/bm7j](https://gitlab.com/gitendo/bm7j)  
+Thanks and see you there!
+___
+
 # Macross 7: Let's take on the heart of the galaxy!
 
 English translation of Macross 7: Ginga no Heart o Furuwasero!! (マクロス7 銀河のハートを奮わせろ!!) created for Wildfang Translations. Started on Jun 2019, finished on Oct 2021, released now. Thank Ichido for all delays. `¯\_(ツ)_/¯`
